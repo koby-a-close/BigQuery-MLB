@@ -1,0 +1,3 @@
+SELECT gameId, MAX(homeTeamName), MAX(homeFinalRuns), MAX(homeFinalHits), MAX(homeFinalErrors), MAX(awayTeamName), MAX(awayFinalRuns), MAX(awayFinalHits), MAX(awayFinalErrors)
+FROM `bigquery-public-data.baseball.games_wide`
+GROUP BY gameId
