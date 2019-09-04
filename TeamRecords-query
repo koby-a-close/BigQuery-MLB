@@ -1,0 +1,38 @@
+SELECT Team, Home_Wins, Home_Losses, Away_Wins, Away_Losses
+FROM
+(SELECT homeTeamName AS Team, COUNT(homeTeamName) AS Home_Wins
+  FROM(
+  SELECT gameId, MAX(homeTeamName) AS homeTeamName, MAX(homeFinalRuns), MAX(awayFinalRuns)
+  FROM `bigquery-public-data.baseball.games_wide`
+  WHERE homeFinalRuns > awayFinalRuns
+  GROUP BY gameId)
+  GROUP BY homeTeamName),
+  
+(SELECT homeTeamName AS Team2, COUNT(homeTeamName) AS Home_Losses
+  FROM(
+  SELECT gameId, MAX(homeTeamName) AS homeTeamName, MAX(homeFinalRuns), MAX(awayFinalRuns)
+  FROM `bigquery-public-data.baseball.games_wide`
+  WHERE homeFinalRuns < awayFinalRuns
+  GROUP BY gameId)
+  GROUP BY Team2),
+  
+(SELECT awayTeamName AS Team3, COUNT(awayTeamName) AS Away_Wins
+FROM(
+  SELECT gameId, MAX(homeFinalRuns), MAX(awayTeamName) AS awayTeamName, MAX(awayFinalRuns)
+  FROM `bigquery-public-data.baseball.games_wide`
+  WHERE homeFinalRuns < awayFinalRuns
+  GROUP BY gameId)
+  GROUP BY Team3),
+
+(SELECT awayTeamName AS Team4, COUNT(awayTeamName) AS Away_Losses
+FROM(
+  SELECT gameId, MAX(homeFinalRuns), MAX(awayTeamName) AS awayTeamName, MAX(awayFinalRuns)
+  FROM `bigquery-public-data.baseball.games_wide`
+  WHERE homeFinalRuns > awayFinalRuns
+  GROUP BY gameId)
+  GROUP BY Team4)
+ 
+WHERE Team = Team2
+AND Team = Team3
+AND Team = Team4
+ORDER BY Team
