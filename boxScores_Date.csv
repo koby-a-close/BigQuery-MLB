@@ -1,0 +1,2429 @@
+Date,Home_Team,Home_Runs,Home_Hits,Home_Errors,Away_Team,Away_Runs,Away_Hits,Away_Errors
+2016-04-03,Pirates,4,9,1,Cardinals,1,5,0
+2016-04-03,Rays,3,7,1,Blue Jays,5,7,2
+2016-04-03,Royals,4,9,0,Mets,3,7,1
+2016-04-04,Brewers,3,8,1,Giants,12,15,0
+2016-04-04,Orioles,3,10,0,Twins,2,7,0
+2016-04-04,Rangers,3,1,1,Mariners,2,4,2
+2016-04-04,Reds,6,6,0,Phillies,2,6,2
+2016-04-04,Braves,3,4,2,Nationals,4,8,0
+2016-04-04,Padres,0,4,2,Dodgers,15,17,0
+2016-04-04,Rays,3,8,0,Blue Jays,5,7,1
+2016-04-04,Diamondbacks,5,12,0,Rockies,10,15,0
+2016-04-04,Angels,0,3,1,Cubs,9,11,0
+2016-04-04,Athletics,3,7,2,White Sox,4,7,1
+2016-04-05,Yankees,3,4,1,Astros,5,6,0
+2016-04-05,Indians,2,5,1,Red Sox,6,11,0
+2016-04-05,Royals,0,3,0,Mets,2,6,0
+2016-04-05,Pirates,6,12,2,Cardinals,5,8,1
+2016-04-05,Marlins,7,10,2,Tigers,8,12,1
+2016-04-05,Rays,3,7,1,Blue Jays,2,9,0
+2016-04-05,Rangers,2,7,1,Mariners,10,11,1
+2016-04-05,Brewers,1,6,0,Giants,2,7,0
+2016-04-05,Diamondbacks,11,15,0,Rockies,6,9,0
+2016-04-05,Angels,1,4,0,Cubs,6,9,1
+2016-04-05,Athletics,4,10,0,White Sox,5,11,0
+2016-04-05,Padres,0,2,1,Dodgers,3,6,0
+2016-04-06,Rays,5,10,0,Blue Jays,3,6,0
+2016-04-06,Brewers,4,9,2,Giants,3,6,0
+2016-04-06,Rangers,5,7,0,Mariners,9,14,0
+2016-04-06,Diamondbacks,3,8,0,Rockies,4,8,1
+2016-04-06,Marlins,3,10,1,Tigers,7,13,0
+2016-04-06,Indians,7,9,0,Red Sox,6,10,1
+2016-04-06,Yankees,16,17,0,Astros,6,12,1
+2016-04-06,Orioles,4,9,0,Twins,2,5,0
+2016-04-06,Pirates,5,9,0,Cardinals,1,4,3
+2016-04-06,Reds,3,8,0,Phillies,2,5,0
+2016-04-06,Braves,1,8,1,Nationals,3,8,0
+2016-04-06,Padres,0,5,0,Dodgers,7,11,1
+2016-04-06,Athletics,2,7,0,White Sox,1,6,0
+2016-04-07,Reds,10,12,1,Phillies,6,9,1
+2016-04-07,Athletics,1,4,2,White Sox,6,10,1
+2016-04-07,Yankees,8,12,0,Astros,5,9,1
+2016-04-07,Nationals,4,6,1,Marlins,6,13,1
+2016-04-07,Giants,12,17,0,Dodgers,6,13,1
+2016-04-07,Orioles,4,8,1,Twins,2,9,0
+2016-04-07,Diamondbacks,6,8,2,Cubs,14,14,0
+2016-04-07,Angels,4,11,1,Rangers,3,4,0
+2016-04-08,Tigers,4,13,0,Yankees,0,3,0
+2016-04-08,Mets,7,9,1,Phillies,2,8,1
+2016-04-08,White Sox,1,3,1,Indians,7,9,0
+2016-04-08,Rockies,6,9,0,Padres,13,18,0
+2016-04-08,Orioles,6,10,0,Rays,1,5,0
+2016-04-08,Blue Jays,7,9,1,Red Sox,8,11,0
+2016-04-08,Reds,5,6,3,Pirates,6,8,3
+2016-04-08,Braves,4,5,0,Cardinals,7,11,2
+2016-04-08,Brewers,6,7,0,Astros,4,9,0
+2016-04-08,Royals,4,9,0,Twins,3,6,1
+2016-04-08,Diamondbacks,3,8,0,Cubs,2,5,1
+2016-04-08,Angels,3,7,1,Rangers,7,10,0
+2016-04-08,Mariners,2,4,2,Athletics,3,9,2
+2016-04-08,Giants,3,2,0,Dodgers,2,9,0
+2016-04-09,Blue Jays,4,7,1,Red Sox,8,11,1
+2016-04-09,Reds,5,8,1,Pirates,1,10,1
+2016-04-09,Tigers,4,7,1,Yankees,8,13,1
+2016-04-09,White Sox,7,10,1,Indians,3,7,3
+2016-04-09,Giants,2,5,1,Dodgers,3,10,0
+2016-04-09,Mets,0,3,0,Phillies,1,8,0
+2016-04-09,Braves,2,4,3,Cardinals,12,14,3
+2016-04-09,Brewers,4,8,2,Astros,6,9,0
+2016-04-09,Royals,7,10,0,Twins,0,7,2
+2016-04-09,Diamondbacks,2,4,1,Cubs,4,10,0
+2016-04-09,Rockies,3,8,2,Padres,16,19,1
+2016-04-09,Angels,1,5,2,Rangers,4,10,0
+2016-04-09,Mariners,1,5,0,Athletics,6,11,0
+2016-04-10,Blue Jays,3,7,0,Red Sox,0,7,1
+2016-04-10,Mets,2,4,0,Phillies,5,9,0
+2016-04-10,Reds,2,10,0,Pirates,1,9,0
+2016-04-10,Orioles,5,11,1,Rays,3,8,0
+2016-04-10,Nationals,4,11,0,Marlins,2,7,0
+2016-04-10,Braves,7,11,0,Cardinals,12,10,1
+2016-04-10,Brewers,3,6,1,Astros,2,3,1
+2016-04-10,Royals,4,7,2,Twins,3,11,1
+2016-04-10,Angels,3,7,0,Rangers,1,7,1
+2016-04-10,Giants,9,12,0,Dodgers,6,10,0
+2016-04-10,Diamondbacks,3,8,0,Cubs,7,12,0
+2016-04-10,Mariners,1,6,0,Athletics,2,5,1
+2016-04-10,Rockies,6,9,1,Padres,3,8,0
+2016-04-11,Tigers,4,6,0,Pirates,7,17,1
+2016-04-11,Red Sox,7,11,0,Orioles,9,9,2
+2016-04-11,Phillies,3,8,0,Padres,4,6,0
+2016-04-11,Twins,1,6,1,White Sox,4,9,0
+2016-04-11,Cardinals,10,19,0,Brewers,1,6,1
+2016-04-11,Nationals,6,11,0,Braves,4,8,1
+2016-04-11,Mets,3,7,0,Marlins,10,15,1
+2016-04-11,Cubs,5,3,0,Reds,3,7,1
+2016-04-11,Astros,8,14,0,Royals,2,11,0
+2016-04-11,Athletics,1,10,0,Angels,4,9,0
+2016-04-11,Mariners,3,7,0,Rangers,7,14,0
+2016-04-12,Tigers,8,14,1,Pirates,2,5,1
+2016-04-12,Dodgers,2,9,1,Diamondbacks,4,9,0
+2016-04-12,Phillies,3,4,1,Padres,0,4,2
+2016-04-12,Nationals,2,8,1,Braves,1,6,0
+2016-04-12,Blue Jays,2,3,1,Yankees,3,7,1
+2016-04-12,Mets,1,6,0,Marlins,2,9,0
+2016-04-12,Red Sox,5,10,0,Orioles,9,11,0
+2016-04-12,Rays,5,5,0,Indians,1,5,0
+2016-04-12,Astros,2,7,0,Royals,3,7,0
+2016-04-12,Rockies,2,7,0,Giants,7,13,1
+2016-04-12,Athletics,4,7,0,Angels,5,10,1
+2016-04-12,Mariners,0,4,0,Rangers,8,12,1
+2016-04-13,Mets,2,7,0,Marlins,1,7,0
+2016-04-13,Athletics,1,3,0,Angels,5,11,1
+2016-04-13,Mariners,4,8,1,Rangers,2,6,3
+2016-04-13,Pirates,3,4,0,Tigers,7,10,0
+2016-04-13,Phillies,2,5,1,Padres,1,6,3
+2016-04-13,Nationals,3,4,0,Braves,0,5,0
+2016-04-13,Blue Jays,7,10,0,Yankees,2,8,1
+2016-04-13,Red Sox,4,8,0,Orioles,2,9,0
+2016-04-13,Rays,1,5,2,Indians,4,5,0
+2016-04-13,Cubs,9,8,0,Reds,2,7,0
+2016-04-13,Twins,0,4,0,White Sox,3,9,0
+2016-04-13,Astros,2,6,1,Royals,4,8,1
+2016-04-13,Cardinals,4,6,2,Brewers,6,9,1
+2016-04-13,Rockies,10,18,0,Giants,6,7,1
+2016-04-13,Dodgers,3,7,0,Diamondbacks,1,5,3
+2016-04-14,Pirates,4,14,1,Tigers,7,9,2
+2016-04-14,Phillies,3,3,0,Padres,0,3,1
+2016-04-14,Twins,1,4,1,White Sox,3,9,1
+2016-04-14,Rays,0,5,2,Indians,6,13,0
+2016-04-14,Cardinals,7,11,0,Brewers,0,1,0
+2016-04-14,Rockies,11,13,3,Giants,6,9,1
+2016-04-14,Nationals,6,6,0,Braves,2,5,0
+2016-04-14,Blue Jays,4,8,0,Yankees,2,3,0
+2016-04-14,Rangers,6,10,0,Orioles,3,9,0
+2016-04-14,Cubs,8,11,0,Reds,1,6,2
+2016-04-14,Astros,2,5,0,Royals,6,13,0
+2016-04-14,Dodgers,5,8,0,Diamondbacks,2,6,1
+2016-04-15,Cubs,1,4,4,Rockies,6,11,1
+2016-04-15,Yankees,1,6,1,Mariners,7,12,0
+2016-04-15,Pirates,4,8,1,Brewers,8,11,2
+2016-04-15,Phillies,1,4,1,Nationals,9,16,1
+2016-04-15,Indians,5,14,1,Mets,6,14,2
+2016-04-15,Red Sox,5,9,0,Blue Jays,3,3,1
+2016-04-15,Rays,0,2,0,White Sox,1,6,1
+2016-04-15,Marlins,3,12,0,Braves,6,8,2
+2016-04-15,Rangers,5,6,1,Orioles,11,13,1
+2016-04-15,Twins,5,8,1,Angels,4,9,0
+2016-04-15,Astros,1,5,0,Tigers,0,5,1
+2016-04-15,Cardinals,14,13,0,Reds,3,7,3
+2016-04-15,Athletics,2,5,1,Royals,4,12,1
+2016-04-15,Dodgers,7,9,1,Giants,3,5,3
+2016-04-15,Padres,2,8,1,Diamondbacks,3,8,1
+2016-04-16,Yankees,2,10,1,Mariners,3,10,1
+2016-04-16,Twins,6,10,0,Angels,4,9,0
+2016-04-16,Cardinals,8,10,0,Reds,9,15,2
+2016-04-16,Cubs,6,8,0,Rockies,2,7,1
+2016-04-16,Red Sox,4,9,0,Blue Jays,2,7,0
+2016-04-16,Athletics,5,10,2,Royals,3,9,1
+2016-04-16,Indians,7,11,0,Mets,5,8,0
+2016-04-16,Rays,7,10,0,White Sox,2,7,0
+2016-04-16,Pirates,5,8,0,Brewers,0,3,0
+2016-04-16,Phillies,1,7,1,Nationals,8,8,0
+2016-04-16,Marlins,4,8,1,Braves,6,10,0
+2016-04-16,Astros,3,8,1,Tigers,5,15,0
+2016-04-16,Rangers,8,14,0,Orioles,4,10,1
+2016-04-16,Padres,5,14,2,Diamondbacks,3,11,1
+2016-04-16,Dodgers,3,5,0,Giants,4,8,0
+2016-04-17,Yankees,4,8,1,Mariners,3,6,1
+2016-04-17,Indians,0,3,2,Mets,6,9,0
+2016-04-17,Rays,3,8,0,White Sox,2,5,1
+2016-04-17,Marlins,5,7,1,Braves,6,7,0
+2016-04-17,Red Sox,3,4,0,Blue Jays,5,14,1
+2016-04-17,Phillies,3,7,0,Nationals,2,8,0
+2016-04-17,Pirates,9,17,0,Brewers,3,6,1
+2016-04-17,Twins,3,13,1,Angels,2,4,0
+2016-04-17,Astros,5,9,1,Tigers,4,8,1
+2016-04-17,Cardinals,4,7,2,Reds,3,8,1
+2016-04-17,Cubs,0,3,1,Rockies,2,5,0
+2016-04-17,Athletics,3,4,1,Royals,2,6,0
+2016-04-17,Dodgers,3,6,0,Giants,1,5,0
+2016-04-18,Red Sox,3,7,1,Blue Jays,4,8,0
+2016-04-18,Phillies,2,7,0,Mets,5,10,0
+2016-04-18,Reds,1,4,0,Rockies,5,7,1
+2016-04-18,Marlins,6,10,0,Nationals,1,6,1
+2016-04-18,Cardinals,0,5,1,Cubs,5,9,0
+2016-04-18,White Sox,0,3,1,Angels,7,13,0
+2016-04-18,Twins,7,14,1,Brewers,4,6,1
+2016-04-18,Giants,7,13,0,Diamondbacks,9,16,0
+2016-04-19,Twins,5,8,2,Brewers,6,9,1
+2016-04-19,Indians,3,10,0,Mariners,2,6,0
+2016-04-19,Orioles,3,7,1,Blue Jays,4,8,0
+2016-04-19,Phillies,1,9,1,Mets,11,12,0
+2016-04-19,Yankees,2,8,0,Athletics,3,11,1
+2016-04-19,Reds,4,9,0,Rockies,3,5,1
+2016-04-19,Red Sox,0,1,1,Rays,3,6,0
+2016-04-19,Marlins,0,5,0,Nationals,7,10,0
+2016-04-19,Braves,8,10,0,Dodgers,1,5,3
+2016-04-19,Royals,8,9,1,Tigers,6,10,0
+2016-04-19,Rangers,7,12,0,Astros,5,8,1
+2016-04-19,White Sox,5,9,0,Angels,0,3,0
+2016-04-19,Cardinals,1,7,0,Cubs,2,5,0
+2016-04-19,Padres,5,9,2,Pirates,4,11,0
+2016-04-19,Giants,0,6,0,Diamondbacks,3,8,0
+2016-04-20,Reds,6,9,0,Rockies,5,8,0
+2016-04-20,Cardinals,5,9,0,Cubs,3,5,1
+2016-04-20,White Sox,2,5,1,Angels,1,4,1
+2016-04-20,Indians,1,4,1,Mariners,2,3,1
+2016-04-20,Phillies,5,10,0,Mets,4,14,0
+2016-04-20,Orioles,4,9,0,Blue Jays,3,9,0
+2016-04-20,Yankees,2,6,1,Athletics,5,11,2
+2016-04-20,Marlins,1,5,0,Nationals,3,7,0
+2016-04-20,Red Sox,7,12,0,Rays,3,7,0
+2016-04-20,Braves,3,7,2,Dodgers,5,10,1
+2016-04-20,Royals,2,10,0,Tigers,3,9,1
+2016-04-20,Rangers,2,6,1,Astros,1,7,2
+2016-04-20,Brewers,10,13,0,Twins,5,12,1
+2016-04-20,Padres,8,12,1,Pirates,2,8,0
+2016-04-20,Giants,1,7,0,Diamondbacks,2,7,0
+2016-04-21,Indians,7,8,0,Mariners,10,15,1
+2016-04-21,Braves,1,11,3,Dodgers,2,9,1
+2016-04-21,Marlins,5,9,0,Nationals,1,2,0
+2016-04-21,Red Sox,8,15,1,Rays,12,15,3
+2016-04-21,Brewers,1,5,1,Twins,8,11,0
+2016-04-21,White Sox,2,5,0,Angels,3,6,0
+2016-04-21,Giants,2,3,1,Diamondbacks,6,10,0
+2016-04-21,Orioles,3,10,0,Blue Jays,2,4,0
+2016-04-21,Yankees,3,8,0,Athletics,7,10,1
+2016-04-21,Reds,0,0,1,Cubs,16,18,0
+2016-04-21,Royals,4,10,1,Tigers,0,5,1
+2016-04-21,Rangers,7,14,0,Astros,4,7,1
+2016-04-21,Padres,1,5,0,Pirates,11,11,0
+2016-04-22,Yankees,6,10,1,Rays,3,9,1
+2016-04-22,Nationals,8,9,1,Twins,4,8,0
+2016-04-22,Blue Jays,5,8,2,Athletics,8,14,0
+2016-04-22,Reds,1,5,1,Cubs,8,9,0
+2016-04-22,Tigers,1,4,0,Indians,2,6,0
+2016-04-22,Braves,3,10,1,Mets,6,10,1
+2016-04-22,Astros,2,6,0,Red Sox,6,15,1
+2016-04-22,White Sox,5,7,0,Rangers,0,5,1
+2016-04-22,Brewers,2,6,0,Phillies,5,10,0
+2016-04-22,Royals,4,8,0,Orioles,2,5,0
+2016-04-22,Rockies,7,9,1,Dodgers,5,8,0
+2016-04-22,Diamondbacks,7,15,1,Pirates,8,13,1
+2016-04-22,Angels,2,6,0,Mariners,5,10,0
+2016-04-22,Giants,8,14,1,Marlins,1,8,0
+2016-04-22,Padres,4,9,0,Cardinals,1,6,1
+2016-04-23,Yankees,3,7,0,Rays,2,6,2
+2016-04-23,Nationals,2,7,0,Twins,0,2,0
+2016-04-23,Blue Jays,9,13,0,Athletics,3,7,1
+2016-04-23,Tigers,1,2,1,Indians,10,15,1
+2016-04-23,White Sox,4,11,1,Rangers,3,7,0
+2016-04-23,Astros,8,12,1,Red Sox,3,9,0
+2016-04-23,Reds,13,15,1,Cubs,5,7,2
+2016-04-23,Braves,2,10,1,Mets,8,15,0
+2016-04-23,Brewers,6,10,1,Phillies,10,13,0
+2016-04-23,Royals,3,7,0,Orioles,8,14,1
+2016-04-23,Diamondbacks,7,7,0,Pirates,1,4,1
+2016-04-23,Rockies,1,6,0,Dodgers,4,10,1
+2016-04-23,Padres,2,5,0,Cardinals,11,16,1
+2016-04-23,Angels,4,7,0,Mariners,2,6,1
+2016-04-23,Giants,7,13,1,Marlins,2,8,0
+2016-04-24,Yankees,1,6,0,Rays,8,12,0
+2016-04-24,Blue Jays,6,11,0,Athletics,3,5,0
+2016-04-24,Reds,0,3,0,Cubs,9,15,0
+2016-04-24,Tigers,3,7,0,Indians,6,11,0
+2016-04-24,Nationals,6,16,0,Twins,5,11,1
+2016-04-24,Braves,2,12,0,Mets,3,7,0
+2016-04-24,Brewers,8,12,1,Phillies,5,10,2
+2016-04-24,White Sox,4,8,1,Rangers,1,8,0
+2016-04-24,Royals,6,11,0,Orioles,1,4,1
+2016-04-24,Angels,4,6,3,Mariners,9,8,0
+2016-04-24,Giants,4,12,0,Marlins,5,14,2
+2016-04-24,Diamondbacks,10,15,2,Pirates,12,20,0
+2016-04-24,Rockies,10,11,1,Dodgers,12,11,2
+2016-04-24,Padres,5,9,1,Cardinals,8,14,2
+2016-04-24,Astros,5,11,3,Red Sox,7,16,1
+2016-04-25,Blue Jays,5,14,0,White Sox,7,11,0
+2016-04-25,Mets,5,10,1,Reds,3,8,0
+2016-04-25,Tigers,7,12,2,Athletics,3,10,0
+2016-04-25,Rays,2,5,0,Orioles,0,5,0
+2016-04-25,Braves,0,4,2,Red Sox,1,6,0
+2016-04-25,Rangers,1,3,0,Yankees,3,10,1
+2016-04-25,Twins,4,5,1,Indians,3,12,0
+2016-04-25,Rockies,1,9,0,Pirates,6,9,0
+2016-04-25,Diamondbacks,12,18,0,Cardinals,7,11,1
+2016-04-25,Angels,6,8,1,Royals,1,4,0
+2016-04-25,Dodgers,2,7,0,Marlins,3,8,1
+2016-04-25,Mariners,3,4,0,Astros,2,10,0
+2016-04-25,Giants,5,12,0,Padres,4,11,0
+2016-04-26,Nationals,3,7,0,Phillies,4,9,1
+2016-04-26,Blue Jays,1,4,1,White Sox,10,15,0
+2016-04-26,Tigers,1,6,0,Athletics,5,10,0
+2016-04-26,Mets,4,8,1,Reds,3,10,0
+2016-04-26,Rays,3,7,0,Orioles,1,9,0
+2016-04-26,Braves,4,8,0,Red Sox,11,13,1
+2016-04-26,Rangers,10,13,0,Yankees,1,6,0
+2016-04-26,Cubs,4,7,0,Brewers,3,4,1
+2016-04-26,Twins,6,14,0,Indians,5,6,0
+2016-04-26,Rockies,4,8,0,Pirates,9,12,1
+2016-04-26,Diamondbacks,2,5,0,Cardinals,8,11,0
+2016-04-26,Angels,9,14,0,Royals,4,9,1
+2016-04-26,Mariners,11,13,1,Astros,1,3,1
+2016-04-26,Dodgers,3,6,0,Marlins,6,11,1
+2016-04-26,Giants,1,4,0,Padres,0,7,0
+2016-04-27,Giants,13,16,0,Padres,9,9,1
+2016-04-27,Nationals,0,2,1,Phillies,3,7,0
+2016-04-27,Blue Jays,0,4,0,White Sox,4,7,0
+2016-04-27,Mets,5,5,2,Reds,2,7,3
+2016-04-27,Red Sox,9,11,1,Braves,4,6,0
+2016-04-27,Rays,1,4,0,Orioles,3,3,0
+2016-04-27,Tigers,9,9,0,Athletics,4,8,2
+2016-04-27,Rangers,3,5,0,Yankees,2,7,0
+2016-04-27,Twins,5,9,2,Indians,6,10,2
+2016-04-27,Rockies,8,18,0,Pirates,9,15,0
+2016-04-27,Diamondbacks,4,10,1,Cardinals,11,14,1
+2016-04-27,Angels,4,5,0,Royals,2,10,0
+2016-04-27,Dodgers,0,2,0,Marlins,2,8,0
+2016-04-27,Mariners,4,10,1,Astros,7,9,0
+2016-04-28,Tigers,7,11,0,Athletics,3,6,0
+2016-04-28,Cubs,7,8,2,Brewers,2,6,2
+2016-04-28,Nationals,0,4,0,Phillies,3,6,0
+2016-04-28,Orioles,10,15,0,White Sox,2,10,1
+2016-04-28,Red Sox,3,10,0,Braves,5,12,2
+2016-04-28,Diamondbacks,3,6,1,Cardinals,0,3,0
+2016-04-28,Dodgers,3,8,0,Marlins,5,9,1
+2016-04-29,Cubs,6,7,0,Braves,1,7,0
+2016-04-29,Orioles,6,8,0,White Sox,3,6,2
+2016-04-29,Pirates,4,7,0,Reds,1,6,0
+2016-04-29,Phillies,4,10,0,Indians,3,6,1
+2016-04-29,Mets,13,12,1,Giants,1,9,0
+2016-04-29,Red Sox,4,8,0,Yankees,2,6,1
+2016-04-29,Rays,1,9,0,Blue Jays,6,7,0
+2016-04-29,Rangers,4,8,0,Angels,2,10,0
+2016-04-29,Brewers,3,4,0,Marlins,6,10,2
+2016-04-29,Twins,2,7,0,Tigers,9,18,0
+2016-04-29,Cardinals,4,10,0,Nationals,5,7,1
+2016-04-29,Diamondbacks,0,5,0,Rockies,9,12,0
+2016-04-29,Athletics,7,11,0,Astros,4,7,1
+2016-04-29,Dodgers,1,6,1,Padres,5,9,0
+2016-04-29,Mariners,1,1,2,Royals,0,6,0
+2016-04-30,Twins,1,7,2,Tigers,4,6,1
+2016-04-30,Cardinals,1,8,3,Nationals,6,6,1
+2016-04-30,Mets,6,8,1,Giants,5,6,0
+2016-04-30,Athletics,2,5,0,Astros,0,4,0
+2016-04-30,Rays,4,9,1,Blue Jays,3,3,1
+2016-04-30,Phillies,4,7,0,Indians,3,9,0
+2016-04-30,Orioles,7,14,2,White Sox,8,10,2
+2016-04-30,Pirates,5,10,2,Reds,1,6,0
+2016-04-30,Brewers,5,7,1,Marlins,7,14,0
+2016-04-30,Red Sox,8,14,1,Yankees,0,5,0
+2016-04-30,Rangers,7,12,0,Angels,2,9,2
+2016-04-30,Diamondbacks,2,5,1,Rockies,5,13,0
+2016-04-30,Dodgers,2,4,0,Padres,5,9,0
+2016-04-30,Mariners,6,7,0,Royals,0,5,0
+2016-05-01,Mets,1,10,0,Giants,6,8,0
+2016-05-01,Rays,1,4,1,Blue Jays,5,5,0
+2016-05-01,Orioles,1,8,0,White Sox,7,13,0
+2016-05-01,Pirates,5,9,4,Reds,6,8,0
+2016-05-01,Brewers,14,18,0,Marlins,5,16,1
+2016-05-01,Twins,5,11,0,Tigers,6,14,0
+2016-05-01,Cardinals,1,6,0,Nationals,6,11,0
+2016-05-01,Cubs,3,6,1,Braves,4,5,1
+2016-05-01,Phillies,2,4,2,Indians,1,4,0
+2016-05-01,Rangers,6,13,0,Angels,9,15,1
+2016-05-01,Athletics,1,8,0,Astros,2,2,0
+2016-05-01,Diamondbacks,3,11,0,Rockies,6,7,1
+2016-05-01,Mariners,1,8,1,Royals,4,11,0
+2016-05-01,Dodgers,1,3,0,Padres,0,3,1
+2016-05-01,Red Sox,8,14,0,Yankees,7,9,2
+2016-05-02,Pirates,2,7,2,Cubs,7,11,0
+2016-05-02,Blue Jays,1,7,0,Rangers,2,7,0
+2016-05-02,Mets,4,8,0,Braves,1,9,0
+2016-05-02,Reds,6,8,0,Giants,9,14,0
+2016-05-02,Brewers,8,14,0,Angels,5,11,1
+2016-05-02,Astros,2,5,0,Twins,6,8,0
+2016-05-02,Royals,0,5,0,Nationals,2,9,0
+2016-05-02,Cardinals,10,14,0,Phillies,3,8,1
+2016-05-02,Athletics,3,6,1,Mariners,4,12,0
+2016-05-02,Padres,2,6,0,Rockies,1,9,0
+2016-05-03,Indians,7,10,0,Tigers,3,12,0
+2016-05-03,Orioles,4,5,0,Yankees,1,7,2
+2016-05-03,Pirates,1,3,0,Cubs,7,11,1
+2016-05-03,Blue Jays,3,9,1,Rangers,1,6,0
+2016-05-03,Mets,0,1,0,Braves,3,8,1
+2016-05-03,Rays,5,8,1,Dodgers,10,13,0
+2016-05-03,Marlins,7,8,0,Diamondbacks,4,9,1
+2016-05-03,Reds,1,3,0,Giants,3,10,0
+2016-05-03,Brewers,5,7,0,Angels,4,9,0
+2016-05-03,White Sox,4,5,0,Red Sox,1,4,0
+2016-05-03,Astros,6,5,1,Twins,4,7,0
+2016-05-03,Royals,7,11,0,Nationals,6,12,0
+2016-05-03,Cardinals,0,3,0,Phillies,1,5,0
+2016-05-03,Athletics,2,6,0,Mariners,8,13,0
+2016-05-03,Padres,6,9,0,Rockies,3,5,0
+2016-05-04,Pirates,2,11,0,Cubs,6,13,0
+2016-05-04,Reds,7,10,0,Giants,4,9,1
+2016-05-04,Mets,8,8,0,Braves,0,3,0
+2016-05-04,Brewers,3,9,0,Angels,7,12,0
+2016-05-04,Royals,2,5,3,Nationals,13,16,1
+2016-05-04,Athletics,8,11,2,Mariners,9,16,2
+2016-05-04,Padres,0,3,1,Rockies,2,8,0
+2016-05-04,Indians,4,5,0,Tigers,0,5,0
+2016-05-04,Orioles,0,7,1,Yankees,7,10,0
+2016-05-04,Blue Jays,4,7,0,Rangers,3,8,0
+2016-05-04,Rays,8,10,0,Dodgers,5,8,1
+2016-05-04,Marlins,4,8,0,Diamondbacks,3,9,1
+2016-05-04,White Sox,2,3,0,Red Sox,5,11,0
+2016-05-04,Astros,16,14,0,Twins,4,9,1
+2016-05-04,Cardinals,5,10,0,Phillies,4,6,0
+2016-05-05,Cardinals,4,7,1,Phillies,0,5,0
+2016-05-05,Indians,9,16,1,Tigers,4,5,1
+2016-05-05,Orioles,1,7,0,Yankees,0,4,0
+2016-05-05,Blue Jays,12,15,1,Rangers,2,9,0
+2016-05-05,Reds,9,9,0,Brewers,5,10,1
+2016-05-05,Marlins,4,9,0,Diamondbacks,0,5,0
+2016-05-05,Cubs,5,8,0,Nationals,2,3,0
+2016-05-05,White Sox,3,8,0,Red Sox,7,12,0
+2016-05-05,Astros,3,8,0,Mariners,6,12,0
+2016-05-05,Padres,5,11,0,Mets,3,4,1
+2016-05-05,Giants,7,16,2,Rockies,17,17,0
+2016-05-06,Cubs,8,9,0,Nationals,6,9,0
+2016-05-06,Yankees,3,6,0,Red Sox,2,13,0
+2016-05-06,Blue Jays,5,5,0,Dodgers,2,10,0
+2016-05-06,Indians,7,9,0,Royals,1,9,0
+2016-05-06,Reds,5,6,0,Brewers,1,8,0
+2016-05-06,Tigers,1,2,0,Rangers,5,10,1
+2016-05-06,Marlins,6,10,0,Phillies,4,12,1
+2016-05-06,Braves,2,10,2,Diamondbacks,7,10,1
+2016-05-06,Astros,6,8,0,Mariners,3,5,1
+2016-05-06,White Sox,10,14,0,Twins,4,7,1
+2016-05-06,Cardinals,2,7,0,Pirates,4,8,1
+2016-05-06,Angels,2,8,0,Rays,5,11,1
+2016-05-06,Giants,6,9,1,Rockies,4,8,0
+2016-05-06,Padres,2,8,0,Mets,0,3,0
+2016-05-07,Orioles,4,7,0,Athletics,8,15,1
+2016-05-07,Yankees,8,11,1,Red Sox,2,6,0
+2016-05-07,Blue Jays,2,9,2,Dodgers,6,7,0
+2016-05-07,Tigers,5,11,0,Rangers,10,10,0
+2016-05-07,Cardinals,6,9,1,Pirates,4,11,0
+2016-05-07,Cubs,8,11,1,Nationals,5,6,0
+2016-05-07,Giants,2,7,0,Rockies,1,12,0
+2016-05-07,Indians,0,6,0,Royals,7,12,0
+2016-05-07,Orioles,5,8,0,Athletics,2,9,1
+2016-05-07,Reds,7,11,3,Brewers,13,15,2
+2016-05-07,Astros,2,8,1,Mariners,3,11,0
+2016-05-07,Braves,2,4,1,Diamondbacks,4,10,0
+2016-05-07,Marlins,3,10,1,Phillies,4,5,0
+2016-05-07,White Sox,7,13,0,Twins,2,4,0
+2016-05-07,Padres,3,8,0,Mets,6,9,0
+2016-05-07,Angels,2,7,2,Rays,4,8,1
+2016-05-08,Blue Jays,2,5,1,Dodgers,4,8,1
+2016-05-08,Indians,5,8,0,Royals,4,9,2
+2016-05-08,Marlins,5,10,1,Phillies,6,10,1
+2016-05-08,Reds,4,6,0,Brewers,5,7,0
+2016-05-08,Tigers,3,6,1,Rangers,8,12,0
+2016-05-08,Orioles,11,12,1,Athletics,3,7,0
+2016-05-08,Braves,3,11,0,Diamondbacks,5,9,0
+2016-05-08,White Sox,3,6,0,Twins,1,7,0
+2016-05-08,Astros,5,9,0,Mariners,1,5,2
+2016-05-08,Cardinals,5,10,0,Pirates,10,14,0
+2016-05-08,Cubs,4,14,1,Nationals,3,11,1
+2016-05-08,Angels,1,5,0,Rays,3,7,0
+2016-05-08,Giants,0,6,0,Rockies,2,9,0
+2016-05-08,Padres,3,8,2,Mets,4,11,0
+2016-05-08,Yankees,1,3,1,Red Sox,5,7,0
+2016-05-09,Yankees,6,9,1,Royals,3,10,0
+2016-05-09,Nationals,5,7,0,Tigers,4,7,1
+2016-05-09,Reds,3,9,0,Pirates,2,5,0
+2016-05-09,Red Sox,14,15,1,Athletics,7,11,0
+2016-05-09,Marlins,4,12,1,Brewers,1,5,3
+2016-05-09,Rangers,4,9,2,White Sox,8,15,0
+2016-05-09,Astros,7,8,1,Indians,1,3,1
+2016-05-09,Rockies,5,13,0,Diamondbacks,10,12,1
+2016-05-09,Mariners,5,9,0,Rays,2,4,1
+2016-05-09,Dodgers,2,6,1,Mets,4,8,2
+2016-05-09,Giants,1,4,0,Blue Jays,3,7,0
+2016-05-10,Yankees,10,13,0,Royals,7,9,1
+2016-05-10,Nationals,4,11,0,Tigers,5,9,0
+2016-05-10,Red Sox,13,16,1,Athletics,5,15,2
+2016-05-10,Braves,2,6,1,Phillies,3,9,0
+2016-05-10,Marlins,2,8,2,Brewers,10,12,0
+2016-05-10,Cubs,8,12,1,Padres,7,8,0
+2016-05-10,Rangers,13,17,1,White Sox,11,13,0
+2016-05-10,Astros,0,4,0,Indians,4,8,0
+2016-05-10,Twins,3,6,1,Orioles,5,14,0
+2016-05-10,Rockies,1,4,0,Diamondbacks,5,14,1
+2016-05-10,Angels,1,7,1,Cardinals,8,14,1
+2016-05-10,Mariners,6,11,0,Rays,4,6,1
+2016-05-10,Dodgers,3,10,1,Mets,2,5,0
+2016-05-10,Giants,0,6,0,Blue Jays,4,9,1
+2016-05-11,Cubs,4,9,3,Padres,7,10,2
+2016-05-11,Twins,2,8,0,Orioles,9,16,0
+2016-05-11,Rangers,6,10,2,White Sox,5,11,0
+2016-05-11,Astros,5,10,1,Indians,3,14,0
+2016-05-11,Rockies,8,14,0,Diamondbacks,7,13,1
+2016-05-11,Mariners,6,8,0,Rays,5,10,0
+2016-05-11,Giants,5,12,2,Blue Jays,4,11,2
+2016-05-11,Yankees,3,7,0,Royals,7,9,0
+2016-05-11,Nationals,3,9,0,Tigers,2,6,0
+2016-05-11,Reds,4,6,1,Pirates,5,6,0
+2016-05-11,Red Sox,13,17,0,Athletics,3,8,0
+2016-05-11,Braves,5,10,0,Phillies,1,4,2
+2016-05-11,Marlins,3,5,0,Brewers,2,8,0
+2016-05-11,Cubs,0,4,0,Padres,1,3,1
+2016-05-11,Angels,2,4,1,Cardinals,5,9,1
+2016-05-11,Dodgers,3,7,0,Mets,4,8,1
+2016-05-12,Orioles,7,12,1,Tigers,5,13,0
+2016-05-12,Yankees,7,7,0,Royals,3,9,0
+2016-05-12,Red Sox,11,14,1,Astros,1,7,1
+2016-05-12,Braves,4,8,1,Phillies,7,10,0
+2016-05-12,Brewers,0,8,0,Padres,3,7,0
+2016-05-12,Diamondbacks,2,10,0,Giants,4,8,0
+2016-05-12,Angels,10,15,2,Cardinals,12,18,1
+2016-05-12,Dodgers,5,8,0,Mets,0,3,0
+2016-05-13,Cubs,9,11,1,Pirates,4,11,0
+2016-05-13,Phillies,3,7,1,Reds,2,4,0
+2016-05-13,Orioles,1,4,0,Tigers,0,6,0
+2016-05-13,Yankees,1,6,0,White Sox,7,9,0
+2016-05-13,Nationals,5,9,2,Marlins,3,8,0
+2016-05-13,Indians,7,8,2,Twins,6,8,1
+2016-05-13,Rays,3,5,0,Athletics,6,11,1
+2016-05-13,Red Sox,6,11,0,Astros,7,13,0
+2016-05-13,Rangers,0,3,1,Blue Jays,5,9,0
+2016-05-13,Brewers,1,7,2,Padres,0,3,0
+2016-05-13,Royals,5,7,1,Braves,1,7,2
+2016-05-13,Rockies,5,12,0,Mets,2,6,0
+2016-05-13,Diamondbacks,1,8,0,Giants,3,8,0
+2016-05-13,Mariners,6,10,0,Angels,7,13,0
+2016-05-13,Dodgers,8,11,1,Cardinals,4,9,4
+2016-05-14,Red Sox,6,14,0,Astros,5,11,0
+2016-05-14,Yankees,2,5,0,White Sox,1,5,0
+2016-05-14,Nationals,6,9,1,Marlins,4,8,3
+2016-05-14,Cubs,8,11,0,Pirates,2,3,1
+2016-05-14,Indians,3,7,0,Twins,6,11,0
+2016-05-14,Rays,6,8,0,Athletics,0,2,1
+2016-05-14,Phillies,4,10,1,Reds,3,7,0
+2016-05-14,Orioles,9,11,0,Tigers,3,5,1
+2016-05-14,Nationals,1,5,0,Marlins,7,11,0
+2016-05-14,Brewers,7,10,0,Padres,8,13,4
+2016-05-14,Royals,0,8,0,Braves,5,11,1
+2016-05-14,Rangers,6,9,1,Blue Jays,5,10,0
+2016-05-14,Diamondbacks,3,8,0,Giants,5,12,1
+2016-05-14,Rockies,7,12,1,Mets,4,13,1
+2016-05-14,Dodgers,5,6,2,Cardinals,3,5,1
+2016-05-14,Mariners,7,11,1,Angels,9,13,0
+2016-05-15,Yankees,7,10,0,White Sox,5,12,2
+2016-05-15,Indians,1,9,1,Twins,5,7,0
+2016-05-15,Rays,6,6,0,Athletics,7,12,1
+2016-05-15,Phillies,4,12,2,Reds,9,14,1
+2016-05-15,Orioles,5,7,0,Tigers,6,13,1
+2016-05-15,Red Sox,10,14,3,Astros,9,8,2
+2016-05-15,Nationals,1,7,2,Marlins,5,9,1
+2016-05-15,Brewers,3,11,0,Padres,2,7,0
+2016-05-15,Royals,4,12,1,Braves,2,10,0
+2016-05-15,Cubs,1,4,0,Pirates,2,5,0
+2016-05-15,Rangers,7,9,1,Blue Jays,6,12,0
+2016-05-15,Mariners,0,2,0,Angels,3,9,0
+2016-05-15,Diamondbacks,1,8,0,Giants,2,4,1
+2016-05-15,Rockies,4,6,0,Mets,3,8,0
+2016-05-15,Dodgers,2,6,0,Cardinals,5,7,0
+2016-05-16,Indians,15,19,1,Reds,6,12,2
+2016-05-16,Phillies,3,10,1,Marlins,5,10,1
+2016-05-16,Pirates,8,14,1,Braves,5,9,0
+2016-05-16,Blue Jays,2,8,1,Rays,13,17,0
+2016-05-16,Tigers,10,14,3,Twins,8,11,0
+2016-05-16,Diamondbacks,12,15,1,Yankees,2,8,2
+2016-05-16,Athletics,3,4,0,Rangers,1,4,1
+2016-05-16,Dodgers,6,9,0,Angels,7,12,1
+2016-05-17,Indians,13,17,0,Reds,1,5,0
+2016-05-17,Phillies,3,6,0,Marlins,1,8,1
+2016-05-17,Orioles,0,2,1,Mariners,10,12,1
+2016-05-17,Pirates,12,21,1,Braves,9,15,3
+2016-05-17,Blue Jays,2,5,2,Rays,12,17,0
+2016-05-17,Mets,2,4,0,Nationals,0,5,0
+2016-05-17,Tigers,7,10,0,Twins,2,7,0
+2016-05-17,White Sox,5,11,2,Astros,6,11,0
+2016-05-17,Brewers,4,5,0,Cubs,2,3,0
+2016-05-17,Royals,8,11,0,Red Sox,4,8,2
+2016-05-17,Cardinals,1,6,1,Rockies,3,7,0
+2016-05-17,Diamondbacks,5,10,0,Yankees,3,6,2
+2016-05-17,Athletics,8,12,2,Rangers,5,15,0
+2016-05-17,Dodgers,5,13,0,Angels,1,4,1
+2016-05-17,Padres,1,5,1,Giants,5,10,1
+2016-05-18,Phillies,4,8,0,Marlins,2,6,1
+2016-05-18,Tigers,6,13,0,Twins,3,7,3
+2016-05-18,Royals,3,5,0,Red Sox,2,9,0
+2016-05-18,Athletics,8,12,0,Rangers,1,4,0
+2016-05-18,Orioles,5,8,0,Mariners,2,7,1
+2016-05-18,Pirates,1,6,0,Braves,3,10,0
+2016-05-18,Blue Jays,3,4,1,Rays,6,10,0
+2016-05-18,Reds,7,10,2,Indians,8,10,0
+2016-05-18,Mets,1,6,0,Nationals,7,8,0
+2016-05-18,White Sox,3,10,0,Astros,5,13,0
+2016-05-18,Brewers,1,6,1,Cubs,2,10,1
+2016-05-18,Royals,2,6,0,Red Sox,5,10,0
+2016-05-18,Cardinals,2,7,1,Rockies,0,6,1
+2016-05-18,Diamondbacks,2,2,0,Yankees,4,11,0
+2016-05-18,Angels,8,12,0,Dodgers,1,8,2
+2016-05-18,Padres,1,4,1,Giants,2,4,0
+2016-05-19,Orioles,2,6,1,Mariners,7,9,0
+2016-05-19,Brewers,5,8,0,Cubs,3,6,1
+2016-05-19,Pirates,8,11,0,Braves,2,7,0
+2016-05-19,Reds,2,5,2,Indians,7,10,1
+2016-05-19,Mets,1,6,1,Nationals,9,11,0
+2016-05-19,Cardinals,13,12,0,Rockies,7,9,0
+2016-05-19,White Sox,2,5,0,Astros,1,4,0
+2016-05-19,Twins,2,4,0,Blue Jays,3,9,1
+2016-05-19,Padres,1,4,1,Giants,3,9,0
+2016-05-19,Angels,7,11,0,Dodgers,4,6,0
+2016-05-19,Athletics,1,6,1,Yankees,4,10,0
+2016-05-20,Phillies,1,6,2,Braves,7,8,0
+2016-05-20,Pirates,2,8,0,Rockies,1,12,1
+2016-05-20,Reds,3,8,0,Mariners,8,10,0
+2016-05-20,Red Sox,2,6,1,Indians,4,8,1
+2016-05-20,Mets,3,7,0,Brewers,2,3,0
+2016-05-20,Marlins,1,9,0,Nationals,4,8,0
+2016-05-20,Tigers,5,11,1,Rays,7,8,2
+2016-05-20,Astros,1,6,0,Rangers,2,5,0
+2016-05-20,White Sox,1,6,1,Royals,4,12,1
+2016-05-20,Twins,3,10,0,Blue Jays,9,14,2
+2016-05-20,Cardinals,7,11,1,Diamondbacks,11,15,2
+2016-05-20,Athletics,3,6,3,Yankees,8,13,1
+2016-05-20,Angels,4,7,1,Orioles,9,14,1
+2016-05-20,Giants,1,6,0,Cubs,8,11,0
+2016-05-20,Padres,7,7,0,Dodgers,6,11,0
+2016-05-21,White Sox,1,7,0,Royals,2,8,1
+2016-05-21,Twins,5,4,0,Blue Jays,3,6,0
+2016-05-21,Phillies,0,2,0,Braves,2,6,0
+2016-05-21,Pirates,1,9,3,Rockies,5,6,1
+2016-05-21,Red Sox,9,13,2,Indians,1,2,0
+2016-05-21,Cardinals,6,10,1,Diamondbacks,2,8,1
+2016-05-21,Athletics,1,6,1,Yankees,5,8,0
+2016-05-21,Mets,5,9,0,Brewers,4,7,0
+2016-05-21,Reds,0,4,1,Mariners,4,6,0
+2016-05-21,Tigers,5,8,0,Rays,4,6,0
+2016-05-21,Astros,1,3,0,Rangers,2,6,0
+2016-05-21,Marlins,3,10,0,Nationals,2,8,1
+2016-05-21,Giants,5,9,0,Cubs,3,10,0
+2016-05-21,Angels,1,9,0,Orioles,3,5,0
+2016-05-21,Padres,3,5,0,Dodgers,2,4,1
+2016-05-22,Tigers,9,13,0,Rays,4,10,0
+2016-05-22,Reds,4,8,2,Mariners,5,12,0
+2016-05-22,Mets,3,6,1,Brewers,1,8,0
+2016-05-22,Marlins,2,6,1,Nationals,8,10,0
+2016-05-22,Phillies,5,13,0,Braves,0,6,0
+2016-05-22,Red Sox,5,12,0,Indians,2,6,0
+2016-05-22,White Sox,3,7,0,Royals,2,8,0
+2016-05-22,Astros,2,5,0,Rangers,9,13,1
+2016-05-22,Twins,1,3,1,Blue Jays,3,9,0
+2016-05-22,Cardinals,2,6,1,Diamondbacks,7,13,0
+2016-05-22,Angels,10,13,0,Orioles,2,5,1
+2016-05-22,Athletics,4,6,1,Yankees,5,10,2
+2016-05-22,Padres,5,9,0,Dodgers,9,16,1
+2016-05-22,Giants,1,4,0,Cubs,0,3,0
+2016-05-23,Pirates,6,7,0,Rockies,3,7,1
+2016-05-23,White Sox,7,10,0,Indians,6,7,2
+2016-05-23,Nationals,1,6,0,Mets,7,11,0
+2016-05-23,Marlins,7,14,0,Rays,6,12,0
+2016-05-23,Tigers,5,12,1,Phillies,4,12,1
+2016-05-23,Rangers,0,7,0,Angels,2,9,1
+2016-05-23,Twins,4,12,1,Royals,10,17,1
+2016-05-23,Cardinals,4,5,0,Cubs,3,9,1
+2016-05-23,White Sox,1,6,0,Indians,5,7,1
+2016-05-23,Mariners,0,9,2,Athletics,5,7,0
+2016-05-23,Dodgers,1,5,0,Reds,0,2,3
+2016-05-23,Giants,1,5,0,Padres,0,2,1
+2016-05-24,Marlins,3,8,1,Rays,4,9,2
+2016-05-24,Yankees,6,8,0,Blue Jays,0,2,0
+2016-05-24,Pirates,12,17,0,Diamondbacks,1,6,2
+2016-05-24,Nationals,7,11,0,Mets,4,5,0
+2016-05-24,Red Sox,8,12,0,Rockies,3,6,1
+2016-05-24,Cardinals,3,7,2,Cubs,12,15,1
+2016-05-24,Braves,1,5,0,Brewers,2,4,1
+2016-05-24,Tigers,3,7,0,Phillies,1,5,0
+2016-05-24,Rangers,4,7,0,Angels,1,7,0
+2016-05-24,Astros,3,8,1,Orioles,2,8,0
+2016-05-24,Twins,4,7,2,Royals,7,13,1
+2016-05-24,White Sox,2,6,0,Indians,6,10,0
+2016-05-24,Mariners,6,11,0,Athletics,5,9,0
+2016-05-24,Dodgers,8,11,0,Reds,2,3,3
+2016-05-24,Giants,8,9,1,Padres,2,9,1
+2016-05-25,Nationals,0,6,2,Mets,2,5,0
+2016-05-25,Twins,7,12,0,Royals,5,11,2
+2016-05-25,Tigers,5,9,3,Phillies,8,12,1
+2016-05-25,Cardinals,8,13,1,Cubs,9,10,1
+2016-05-25,Rangers,15,18,0,Angels,9,14,2
+2016-05-25,White Sox,3,9,0,Indians,4,8,3
+2016-05-25,Giants,4,10,0,Padres,3,9,1
+2016-05-25,Yankees,4,6,1,Blue Jays,8,11,0
+2016-05-25,Pirates,5,11,0,Diamondbacks,4,9,1
+2016-05-25,Rays,3,9,2,Marlins,4,13,0
+2016-05-25,Red Sox,10,13,0,Rockies,3,10,0
+2016-05-25,Braves,2,9,0,Brewers,3,11,0
+2016-05-25,Astros,4,8,1,Orioles,3,11,4
+2016-05-25,Dodgers,3,3,0,Reds,1,4,0
+2016-05-25,Mariners,13,17,0,Athletics,3,10,0
+2016-05-26,Pirates,8,12,1,Diamondbacks,3,13,1
+2016-05-26,Rays,1,7,1,Marlins,9,15,0
+2016-05-26,Yankees,1,4,1,Blue Jays,3,6,0
+2016-05-26,Nationals,2,7,1,Cardinals,1,6,0
+2016-05-26,Red Sox,2,6,1,Rockies,8,12,0
+2016-05-26,Braves,2,8,0,Brewers,6,10,0
+2016-05-26,Astros,4,6,1,Orioles,2,5,1
+2016-05-27,Cubs,6,10,2,Phillies,2,10,1
+2016-05-27,Nationals,2,8,0,Cardinals,6,4,2
+2016-05-27,Blue Jays,7,11,1,Red Sox,5,7,0
+2016-05-27,Indians,4,10,0,Orioles,6,13,0
+2016-05-27,Mets,6,9,1,Dodgers,5,8,0
+2016-05-27,Rays,1,4,2,Yankees,4,4,0
+2016-05-27,Braves,4,14,0,Marlins,2,8,0
+2016-05-27,Rangers,1,10,1,Pirates,9,14,0
+2016-05-27,Brewers,9,14,1,Reds,5,6,0
+2016-05-27,Royals,7,13,0,White Sox,5,8,0
+2016-05-27,Rockies,5,11,2,Giants,2,7,0
+2016-05-27,Diamondbacks,3,6,0,Padres,10,18,1
+2016-05-27,Athletics,1,5,0,Tigers,4,11,0
+2016-05-27,Angels,7,9,0,Astros,2,8,0
+2016-05-27,Mariners,2,5,0,Twins,7,10,0
+2016-05-28,Blue Jays,10,13,2,Red Sox,9,15,3
+2016-05-28,Royals,8,12,2,White Sox,7,11,0
+2016-05-28,Cubs,4,8,0,Phillies,1,5,0
+2016-05-28,Athletics,12,17,1,Tigers,3,6,0
+2016-05-28,Indians,11,13,0,Orioles,4,10,4
+2016-05-28,Braves,7,6,1,Marlins,2,7,2
+2016-05-28,Rays,9,13,0,Yankees,5,12,0
+2016-05-28,Brewers,6,7,0,Reds,7,11,1
+2016-05-28,Rockies,5,9,1,Giants,10,16,1
+2016-05-28,Mets,1,3,0,Dodgers,9,14,0
+2016-05-28,Nationals,4,7,0,Cardinals,9,12,0
+2016-05-28,Rangers,5,9,2,Pirates,2,7,0
+2016-05-28,Angels,2,3,0,Astros,4,9,0
+2016-05-28,Diamondbacks,8,10,1,Padres,7,10,1
+2016-05-28,Mariners,5,14,0,Twins,6,11,1
+2016-05-29,Blue Jays,3,10,0,Red Sox,5,9,0
+2016-05-29,Indians,4,8,0,Orioles,6,8,1
+2016-05-29,Rays,1,6,1,Yankees,2,1,1
+2016-05-29,Nationals,10,12,0,Cardinals,2,9,0
+2016-05-29,Brewers,5,8,0,Reds,4,9,0
+2016-05-29,Royals,5,11,0,White Sox,4,9,0
+2016-05-29,Cubs,7,10,0,Phillies,2,6,1
+2016-05-29,Rangers,6,7,1,Pirates,2,8,1
+2016-05-29,Angels,6,12,1,Astros,8,14,2
+2016-05-29,Athletics,4,9,0,Tigers,2,5,1
+2016-05-29,Diamondbacks,6,9,0,Padres,3,5,0
+2016-05-29,Rockies,3,8,2,Giants,8,17,1
+2016-05-29,Mariners,4,7,0,Twins,5,7,0
+2016-05-29,Braves,3,3,1,Marlins,7,10,1
+2016-05-29,Mets,2,5,2,Dodgers,4,9,0
+2016-05-30,Mets,1,7,0,White Sox,0,2,0
+2016-05-30,Braves,5,6,2,Giants,3,6,1
+2016-05-30,Orioles,2,4,0,Red Sox,7,11,0
+2016-05-30,Brewers,0,5,1,Cardinals,6,12,2
+2016-05-30,Athletics,3,7,0,Twins,2,8,0
+2016-05-30,Diamondbacks,3,5,2,Astros,8,13,0
+2016-05-30,Rockies,8,11,0,Reds,11,17,0
+2016-05-30,Mariners,9,10,2,Padres,3,9,1
+2016-05-30,Cubs,2,8,0,Dodgers,0,1,1
+2016-05-30,Indians,2,11,4,Rangers,9,11,0
+2016-05-30,Phillies,3,6,0,Nationals,4,5,0
+2016-05-30,Blue Jays,4,8,0,Yankees,2,5,0
+2016-05-30,Marlins,0,3,0,Pirates,10,14,0
+2016-05-30,Royals,6,10,1,Rays,2,5,3
+2016-05-30,Angels,5,6,0,Tigers,1,4,1
+2016-05-31,Diamondbacks,5,9,0,Astros,8,12,1
+2016-05-31,Mariners,16,14,0,Padres,4,7,0
+2016-05-31,Indians,3,8,0,Rangers,7,11,0
+2016-05-31,Orioles,2,7,1,Red Sox,6,10,0
+2016-05-31,Phillies,1,4,1,Nationals,5,8,0
+2016-05-31,Blue Jays,4,7,0,Yankees,1,6,0
+2016-05-31,Mets,4,8,3,White Sox,6,8,2
+2016-05-31,Braves,0,1,0,Giants,4,5,0
+2016-05-31,Marlins,3,10,0,Pirates,1,5,0
+2016-05-31,Cubs,0,1,2,Dodgers,5,8,0
+2016-05-31,Brewers,3,7,0,Cardinals,10,14,0
+2016-05-31,Royals,10,18,0,Rays,5,13,0
+2016-05-31,Rockies,17,19,1,Reds,4,7,0
+2016-05-31,Angels,11,17,0,Tigers,9,8,0
+2016-05-31,Athletics,7,12,0,Twins,4,12,1
+2016-06-01,Mets,1,7,0,White Sox,2,7,0
+2016-06-01,Brewers,3,6,0,Cardinals,1,4,0
+2016-06-01,Athletics,5,11,0,Twins,1,6,0
+2016-06-01,Indians,5,10,0,Rangers,4,8,0
+2016-06-01,Phillies,2,6,1,Nationals,7,12,0
+2016-06-01,Orioles,13,14,1,Red Sox,9,15,1
+2016-06-01,Angels,0,2,1,Tigers,3,11,0
+2016-06-01,Blue Jays,7,12,1,Yankees,0,7,2
+2016-06-01,Braves,5,7,1,Giants,4,8,0
+2016-06-01,Marlins,3,7,0,Pirates,2,4,1
+2016-06-01,Cubs,2,3,0,Dodgers,1,4,0
+2016-06-01,Astros,5,9,0,Diamondbacks,4,8,1
+2016-06-01,Royals,6,11,0,Rays,3,9,1
+2016-06-01,Rockies,2,7,2,Reds,7,10,1
+2016-06-01,Padres,14,19,1,Mariners,6,14,2
+2016-06-02,Braves,0,4,1,Giants,6,8,1
+2016-06-02,Astros,0,5,0,Diamondbacks,3,7,1
+2016-06-02,Cubs,7,10,0,Dodgers,2,3,1
+2016-06-02,Orioles,12,11,1,Red Sox,7,12,0
+2016-06-02,Phillies,1,5,0,Brewers,4,12,1
+2016-06-02,Indians,5,11,1,Royals,4,12,3
+2016-06-02,Marlins,4,7,0,Pirates,3,4,1
+2016-06-02,Tigers,4,11,0,Yankees,5,8,1
+2016-06-02,Twins,6,15,1,Rays,4,9,0
+2016-06-02,Rockies,4,5,1,Reds,11,14,0
+2016-06-02,Padres,13,20,1,Mariners,16,16,1
+2016-06-03,Cubs,6,7,0,Diamondbacks,0,6,2
+2016-06-03,Orioles,6,11,1,Yankees,5,10,0
+2016-06-03,Pirates,2,8,1,Angels,9,15,0
+2016-06-03,Phillies,6,7,1,Brewers,3,5,0
+2016-06-03,Indians,6,8,0,Royals,1,3,1
+2016-06-03,Red Sox,2,5,1,Blue Jays,5,7,0
+2016-06-03,Marlins,2,7,0,Mets,6,10,1
+2016-06-03,Tigers,10,14,0,White Sox,3,7,0
+2016-06-03,Reds,7,12,0,Nationals,2,7,0
+2016-06-03,Rangers,7,13,0,Mariners,3,9,0
+2016-06-03,Astros,12,16,0,Athletics,2,9,0
+2016-06-03,Twins,2,8,1,Rays,4,7,0
+2016-06-03,Cardinals,1,5,0,Giants,5,8,1
+2016-06-03,Dodgers,4,5,0,Braves,2,7,0
+2016-06-03,Padres,4,4,1,Rockies,0,2,2
+2016-06-04,Cubs,5,7,0,Diamondbacks,3,4,1
+2016-06-04,Phillies,3,7,0,Brewers,6,10,2
+2016-06-04,Red Sox,6,11,0,Blue Jays,4,4,0
+2016-06-04,Pirates,8,10,1,Angels,7,11,1
+2016-06-04,Astros,6,10,0,Athletics,5,12,0
+2016-06-04,Twins,4,11,0,Rays,7,11,2
+2016-06-04,Marlins,4,9,0,Mets,6,15,1
+2016-06-04,Tigers,7,11,0,White Sox,4,9,1
+2016-06-04,Reds,6,7,0,Nationals,3,3,2
+2016-06-04,Indians,7,12,0,Royals,1,7,0
+2016-06-04,Cardinals,7,12,1,Giants,4,6,0
+2016-06-04,Orioles,6,8,0,Yankees,8,16,0
+2016-06-04,Rangers,10,14,0,Mariners,4,11,0
+2016-06-04,Padres,4,12,1,Rockies,3,9,0
+2016-06-04,Dodgers,4,6,1,Braves,0,5,0
+2016-06-05,Indians,7,9,0,Royals,0,3,0
+2016-06-05,Marlins,1,5,0,Mets,0,4,0
+2016-06-05,Tigers,5,12,0,White Sox,2,5,0
+2016-06-05,Reds,9,12,2,Nationals,10,14,1
+2016-06-05,Pirates,4,9,0,Angels,5,9,0
+2016-06-05,Orioles,3,6,1,Yankees,1,10,1
+2016-06-05,Red Sox,4,6,0,Blue Jays,5,4,0
+2016-06-05,Phillies,8,13,0,Brewers,1,11,1
+2016-06-05,Astros,5,9,0,Athletics,2,8,3
+2016-06-05,Twins,5,9,1,Rays,7,10,1
+2016-06-05,Cubs,2,5,0,Diamondbacks,3,10,0
+2016-06-05,Rangers,3,5,1,Mariners,2,3,2
+2016-06-05,Dodgers,12,14,0,Braves,6,12,1
+2016-06-05,Cardinals,6,10,1,Giants,3,6,1
+2016-06-05,Padres,3,6,2,Rockies,10,10,0
+2016-06-06,Yankees,5,9,0,Angels,2,6,0
+2016-06-06,Orioles,4,7,1,Royals,1,5,1
+2016-06-06,Phillies,4,9,0,Cubs,6,13,0
+2016-06-06,Tigers,11,15,0,Blue Jays,0,3,1
+2016-06-06,Rangers,6,12,3,Astros,5,9,1
+2016-06-06,Diamondbacks,4,7,0,Rays,6,10,0
+2016-06-06,Padres,7,11,0,Braves,2,9,1
+2016-06-06,Dodgers,1,1,0,Rockies,6,9,0
+2016-06-06,Mariners,1,5,2,Indians,3,5,0
+2016-06-07,Pirates,3,10,0,Mets,1,5,0
+2016-06-07,Yankees,6,10,0,Angels,3,5,2
+2016-06-07,Phillies,3,6,1,Cubs,2,6,0
+2016-06-07,Orioles,9,11,1,Royals,1,10,0
+2016-06-07,Tigers,3,6,0,Blue Jays,2,5,0
+2016-06-07,Reds,7,12,4,Cardinals,6,10,0
+2016-06-07,Pirates,3,10,0,Mets,1,4,1
+2016-06-07,Rangers,4,10,0,Astros,3,6,1
+2016-06-07,Twins,6,7,0,Marlins,4,10,0
+2016-06-07,White Sox,5,7,1,Nationals,10,12,0
+2016-06-07,Brewers,5,6,1,Athletics,4,5,0
+2016-06-07,Diamondbacks,5,8,0,Rays,0,3,0
+2016-06-07,Padres,4,9,0,Braves,3,7,0
+2016-06-07,Dodgers,4,5,1,Rockies,3,9,0
+2016-06-07,Mariners,7,11,0,Indians,1,6,0
+2016-06-07,Giants,3,7,1,Red Sox,5,9,0
+2016-06-08,Phillies,1,3,1,Cubs,8,13,0
+2016-06-08,Tigers,2,9,0,Blue Jays,7,9,0
+2016-06-08,Diamondbacks,3,10,0,Rays,6,10,0
+2016-06-08,Padres,2,5,0,Braves,4,14,0
+2016-06-08,Yankees,12,17,0,Angels,6,14,2
+2016-06-08,Pirates,5,10,0,Mets,6,11,2
+2016-06-08,Orioles,4,4,0,Royals,0,9,0
+2016-06-08,Reds,7,15,2,Cardinals,12,15,1
+2016-06-08,Rangers,1,10,1,Astros,3,7,1
+2016-06-08,Twins,7,14,0,Marlins,5,14,0
+2016-06-08,White Sox,4,9,0,Nationals,11,18,0
+2016-06-08,Brewers,4,9,1,Athletics,0,3,0
+2016-06-08,Dodgers,0,4,0,Rockies,1,6,1
+2016-06-08,Mariners,5,7,0,Indians,0,3,0
+2016-06-08,Giants,2,3,1,Red Sox,1,5,0
+2016-06-09,Rangers,5,8,1,Astros,3,7,0
+2016-06-09,Rockies,11,14,3,Pirates,5,7,0
+2016-06-09,Yankees,6,11,1,Angels,3,8,0
+2016-06-09,Blue Jays,5,8,0,Orioles,6,11,0
+2016-06-09,Reds,2,4,0,Cardinals,3,8,0
+2016-06-09,Brewers,2,10,0,Mets,5,13,1
+2016-06-09,Twins,3,7,2,Marlins,10,18,0
+2016-06-09,White Sox,3,5,0,Nationals,1,5,0
+2016-06-09,Mariners,3,13,1,Indians,5,7,0
+2016-06-10,Yankees,4,7,1,Tigers,0,6,1
+2016-06-10,Pirates,3,8,1,Cardinals,9,9,0
+2016-06-10,Nationals,9,11,0,Phillies,6,6,0
+2016-06-10,Blue Jays,4,10,0,Orioles,3,4,1
+2016-06-10,Rays,4,8,0,Astros,3,11,0
+2016-06-10,Reds,2,5,0,Athletics,1,9,0
+2016-06-10,Braves,5,12,0,Cubs,1,4,1
+2016-06-10,Twins,1,8,1,Red Sox,8,16,1
+2016-06-10,White Sox,7,12,0,Royals,5,12,0
+2016-06-10,Brewers,1,3,0,Mets,2,10,1
+2016-06-10,Rockies,5,9,2,Padres,7,9,2
+2016-06-10,Diamondbacks,6,13,0,Marlins,8,9,1
+2016-06-10,Angels,2,3,1,Indians,6,10,0
+2016-06-10,Mariners,7,7,0,Rangers,5,10,3
+2016-06-10,Giants,2,6,1,Dodgers,3,5,1
+2016-06-11,Nationals,8,13,0,Phillies,0,7,0
+2016-06-11,Blue Jays,11,13,2,Orioles,6,12,0
+2016-06-11,Twins,4,7,2,Red Sox,15,15,0
+2016-06-11,White Sox,1,5,0,Royals,4,9,0
+2016-06-11,Braves,2,5,0,Cubs,8,13,3
+2016-06-11,Rays,3,6,0,Astros,4,7,0
+2016-06-11,Rockies,5,10,0,Padres,3,7,0
+2016-06-11,Brewers,7,8,0,Mets,4,7,0
+2016-06-11,Reds,2,6,0,Athletics,1,7,0
+2016-06-11,Yankees,1,6,0,Tigers,6,10,1
+2016-06-11,Pirates,1,6,0,Cardinals,5,8,0
+2016-06-11,Giants,5,7,0,Dodgers,4,11,0
+2016-06-11,Angels,4,11,1,Indians,3,7,2
+2016-06-11,Mariners,1,6,1,Rangers,2,10,1
+2016-06-11,Diamondbacks,5,7,1,Marlins,3,9,0
+2016-06-12,Blue Jays,10,14,0,Orioles,9,13,1
+2016-06-12,Rays,5,9,0,Astros,0,2,1
+2016-06-12,Reds,1,7,0,Athletics,6,15,0
+2016-06-12,Braves,2,7,1,Cubs,13,16,4
+2016-06-12,Yankees,1,4,0,Tigers,4,9,0
+2016-06-12,Brewers,5,9,2,Mets,3,7,3
+2016-06-12,Twins,7,7,2,Red Sox,4,7,2
+2016-06-12,White Sox,1,5,0,Royals,3,11,1
+2016-06-12,Angels,3,7,1,Indians,8,11,1
+2016-06-12,Nationals,5,8,1,Phillies,4,7,1
+2016-06-12,Diamondbacks,6,12,0,Marlins,0,3,1
+2016-06-12,Mariners,4,9,0,Rangers,6,7,0
+2016-06-12,Rockies,2,4,0,Padres,1,8,1
+2016-06-12,Pirates,3,6,1,Cardinals,8,14,1
+2016-06-12,Giants,2,5,0,Dodgers,1,6,1
+2016-06-13,Nationals,4,10,0,Cubs,1,2,2
+2016-06-13,Blue Jays,0,6,0,Phillies,7,9,0
+2016-06-13,Braves,8,10,0,Reds,9,9,1
+2016-06-13,White Sox,10,16,3,Tigers,9,14,0
+2016-06-13,Royals,2,11,1,Indians,1,4,0
+2016-06-13,Diamondbacks,3,6,0,Dodgers,2,7,0
+2016-06-13,Angels,4,8,3,Twins,9,10,1
+2016-06-13,Athletics,14,17,3,Rangers,5,9,1
+2016-06-13,Padres,4,7,1,Marlins,13,19,0
+2016-06-13,Giants,11,14,0,Brewers,5,11,1
+2016-06-14,Blue Jays,11,14,0,Phillies,3,7,2
+2016-06-14,Nationals,3,5,0,Cubs,4,7,0
+2016-06-14,Red Sox,2,7,0,Orioles,3,5,0
+2016-06-14,Mets,0,3,2,Pirates,4,7,0
+2016-06-14,Braves,1,5,2,Reds,3,3,0
+2016-06-14,Rays,8,10,0,Mariners,7,10,1
+2016-06-14,White Sox,8,11,0,Tigers,11,16,3
+2016-06-14,Royals,3,9,0,Indians,2,9,0
+2016-06-14,Cardinals,2,5,1,Astros,5,9,0
+2016-06-14,Rockies,13,15,2,Yankees,10,15,1
+2016-06-14,Diamondbacks,4,9,0,Dodgers,7,9,1
+2016-06-14,Angels,5,12,0,Twins,4,10,0
+2016-06-14,Athletics,6,11,1,Rangers,10,13,0
+2016-06-14,Padres,2,7,0,Marlins,5,6,0
+2016-06-14,Giants,3,12,0,Brewers,2,4,0
+2016-06-15,Rockies,6,13,1,Yankees,3,7,0
+2016-06-15,Diamondbacks,2,5,0,Dodgers,3,7,2
+2016-06-15,Padres,6,13,0,Marlins,3,9,0
+2016-06-15,Giants,10,16,0,Brewers,1,8,4
+2016-06-15,Nationals,5,9,0,Cubs,4,11,0
+2016-06-15,Phillies,2,6,0,Blue Jays,7,9,0
+2016-06-15,Red Sox,6,13,1,Orioles,4,8,0
+2016-06-15,Mets,11,19,1,Pirates,2,5,0
+2016-06-15,Rays,3,8,0,Mariners,2,8,2
+2016-06-15,Braves,9,19,3,Reds,8,11,2
+2016-06-15,Cardinals,1,8,0,Astros,4,9,0
+2016-06-15,White Sox,5,9,0,Tigers,3,8,0
+2016-06-15,Royals,9,10,2,Indians,4,5,3
+2016-06-15,Angels,10,12,0,Twins,2,5,1
+2016-06-15,Athletics,5,7,0,Rangers,7,10,2
+2016-06-16,Braves,7,9,0,Reds,2,8,1
+2016-06-16,Rays,4,12,3,Mariners,6,13,0
+2016-06-16,Athletics,1,2,1,Rangers,5,9,0
+2016-06-16,Phillies,2,5,4,Blue Jays,13,17,1
+2016-06-16,Red Sox,1,4,0,Orioles,5,11,0
+2016-06-16,Mets,6,11,0,Pirates,4,10,0
+2016-06-16,Twins,1,7,0,Yankees,4,7,1
+2016-06-16,Royals,4,10,0,Tigers,10,13,0
+2016-06-16,Padres,5,10,2,Nationals,8,9,1
+2016-06-16,Dodgers,6,8,0,Brewers,8,10,2
+2016-06-17,Cubs,6,9,0,Pirates,0,3,0
+2016-06-17,Orioles,3,7,0,Blue Jays,13,13,1
+2016-06-17,Phillies,2,7,3,Diamondbacks,10,16,0
+2016-06-17,Indians,3,8,0,White Sox,2,7,0
+2016-06-17,Red Sox,4,11,0,Mariners,8,10,1
+2016-06-17,Mets,1,6,1,Braves,5,11,0
+2016-06-17,Marlins,5,9,0,Rockies,1,1,0
+2016-06-17,Rays,1,4,1,Giants,5,7,0
+2016-06-17,Twins,2,9,0,Yankees,8,14,1
+2016-06-17,Astros,2,8,0,Reds,4,11,1
+2016-06-17,Royals,10,14,2,Tigers,3,10,0
+2016-06-17,Cardinals,0,3,0,Rangers,1,6,0
+2016-06-17,Athletics,3,10,1,Angels,2,6,1
+2016-06-17,Dodgers,3,8,0,Brewers,2,12,1
+2016-06-17,Padres,5,9,0,Nationals,7,11,0
+2016-06-18,Twins,6,9,0,Yankees,7,12,1
+2016-06-18,Phillies,1,4,1,Diamondbacks,4,11,0
+2016-06-18,Red Sox,6,12,0,Mariners,2,9,1
+2016-06-18,Athletics,1,5,2,Angels,7,13,0
+2016-06-18,Orioles,4,9,1,Blue Jays,2,7,0
+2016-06-18,Astros,5,13,0,Reds,4,9,0
+2016-06-18,Marlins,9,17,0,Rockies,6,8,0
+2016-06-18,Rays,4,8,0,Giants,6,11,2
+2016-06-18,Cardinals,3,7,1,Rangers,4,9,1
+2016-06-18,Indians,13,15,0,White Sox,2,7,1
+2016-06-18,Royals,16,21,1,Tigers,5,10,1
+2016-06-18,Mets,3,7,0,Braves,4,7,1
+2016-06-18,Cubs,4,6,0,Pirates,3,8,0
+2016-06-18,Padres,7,9,1,Nationals,3,8,1
+2016-06-18,Dodgers,10,14,0,Brewers,6,11,0
+2016-06-19,Indians,3,12,1,White Sox,2,6,0
+2016-06-19,Mets,0,1,0,Braves,6,11,0
+2016-06-19,Marlins,3,8,0,Rockies,0,2,1
+2016-06-19,Rays,1,7,0,Giants,5,9,3
+2016-06-19,Red Sox,2,11,0,Mariners,1,8,0
+2016-06-19,Phillies,1,3,1,Diamondbacks,5,10,1
+2016-06-19,Orioles,11,19,1,Blue Jays,6,7,0
+2016-06-19,Astros,6,8,0,Reds,0,5,0
+2016-06-19,Twins,7,11,2,Yankees,4,7,0
+2016-06-19,Royals,2,7,0,Tigers,1,5,1
+2016-06-19,Cardinals,4,10,1,Rangers,5,10,1
+2016-06-19,Athletics,0,3,0,Angels,2,7,0
+2016-06-19,Dodgers,2,8,0,Brewers,1,6,1
+2016-06-19,Padres,6,10,0,Nationals,3,7,1
+2016-06-19,Cubs,10,14,1,Pirates,5,13,0
+2016-06-20,Phillies,1,6,0,Diamondbacks,3,7,1
+2016-06-20,Pirates,1,5,0,Giants,0,6,0
+2016-06-20,Indians,7,11,2,Rays,4,5,0
+2016-06-20,Red Sox,1,5,2,White Sox,3,7,1
+2016-06-20,Marlins,3,7,0,Rockies,5,12,1
+2016-06-20,Tigers,8,14,1,Mariners,7,19,0
+2016-06-20,Cubs,2,9,0,Cardinals,3,8,0
+2016-06-20,Rangers,4,9,0,Orioles,3,15,0
+2016-06-20,Astros,10,15,2,Angels,7,9,2
+2016-06-20,Dodgers,4,7,0,Nationals,1,7,0
+2016-06-21,Yankees,4,10,2,Rockies,8,15,2
+2016-06-21,Orioles,7,10,2,Padres,10,15,1
+2016-06-21,Pirates,4,9,0,Giants,15,22,1
+2016-06-21,Blue Jays,2,9,0,Diamondbacks,4,3,0
+2016-06-21,Indians,6,10,0,Rays,0,3,2
+2016-06-21,Red Sox,1,6,0,White Sox,3,6,0
+2016-06-21,Mets,2,6,1,Royals,1,7,0
+2016-06-21,Marlins,2,8,0,Braves,3,5,0
+2016-06-21,Tigers,4,11,0,Mariners,2,8,1
+2016-06-21,Rangers,2,6,0,Reds,8,11,0
+2016-06-21,Cubs,3,7,0,Cardinals,4,6,0
+2016-06-21,Astros,3,5,0,Angels,2,5,0
+2016-06-21,Twins,14,14,1,Phillies,10,14,1
+2016-06-21,Athletics,5,13,1,Brewers,3,10,1
+2016-06-21,Dodgers,3,7,0,Nationals,2,11,0
+2016-06-22,Marlins,3,9,0,Braves,0,6,0
+2016-06-22,Yankees,9,10,1,Rockies,8,9,1
+2016-06-22,Mets,4,6,0,Royals,3,9,0
+2016-06-22,Astros,3,8,0,Angels,2,10,0
+2016-06-22,Cubs,2,3,1,Cardinals,7,9,0
+2016-06-22,Athletics,2,5,1,Brewers,4,13,0
+2016-06-22,Blue Jays,5,5,1,Diamondbacks,2,8,0
+2016-06-22,Orioles,7,11,0,Padres,2,5,1
+2016-06-22,Pirates,6,10,0,Giants,7,12,1
+2016-06-22,Indians,6,9,1,Rays,1,3,0
+2016-06-22,Red Sox,6,13,1,White Sox,8,10,0
+2016-06-22,Tigers,5,12,0,Mariners,1,3,0
+2016-06-22,Rangers,6,5,0,Reds,4,8,1
+2016-06-22,Twins,6,13,1,Phillies,5,9,1
+2016-06-22,Dodgers,4,9,0,Nationals,3,11,1
+2016-06-23,Pirates,3,5,0,Giants,5,9,1
+2016-06-23,Twins,3,8,0,Phillies,7,15,1
+2016-06-23,Tigers,5,8,1,Mariners,4,8,1
+2016-06-23,Red Sox,8,12,1,White Sox,7,15,2
+2016-06-23,Reds,4,7,1,Padres,7,8,2
+2016-06-23,Braves,4,12,0,Mets,3,7,0
+2016-06-23,Marlins,4,7,1,Cubs,2,7,0
+2016-06-23,Rockies,6,13,0,Diamondbacks,7,15,1
+2016-06-23,Angels,4,10,2,Athletics,5,10,0
+2016-06-24,Pirates,8,12,0,Dodgers,6,13,0
+2016-06-24,Yankees,5,8,0,Twins,3,7,3
+2016-06-24,Orioles,6,8,0,Rays,3,9,1
+2016-06-24,Marlins,4,2,0,Cubs,5,8,2
+2016-06-24,Tigers,5,9,0,Indians,7,12,2
+2016-06-24,Reds,4,5,0,Padres,13,15,1
+2016-06-24,Braves,6,11,0,Mets,8,8,0
+2016-06-24,Rangers,7,16,0,Red Sox,8,9,0
+2016-06-24,White Sox,3,11,0,Blue Jays,2,8,0
+2016-06-24,Brewers,5,5,1,Nationals,3,9,0
+2016-06-24,Royals,4,10,3,Astros,13,14,1
+2016-06-24,Rockies,9,14,1,Diamondbacks,10,16,4
+2016-06-24,Angels,4,11,1,Athletics,7,14,3
+2016-06-24,Mariners,4,6,1,Cardinals,3,4,0
+2016-06-24,Giants,5,9,0,Phillies,4,10,2
+2016-06-25,Yankees,2,10,0,Twins,1,3,2
+2016-06-25,Orioles,5,11,1,Rays,0,4,0
+2016-06-25,White Sox,8,12,1,Blue Jays,10,13,1
+2016-06-25,Brewers,6,10,1,Nationals,5,10,0
+2016-06-25,Marlins,9,10,0,Cubs,6,8,2
+2016-06-25,Tigers,0,4,0,Indians,6,8,0
+2016-06-25,Rockies,11,15,1,Diamondbacks,6,10,1
+2016-06-25,Reds,0,4,1,Padres,3,5,0
+2016-06-25,Orioles,8,14,0,Rays,6,14,1
+2016-06-25,Royals,5,15,0,Astros,13,16,1
+2016-06-25,Pirates,6,5,1,Dodgers,1,8,1
+2016-06-25,Braves,0,9,0,Mets,1,8,0
+2016-06-25,Rangers,10,11,0,Red Sox,3,7,2
+2016-06-25,Angels,3,13,0,Athletics,7,12,0
+2016-06-25,Giants,2,6,1,Phillies,3,6,1
+2016-06-25,Mariners,5,10,1,Cardinals,4,8,1
+2016-06-26,Yankees,1,2,0,Twins,7,8,0
+2016-06-26,Marlins,6,9,0,Cubs,1,5,1
+2016-06-26,Tigers,3,6,0,Indians,9,13,0
+2016-06-26,Reds,3,9,0,Padres,0,5,0
+2016-06-26,Orioles,12,17,0,Rays,5,12,0
+2016-06-26,Braves,5,10,1,Mets,2,7,1
+2016-06-26,White Sox,5,8,0,Blue Jays,2,5,1
+2016-06-26,Brewers,2,11,1,Nationals,3,4,0
+2016-06-26,Royals,6,13,0,Astros,1,4,0
+2016-06-26,Rangers,6,10,0,Red Sox,2,8,1
+2016-06-26,Angels,7,13,0,Athletics,6,9,0
+2016-06-26,Giants,8,16,0,Phillies,7,12,1
+2016-06-26,Rockies,9,11,0,Diamondbacks,7,15,1
+2016-06-26,Mariners,6,12,1,Cardinals,11,17,0
+2016-06-26,Pirates,4,9,0,Dodgers,3,4,0
+2016-06-27,Pirates,4,5,1,Dodgers,5,7,0
+2016-06-27,Yankees,6,16,1,Rangers,9,9,0
+2016-06-27,Nationals,11,17,0,Mets,4,14,0
+2016-06-27,Reds,8,8,1,Cubs,11,17,1
+2016-06-27,Rays,13,18,0,Red Sox,7,12,2
+2016-06-27,Braves,3,8,2,Indians,8,14,0
+2016-06-27,Royals,6,12,0,Cardinals,2,6,1
+2016-06-27,Rockies,9,10,0,Blue Jays,5,6,0
+2016-06-27,Diamondbacks,0,7,0,Phillies,8,16,1
+2016-06-27,Angels,2,9,1,Astros,4,11,0
+2016-06-27,Giants,3,7,0,Athletics,8,12,0
+2016-06-28,Yankees,1,8,0,Rangers,7,11,0
+2016-06-28,Nationals,5,7,0,Mets,0,5,0
+2016-06-28,Braves,3,5,1,Indians,5,9,0
+2016-06-28,Tigers,7,9,3,Marlins,5,16,0
+2016-06-28,Rays,2,6,0,Red Sox,8,11,0
+2016-06-28,Reds,2,8,1,Cubs,7,9,1
+2016-06-28,Brewers,5,4,2,Dodgers,6,12,1
+2016-06-28,White Sox,0,6,0,Twins,4,7,1
+2016-06-28,Royals,4,11,1,Cardinals,8,9,1
+2016-06-28,Rockies,9,14,4,Blue Jays,14,18,1
+2016-06-28,Diamondbacks,3,10,0,Phillies,4,11,0
+2016-06-28,Angels,1,8,1,Astros,7,12,1
+2016-06-28,Mariners,5,12,1,Pirates,2,7,1
+2016-06-28,Padres,7,8,1,Orioles,11,17,1
+2016-06-28,Giants,11,18,1,Athletics,13,12,0
+2016-06-29,Rays,4,9,1,Red Sox,0,5,0
+2016-06-29,Reds,2,9,0,Cubs,9,12,0
+2016-06-29,Tigers,10,15,0,Marlins,3,14,0
+2016-06-29,Rockies,3,9,1,Blue Jays,5,11,0
+2016-06-29,Angels,4,11,2,Astros,10,12,1
+2016-06-29,Diamondbacks,8,15,1,Phillies,9,17,2
+2016-06-29,Padres,6,8,1,Orioles,12,12,0
+2016-06-29,Yankees,9,10,2,Rangers,7,9,1
+2016-06-29,Nationals,4,5,0,Mets,2,6,1
+2016-06-29,Braves,0,7,1,Indians,3,8,0
+2016-06-29,White Sox,9,13,1,Twins,6,11,1
+2016-06-29,Brewers,7,12,0,Dodgers,0,2,1
+2016-06-29,Cardinals,2,10,3,Royals,3,14,0
+2016-06-29,Athletics,7,7,0,Giants,1,8,2
+2016-06-29,Mariners,1,6,3,Pirates,8,11,0
+2016-06-30,Yankees,2,5,0,Rangers,1,4,0
+2016-06-30,White Sox,6,12,0,Twins,5,8,1
+2016-06-30,Brewers,1,4,0,Dodgers,8,14,2
+2016-06-30,Nationals,13,11,0,Reds,4,9,0
+2016-06-30,Blue Jays,1,3,0,Indians,4,10,0
+2016-06-30,Braves,8,14,1,Marlins,5,7,1
+2016-06-30,Rays,7,14,0,Tigers,10,11,1
+2016-06-30,Mets,4,6,0,Cubs,3,9,1
+2016-06-30,Cardinals,2,3,3,Royals,4,7,0
+2016-06-30,Athletics,6,10,0,Giants,12,14,1
+2016-06-30,Mariners,5,9,0,Orioles,3,8,1
+2016-07-01,Blue Jays,1,11,2,Indians,2,15,0
+2016-07-01,Nationals,3,10,0,Reds,2,11,0
+2016-07-01,Phillies,4,12,0,Royals,3,8,2
+2016-07-01,Red Sox,5,16,0,Angels,4,12,0
+2016-07-01,Rays,2,4,2,Tigers,10,14,0
+2016-07-01,Mets,10,12,0,Cubs,2,6,0
+2016-07-01,Braves,5,11,0,Marlins,7,17,1
+2016-07-01,Twins,2,7,0,Rangers,3,8,0
+2016-07-01,Astros,5,6,0,White Sox,0,5,1
+2016-07-01,Cardinals,7,11,2,Brewers,1,4,2
+2016-07-01,Diamondbacks,4,9,0,Giants,6,10,1
+2016-07-01,Athletics,3,4,0,Pirates,7,8,1
+2016-07-01,Mariners,5,10,1,Orioles,2,5,0
+2016-07-01,Dodgers,5,9,0,Rockies,0,3,0
+2016-07-01,Padres,7,8,1,Yankees,6,7,1
+2016-07-02,Blue Jays,9,12,0,Indians,6,10,1
+2016-07-02,Twins,17,13,0,Rangers,5,10,1
+2016-07-02,Cardinals,3,8,0,Brewers,0,7,0
+2016-07-02,Astros,6,7,0,White Sox,7,13,1
+2016-07-02,Braves,9,9,0,Marlins,1,7,1
+2016-07-02,Rays,2,5,1,Tigers,3,5,1
+2016-07-02,Phillies,2,7,1,Royals,6,10,0
+2016-07-02,Red Sox,2,8,4,Angels,21,22,1
+2016-07-02,Nationals,4,3,2,Reds,9,14,1
+2016-07-02,Mets,4,8,1,Cubs,3,6,0
+2016-07-02,Athletics,2,11,0,Pirates,4,9,0
+2016-07-02,Diamondbacks,6,9,1,Giants,5,7,0
+2016-07-02,Padres,2,7,0,Yankees,1,6,0
+2016-07-02,Dodgers,6,10,0,Rockies,1,5,1
+2016-07-02,Mariners,12,16,1,Orioles,6,12,0
+2016-07-03,Blue Jays,17,18,0,Indians,1,5,2
+2016-07-03,Mets,14,22,1,Cubs,3,11,0
+2016-07-03,Rays,1,6,0,Tigers,5,8,0
+2016-07-03,Phillies,7,11,0,Royals,2,7,0
+2016-07-03,Red Sox,10,16,0,Angels,5,10,1
+2016-07-03,Nationals,12,15,0,Reds,1,3,0
+2016-07-03,Twins,5,11,1,Rangers,4,8,1
+2016-07-03,Astros,1,3,0,White Sox,4,9,0
+2016-07-03,Cardinals,9,11,0,Brewers,8,16,1
+2016-07-03,Athletics,3,10,0,Pirates,6,11,0
+2016-07-03,Mariners,9,10,1,Orioles,4,12,1
+2016-07-03,Diamondbacks,4,9,0,Giants,5,9,1
+2016-07-03,Dodgers,4,7,0,Rockies,1,4,0
+2016-07-03,Padres,3,8,1,Yankees,6,10,0
+2016-07-03,Braves,2,5,0,Marlins,5,13,1
+2016-07-04,Nationals,0,2,1,Brewers,1,5,1
+2016-07-04,Rays,4,7,1,Angels,2,8,0
+2016-07-04,Red Sox,12,21,2,Rangers,5,16,0
+2016-07-04,White Sox,8,13,4,Yankees,2,8,3
+2016-07-04,Twins,1,4,1,Athletics,3,7,0
+2016-07-04,Astros,2,8,0,Mariners,1,5,0
+2016-07-04,Cardinals,2,10,1,Pirates,4,11,0
+2016-07-04,Cubs,10,12,1,Reds,4,9,2
+2016-07-04,Phillies,8,12,1,Braves,2,6,1
+2016-07-04,Giants,3,5,0,Rockies,1,6,1
+2016-07-04,Mets,8,13,2,Marlins,6,17,0
+2016-07-04,Blue Jays,6,6,0,Royals,2,4,0
+2016-07-04,Indians,5,8,0,Tigers,3,9,0
+2016-07-04,Diamondbacks,4,11,0,Padres,8,9,1
+2016-07-04,Dodgers,7,9,0,Orioles,5,8,0
+2016-07-05,Cubs,5,7,2,Reds,9,10,0
+2016-07-05,Phillies,5,8,0,Braves,1,6,1
+2016-07-05,Nationals,2,12,1,Brewers,5,10,0
+2016-07-05,Blue Jays,8,13,0,Royals,3,7,1
+2016-07-05,Indians,12,13,0,Tigers,1,4,0
+2016-07-05,Mets,2,4,0,Marlins,5,9,0
+2016-07-05,Red Sox,2,11,0,Rangers,7,11,0
+2016-07-05,Rays,5,14,1,Angels,13,16,2
+2016-07-05,Cardinals,2,6,1,Pirates,5,11,1
+2016-07-05,White Sox,0,6,2,Yankees,9,20,0
+2016-07-05,Astros,5,7,1,Mariners,2,7,1
+2016-07-05,Twins,11,12,1,Athletics,4,8,0
+2016-07-05,Diamondbacks,7,10,0,Padres,5,12,0
+2016-07-05,Dodgers,1,6,1,Orioles,4,9,0
+2016-07-05,Giants,3,6,0,Rockies,7,13,1
+2016-07-06,Indians,2,7,1,Tigers,12,12,1
+2016-07-06,Phillies,4,9,2,Braves,3,7,0
+2016-07-06,Mets,4,6,0,Marlins,2,7,1
+2016-07-06,Twins,4,10,1,Athletics,0,2,0
+2016-07-06,Cubs,3,8,0,Reds,5,8,0
+2016-07-06,Dodgers,4,16,0,Orioles,6,13,0
+2016-07-06,Nationals,7,10,1,Brewers,4,8,0
+2016-07-06,Blue Jays,4,8,0,Royals,2,4,0
+2016-07-06,Red Sox,11,10,1,Rangers,6,10,3
+2016-07-06,Rays,2,9,3,Angels,7,9,0
+2016-07-06,White Sox,5,5,0,Yankees,0,8,0
+2016-07-06,Astros,9,12,0,Mariners,8,10,3
+2016-07-06,Cardinals,5,12,1,Pirates,7,9,0
+2016-07-06,Diamondbacks,6,12,0,Padres,13,14,0
+2016-07-06,Giants,5,9,0,Rockies,1,5,0
+2016-07-07,Rays,1,5,1,Angels,5,8,0
+2016-07-07,Cardinals,5,6,0,Pirates,1,6,0
+2016-07-07,Blue Jays,5,12,0,Tigers,4,8,1
+2016-07-07,Indians,4,7,0,Yankees,5,11,0
+2016-07-07,Mets,9,15,1,Nationals,7,12,0
+2016-07-07,Cubs,3,8,0,Braves,4,6,0
+2016-07-07,Rangers,1,4,0,Twins,10,18,0
+2016-07-07,Astros,1,3,1,Athletics,3,4,0
+2016-07-07,Royals,4,9,0,Mariners,3,9,0
+2016-07-07,Rockies,11,14,0,Phillies,2,9,0
+2016-07-07,Dodgers,0,2,1,Padres,6,10,0
+2016-07-08,Pirates,8,10,2,Cubs,4,6,2
+2016-07-08,Orioles,5,9,2,Angels,9,10,2
+2016-07-08,Blue Jays,6,13,0,Tigers,0,7,0
+2016-07-08,Indians,10,9,0,Yankees,2,7,0
+2016-07-08,Mets,1,4,1,Nationals,3,4,0
+2016-07-08,Red Sox,6,11,0,Rays,5,10,0
+2016-07-08,Marlins,3,7,2,Reds,1,6,0
+2016-07-08,Rangers,6,10,0,Twins,5,7,1
+2016-07-08,White Sox,8,13,1,Braves,11,15,2
+2016-07-08,Astros,10,12,0,Athletics,9,14,0
+2016-07-08,Rockies,3,12,2,Phillies,5,7,0
+2016-07-08,Brewers,4,6,2,Cardinals,3,8,1
+2016-07-08,Royals,2,6,1,Mariners,3,7,0
+2016-07-08,Dodgers,10,14,1,Padres,6,14,2
+2016-07-08,Giants,6,8,0,Diamondbacks,2,7,1
+2016-07-09,Blue Jays,2,6,1,Tigers,3,7,2
+2016-07-09,White Sox,5,11,0,Braves,4,8,2
+2016-07-09,Brewers,1,4,0,Cardinals,8,10,0
+2016-07-09,Red Sox,4,8,1,Rays,1,7,1
+2016-07-09,Giants,4,8,1,Diamondbacks,2,8,0
+2016-07-09,Orioles,3,10,0,Angels,2,8,0
+2016-07-09,Indians,6,11,2,Yankees,7,14,0
+2016-07-09,Astros,2,6,0,Athletics,3,10,0
+2016-07-09,Marlins,4,8,0,Reds,2,8,0
+2016-07-09,Royals,5,12,0,Mariners,3,8,0
+2016-07-09,Mets,1,4,0,Nationals,6,7,1
+2016-07-09,Pirates,12,9,0,Cubs,6,14,1
+2016-07-09,Dodgers,4,9,0,Padres,3,3,2
+2016-07-09,Rockies,8,10,1,Phillies,3,13,0
+2016-07-09,Rangers,6,13,1,Twins,8,12,1
+2016-07-10,Blue Jays,6,14,0,Tigers,1,6,0
+2016-07-10,Indians,7,11,3,Yankees,11,13,1
+2016-07-10,Mets,2,5,0,Nationals,3,6,0
+2016-07-10,Marlins,7,10,0,Reds,3,9,1
+2016-07-10,Pirates,5,7,0,Cubs,6,15,2
+2016-07-10,Orioles,4,12,1,Angels,2,5,1
+2016-07-10,Red Sox,4,8,0,Rays,0,4,0
+2016-07-10,White Sox,0,6,1,Braves,2,6,0
+2016-07-10,Astros,2,8,0,Athletics,1,4,3
+2016-07-10,Brewers,1,6,1,Cardinals,5,12,0
+2016-07-10,Royals,5,10,1,Mariners,8,14,0
+2016-07-10,Rangers,5,9,3,Twins,15,18,1
+2016-07-10,Dodgers,3,10,0,Padres,1,3,0
+2016-07-10,Rockies,3,10,0,Phillies,10,13,1
+2016-07-10,Giants,4,11,1,Diamondbacks,0,1,0
+2016-07-12,American League,4,8,1,National League,2,10,1
+2016-07-15,Cubs,6,7,0,Rangers,0,5,2
+2016-07-15,Yankees,3,4,0,Red Sox,5,8,0
+2016-07-15,Phillies,3,5,0,Mets,5,9,1
+2016-07-15,Nationals,5,7,0,Pirates,1,4,1
+2016-07-15,Reds,5,9,1,Brewers,4,9,1
+2016-07-15,Tigers,4,8,1,Royals,2,5,2
+2016-07-15,Rays,3,9,0,Orioles,4,7,0
+2016-07-15,Braves,2,9,2,Rockies,11,10,0
+2016-07-15,Twins,2,4,1,Indians,5,8,0
+2016-07-15,Cardinals,6,10,1,Marlins,7,13,0
+2016-07-15,Diamondbacks,7,12,2,Dodgers,13,18,0
+2016-07-15,Angels,7,9,0,White Sox,0,5,2
+2016-07-15,Athletics,8,12,1,Blue Jays,7,7,0
+2016-07-15,Mariners,3,8,0,Astros,7,11,0
+2016-07-15,Padres,4,7,0,Giants,1,5,1
+2016-07-16,Cubs,3,4,0,Rangers,1,3,1
+2016-07-16,Yankees,2,5,2,Red Sox,5,10,0
+2016-07-16,Athletics,5,6,1,Blue Jays,4,7,0
+2016-07-16,Mariners,1,5,0,Astros,0,4,0
+2016-07-16,Rays,1,4,0,Orioles,2,7,0
+2016-07-16,Phillies,4,10,0,Mets,2,6,1
+2016-07-16,Nationals,6,10,0,Pirates,0,6,1
+2016-07-16,Reds,1,9,0,Brewers,9,12,0
+2016-07-16,Twins,5,10,2,Indians,4,9,3
+2016-07-16,Braves,3,7,2,Rockies,4,8,0
+2016-07-16,Tigers,4,7,0,Royals,8,11,0
+2016-07-16,Cardinals,5,8,0,Marlins,0,3,0
+2016-07-16,Diamondbacks,2,8,0,Dodgers,1,10,0
+2016-07-16,Padres,7,10,0,Giants,6,14,2
+2016-07-16,Angels,1,2,0,White Sox,0,6,1
+2016-07-17,Reds,1,4,1,Brewers,0,4,0
+2016-07-17,Tigers,4,11,0,Royals,2,6,1
+2016-07-17,Rays,5,6,0,Orioles,2,8,0
+2016-07-17,Nationals,1,8,0,Pirates,2,12,0
+2016-07-17,Phillies,0,1,1,Mets,5,8,0
+2016-07-17,Braves,1,7,0,Rockies,0,4,0
+2016-07-17,Twins,1,6,0,Indians,6,13,0
+2016-07-17,Cardinals,3,4,0,Marlins,6,13,1
+2016-07-17,Cubs,1,4,0,Rangers,4,6,1
+2016-07-17,Angels,8,10,0,White Sox,1,7,0
+2016-07-17,Athletics,3,8,1,Blue Jays,5,10,0
+2016-07-17,Diamondbacks,6,9,0,Dodgers,5,11,0
+2016-07-17,Mariners,1,7,3,Astros,8,11,0
+2016-07-17,Padres,5,10,2,Giants,3,2,1
+2016-07-17,Yankees,3,11,1,Red Sox,1,3,1
+2016-07-18,Yankees,2,7,1,Orioles,1,5,0
+2016-07-18,Phillies,2,4,0,Marlins,3,6,0
+2016-07-18,Cubs,5,10,0,Mets,1,6,1
+2016-07-18,Reds,8,12,0,Braves,2,9,1
+2016-07-18,Tigers,1,3,0,Twins,0,3,0
+2016-07-18,Cardinals,10,13,2,Padres,2,7,1
+2016-07-18,Royals,7,10,0,Indians,3,7,0
+2016-07-18,Rockies,7,12,0,Rays,4,6,1
+2016-07-18,Angels,9,9,1,Rangers,5,8,1
+2016-07-18,Athletics,7,11,2,Astros,4,10,0
+2016-07-18,Mariners,4,4,1,White Sox,3,11,0
+2016-07-19,Yankees,7,7,0,Orioles,1,4,1
+2016-07-19,Phillies,1,5,0,Marlins,2,7,1
+2016-07-19,Nationals,4,7,2,Dodgers,8,13,0
+2016-07-19,Cubs,1,9,0,Mets,2,8,1
+2016-07-19,Pirates,3,5,1,Brewers,2,7,3
+2016-07-19,Reds,4,12,2,Braves,5,10,1
+2016-07-19,Red Sox,4,4,0,Giants,0,5,1
+2016-07-19,Tigers,2,6,0,Twins,6,10,1
+2016-07-19,Royals,3,8,0,Indians,7,12,0
+2016-07-19,Rockies,1,4,0,Rays,10,13,1
+2016-07-19,Diamondbacks,1,6,2,Blue Jays,5,8,0
+2016-07-19,Angels,8,10,1,Rangers,6,13,0
+2016-07-19,Athletics,4,11,1,Astros,3,10,1
+2016-07-19,Mariners,1,6,0,White Sox,6,10,1
+2016-07-20,Reds,6,12,0,Braves,3,9,0
+2016-07-20,Tigers,1,9,1,Twins,4,4,0
+2016-07-20,Cardinals,4,9,0,Padres,2,4,0
+2016-07-20,Royals,4,7,0,Indians,11,10,0
+2016-07-20,Cubs,6,11,0,Mets,2,9,0
+2016-07-20,Rockies,3,8,1,Rays,11,16,1
+2016-07-20,Athletics,0,4,1,Astros,7,10,1
+2016-07-20,Diamondbacks,4,11,3,Blue Jays,10,13,1
+2016-07-20,Mariners,6,9,0,White Sox,5,10,0
+2016-07-20,Pirates,5,11,0,Brewers,9,12,1
+2016-07-20,Yankees,5,6,1,Orioles,0,5,0
+2016-07-20,Phillies,4,12,1,Marlins,1,5,0
+2016-07-20,Nationals,8,9,1,Dodgers,1,4,0
+2016-07-20,Red Sox,11,16,0,Giants,7,15,0
+2016-07-20,Cardinals,3,7,0,Padres,2,7,0
+2016-07-20,Angels,7,12,1,Rangers,4,10,1
+2016-07-21,Nationals,3,10,0,Dodgers,6,8,0
+2016-07-21,Yankees,1,5,1,Orioles,4,9,0
+2016-07-21,Phillies,3,3,2,Marlins,9,16,1
+2016-07-21,Pirates,5,11,2,Brewers,3,5,1
+2016-07-21,Red Sox,13,17,1,Twins,2,5,1
+2016-07-21,Cardinals,6,10,1,Padres,5,10,0
+2016-07-21,White Sox,1,8,0,Tigers,2,7,0
+2016-07-21,Rockies,7,8,0,Braves,3,7,0
+2016-07-21,Athletics,3,5,0,Rays,7,10,0
+2016-07-22,Yankees,3,8,1,Giants,2,9,4
+2016-07-22,Nationals,3,6,1,Padres,5,6,1
+2016-07-22,Orioles,5,10,0,Indians,1,8,0
+2016-07-22,Pirates,0,3,0,Phillies,4,11,0
+2016-07-22,Blue Jays,1,4,0,Mariners,2,9,0
+2016-07-22,Red Sox,1,4,1,Twins,2,10,1
+2016-07-22,Reds,6,8,0,Diamondbacks,2,5,0
+2016-07-22,Marlins,3,7,0,Mets,5,9,1
+2016-07-22,Astros,2,7,0,Angels,1,5,1
+2016-07-22,White Sox,5,8,3,Tigers,7,11,1
+2016-07-22,Brewers,2,4,2,Cubs,5,8,1
+2016-07-22,Cardinals,4,8,0,Dodgers,3,14,1
+2016-07-22,Royals,3,8,0,Rangers,1,5,2
+2016-07-22,Rockies,4,8,1,Braves,3,9,0
+2016-07-22,Athletics,1,10,0,Rays,0,7,1
+2016-07-23,Blue Jays,5,8,0,Mariners,14,19,0
+2016-07-23,Yankees,1,9,0,Giants,2,9,2
+2016-07-23,Pirates,7,8,2,Phillies,4,12,0
+2016-07-23,Nationals,3,8,0,Padres,2,6,1
+2016-07-23,Orioles,5,10,0,Indians,2,7,0
+2016-07-23,Red Sox,9,15,1,Twins,11,19,1
+2016-07-23,Astros,7,10,0,Angels,2,6,0
+2016-07-23,Marlins,7,15,0,Mets,2,10,2
+2016-07-23,Reds,6,10,0,Diamondbacks,1,4,1
+2016-07-23,Brewers,6,8,0,Cubs,1,6,1
+2016-07-23,Cardinals,2,6,1,Dodgers,7,13,1
+2016-07-23,Royals,4,9,1,Rangers,7,8,3
+2016-07-23,Rockies,8,7,1,Braves,4,9,0
+2016-07-23,Athletics,4,8,0,Rays,3,9,1
+2016-07-24,Yankees,5,8,0,Giants,2,10,0
+2016-07-24,Blue Jays,2,4,0,Mariners,0,1,0
+2016-07-24,Reds,8,11,1,Diamondbacks,9,13,0
+2016-07-24,Marlins,0,5,0,Mets,3,6,0
+2016-07-24,Red Sox,8,10,1,Twins,7,9,1
+2016-07-24,Nationals,6,9,1,Padres,10,12,1
+2016-07-24,Orioles,5,7,1,Indians,3,7,1
+2016-07-24,Pirates,5,9,1,Phillies,4,9,0
+2016-07-24,Brewers,5,8,2,Cubs,6,11,0
+2016-07-24,Astros,13,15,1,Angels,3,11,1
+2016-07-24,White Sox,4,7,2,Tigers,3,8,1
+2016-07-24,Royals,1,7,0,Rangers,2,11,0
+2016-07-24,White Sox,5,12,0,Tigers,4,8,0
+2016-07-24,Athletics,3,10,0,Rays,2,5,1
+2016-07-24,Rockies,7,11,1,Braves,2,5,1
+2016-07-24,Cardinals,6,8,1,Dodgers,9,13,0
+2016-07-25,Orioles,3,6,0,Rockies,2,6,3
+2016-07-25,Blue Jays,4,9,0,Padres,2,5,0
+2016-07-25,Red Sox,2,10,0,Tigers,4,8,0
+2016-07-25,Marlins,0,2,2,Phillies,4,7,1
+2016-07-25,Brewers,7,12,0,Diamondbacks,2,9,0
+2016-07-25,Rangers,7,11,2,Athletics,6,12,0
+2016-07-25,Astros,1,6,0,Yankees,2,7,1
+2016-07-25,White Sox,5,8,2,Cubs,4,12,0
+2016-07-25,Royals,2,5,1,Angels,6,9,1
+2016-07-25,Giants,5,7,1,Reds,7,9,0
+2016-07-26,Mets,2,7,1,Cardinals,3,8,1
+2016-07-26,Orioles,3,5,0,Rockies,6,9,0
+2016-07-26,Pirates,4,12,1,Mariners,7,11,0
+2016-07-26,Blue Jays,7,8,0,Padres,6,10,1
+2016-07-26,Indians,7,11,1,Nationals,6,10,1
+2016-07-26,Red Sox,8,9,0,Tigers,9,13,1
+2016-07-26,Marlins,5,9,0,Phillies,0,4,0
+2016-07-26,White Sox,3,6,1,Cubs,0,4,0
+2016-07-26,Mets,3,6,0,Cardinals,1,4,1
+2016-07-26,Rangers,3,6,1,Athletics,6,10,0
+2016-07-26,Brewers,9,11,2,Diamondbacks,4,8,0
+2016-07-26,Twins,0,5,1,Braves,2,7,0
+2016-07-26,Astros,3,6,0,Yankees,6,13,0
+2016-07-26,Royals,0,3,1,Angels,13,22,0
+2016-07-26,Dodgers,3,5,1,Rays,2,6,2
+2016-07-26,Giants,9,13,1,Reds,7,11,2
+2016-07-27,Indians,1,6,0,Nationals,4,6,1
+2016-07-27,Marlins,11,16,0,Phillies,1,10,1
+2016-07-27,Blue Jays,4,6,2,Padres,8,6,0
+2016-07-27,Red Sox,3,7,0,Tigers,4,11,1
+2016-07-27,Dodgers,1,5,1,Rays,3,8,1
+2016-07-27,Giants,1,4,1,Reds,2,6,0
+2016-07-27,Pirates,10,14,1,Mariners,1,3,0
+2016-07-27,Orioles,1,6,0,Rockies,3,5,0
+2016-07-27,Mets,4,12,0,Cardinals,5,7,0
+2016-07-27,Rangers,4,13,1,Athletics,6,9,0
+2016-07-27,Cubs,8,6,0,White Sox,1,5,0
+2016-07-27,Twins,7,13,0,Braves,9,16,2
+2016-07-27,Astros,4,8,0,Yankees,1,5,0
+2016-07-27,Brewers,1,5,5,Diamondbacks,8,11,1
+2016-07-27,Royals,7,11,1,Angels,5,11,2
+2016-07-28,Mets,1,10,1,Rockies,2,8,1
+2016-07-28,Brewers,6,7,1,Diamondbacks,4,9,0
+2016-07-28,Braves,5,13,1,Phillies,7,10,0
+2016-07-28,Marlins,4,8,0,Cardinals,5,8,0
+2016-07-28,Twins,6,12,0,Orioles,2,11,0
+2016-07-28,Rangers,3,4,0,Royals,2,6,0
+2016-07-28,Cubs,3,7,0,White Sox,1,5,1
+2016-07-28,Angels,2,10,0,Red Sox,1,8,1
+2016-07-28,Giants,2,5,0,Nationals,4,11,1
+2016-07-29,Cubs,12,14,0,Mariners,1,8,0
+2016-07-29,Blue Jays,6,7,2,Orioles,5,7,1
+2016-07-29,Indians,5,8,2,Athletics,3,7,1
+2016-07-29,Mets,1,6,0,Rockies,6,13,0
+2016-07-29,Marlins,6,9,1,Cardinals,11,14,0
+2016-07-29,Tigers,14,16,1,Astros,6,7,0
+2016-07-29,Rays,5,7,0,Yankees,1,10,1
+2016-07-29,Braves,2,9,1,Phillies,1,5,1
+2016-07-29,Rangers,8,12,0,Royals,3,7,1
+2016-07-29,Twins,2,8,0,White Sox,1,6,1
+2016-07-29,Brewers,3,8,0,Pirates,1,4,0
+2016-07-29,Angels,2,5,0,Red Sox,6,7,0
+2016-07-29,Dodgers,9,10,0,Diamondbacks,7,9,1
+2016-07-29,Giants,1,9,0,Nationals,4,8,0
+2016-07-29,Padres,0,6,1,Reds,6,11,0
+2016-07-30,Blue Jays,9,10,0,Orioles,1,5,0
+2016-07-30,Cubs,1,3,1,Mariners,4,5,1
+2016-07-30,Giants,5,8,0,Nationals,3,8,0
+2016-07-30,Rays,6,7,1,Yankees,3,5,0
+2016-07-30,Indians,6,12,0,Athletics,3,8,0
+2016-07-30,Twins,5,8,1,White Sox,6,15,3
+2016-07-30,Marlins,11,12,1,Cardinals,0,6,1
+2016-07-30,Braves,5,14,2,Phillies,9,9,0
+2016-07-30,Tigers,3,7,0,Astros,2,5,2
+2016-07-30,Mets,2,6,3,Rockies,7,9,0
+2016-07-30,Brewers,5,12,1,Pirates,3,8,0
+2016-07-30,Rangers,2,8,0,Royals,1,5,0
+2016-07-30,Padres,2,6,0,Reds,1,5,1
+2016-07-30,Angels,5,8,0,Red Sox,2,6,0
+2016-07-30,Dodgers,2,8,0,Diamondbacks,4,10,0
+2016-07-31,Blue Jays,2,6,0,Orioles,6,8,0
+2016-07-31,Indians,8,10,0,Athletics,0,6,0
+2016-07-31,Mets,6,6,1,Rockies,4,8,0
+2016-07-31,Marlins,5,9,2,Cardinals,4,6,1
+2016-07-31,Tigers,11,10,0,Astros,0,7,0
+2016-07-31,Rays,5,6,1,Yankees,3,9,0
+2016-07-31,Braves,2,6,1,Phillies,1,5,0
+2016-07-31,Twins,6,9,4,White Sox,4,9,0
+2016-07-31,Brewers,4,8,1,Pirates,2,5,1
+2016-07-31,Rangers,5,9,1,Royals,3,4,0
+2016-07-31,Angels,3,11,1,Red Sox,5,9,1
+2016-07-31,Giants,3,10,0,Nationals,1,3,2
+2016-07-31,Dodgers,14,17,2,Diamondbacks,3,3,2
+2016-07-31,Padres,2,5,0,Reds,3,9,0
+2016-07-31,Cubs,7,9,0,Mariners,6,11,1
+2016-08-01,Indians,5,7,0,Twins,12,19,0
+2016-08-01,Rays,0,1,0,Royals,3,9,1
+2016-08-01,Mets,5,11,1,Yankees,6,7,0
+2016-08-01,Cubs,5,10,1,Marlins,0,7,0
+2016-08-01,Astros,2,7,0,Blue Jays,1,6,1
+2016-08-01,Diamondbacks,1,5,1,Nationals,14,19,0
+2016-08-01,Padres,7,10,0,Brewers,3,6,1
+2016-08-01,Mariners,1,4,0,Red Sox,2,5,0
+2016-08-02,Phillies,13,15,1,Giants,8,10,1
+2016-08-02,Orioles,5,9,0,Rangers,1,3,0
+2016-08-02,Indians,6,13,0,Twins,10,14,0
+2016-08-02,Braves,3,9,0,Pirates,5,5,1
+2016-08-02,Rays,2,9,0,Royals,3,9,2
+2016-08-02,Reds,7,12,0,Cardinals,5,10,1
+2016-08-02,Tigers,11,13,0,White Sox,5,11,0
+2016-08-02,Mets,7,10,0,Yankees,1,6,2
+2016-08-02,Cubs,3,9,1,Marlins,2,9,0
+2016-08-02,Astros,1,7,0,Blue Jays,2,8,0
+2016-08-02,Rockies,7,11,0,Dodgers,3,5,1
+2016-08-02,Diamondbacks,4,11,1,Nationals,10,15,1
+2016-08-02,Angels,5,7,0,Athletics,4,9,2
+2016-08-02,Mariners,5,8,0,Red Sox,4,6,0
+2016-08-02,Padres,2,6,0,Brewers,3,11,0
+2016-08-03,Cubs,5,9,0,Marlins,4,11,1
+2016-08-03,Diamondbacks,3,5,0,Nationals,8,14,0
+2016-08-03,Padres,12,14,0,Brewers,3,9,2
+2016-08-03,Yankees,9,9,2,Mets,5,10,1
+2016-08-03,Phillies,5,9,0,Giants,4,10,1
+2016-08-03,Orioles,3,4,0,Rangers,2,7,0
+2016-08-03,Indians,5,8,1,Twins,13,15,0
+2016-08-03,Braves,8,15,0,Pirates,4,4,0
+2016-08-03,Reds,4,10,0,Cardinals,5,9,0
+2016-08-03,Rays,12,14,0,Royals,0,2,3
+2016-08-03,Tigers,2,6,1,White Sox,1,6,1
+2016-08-03,Astros,1,5,1,Blue Jays,3,7,2
+2016-08-03,Rockies,12,17,0,Dodgers,2,6,0
+2016-08-03,Angels,8,12,1,Athletics,6,13,2
+2016-08-03,Mariners,3,4,0,Red Sox,1,7,0
+2016-08-04,Indians,9,11,0,Twins,2,7,1
+2016-08-04,Rays,3,4,0,Royals,2,9,1
+2016-08-04,Reds,7,11,0,Cardinals,0,5,0
+2016-08-04,Phillies,2,4,0,Giants,3,8,0
+2016-08-04,Tigers,3,9,0,White Sox,6,10,0
+2016-08-04,Yankees,1,9,0,Mets,4,6,0
+2016-08-04,Angels,6,14,0,Athletics,8,11,1
+2016-08-04,Orioles,3,9,0,Rangers,5,11,0
+2016-08-04,Braves,5,6,2,Pirates,2,5,2
+2016-08-04,Astros,1,5,0,Blue Jays,4,8,0
+2016-08-04,Rockies,2,5,1,Dodgers,4,11,0
+2016-08-04,Mariners,2,6,0,Red Sox,3,13,0
+2016-08-05,Pirates,3,6,0,Reds,2,6,2
+2016-08-05,Yankees,13,16,0,Indians,7,11,0
+2016-08-05,Nationals,5,6,0,Giants,1,4,1
+2016-08-05,Tigers,4,8,0,Mets,3,5,0
+2016-08-05,Rays,2,7,1,Twins,6,10,0
+2016-08-05,Astros,5,9,0,Rangers,0,3,1
+2016-08-05,White Sox,5,10,1,Orioles,7,16,4
+2016-08-05,Royals,3,8,0,Blue Jays,4,8,2
+2016-08-05,Cardinals,1,2,0,Braves,0,3,0
+2016-08-05,Rockies,3,11,2,Marlins,5,8,1
+2016-08-05,Diamondbacks,3,7,2,Brewers,2,6,1
+2016-08-05,Athletics,2,6,0,Cubs,7,11,0
+2016-08-05,Mariners,6,14,1,Angels,4,3,1
+2016-08-05,Dodgers,0,3,2,Red Sox,9,10,0
+2016-08-05,Padres,4,10,0,Phillies,5,6,0
+2016-08-06,Yankees,2,6,0,Indians,5,10,0
+2016-08-06,Dodgers,3,11,0,Red Sox,0,5,0
+2016-08-06,Athletics,0,4,1,Cubs,4,8,0
+2016-08-06,Rays,7,10,1,Twins,3,7,2
+2016-08-06,Pirates,5,9,0,Reds,3,7,1
+2016-08-06,Nationals,1,8,0,Giants,7,14,0
+2016-08-06,Astros,2,9,0,Rangers,3,13,0
+2016-08-06,Tigers,6,10,3,Mets,5,14,0
+2016-08-06,White Sox,4,10,1,Orioles,2,6,0
+2016-08-06,Cardinals,5,11,2,Braves,13,15,0
+2016-08-06,Royals,4,11,1,Blue Jays,2,5,0
+2016-08-06,Diamondbacks,6,8,0,Brewers,15,19,3
+2016-08-06,Rockies,12,17,1,Marlins,6,10,0
+2016-08-06,Padres,9,14,3,Phillies,7,9,0
+2016-08-06,Mariners,8,10,0,Angels,6,10,1
+2016-08-07,Yankees,3,5,3,Indians,2,8,0
+2016-08-07,Rays,3,8,2,Twins,6,12,0
+2016-08-07,Tigers,1,11,0,Mets,3,5,2
+2016-08-07,Pirates,3,6,2,Reds,7,8,0
+2016-08-07,Nationals,1,2,1,Giants,0,5,0
+2016-08-07,White Sox,2,4,0,Orioles,10,12,0
+2016-08-07,Astros,3,11,1,Rangers,5,15,0
+2016-08-07,Cardinals,3,9,0,Braves,6,11,1
+2016-08-07,Royals,7,11,0,Blue Jays,1,6,2
+2016-08-07,Athletics,1,4,0,Cubs,3,10,0
+2016-08-07,Mariners,3,7,1,Angels,1,5,0
+2016-08-07,Diamondbacks,9,12,1,Brewers,3,5,3
+2016-08-07,Rockies,7,9,2,Marlins,10,17,0
+2016-08-07,Padres,5,5,3,Phillies,6,14,1
+2016-08-07,Dodgers,8,9,0,Red Sox,5,6,3
+2016-08-08,Blue Jays,7,12,0,Rays,5,9,0
+2016-08-08,Marlins,7,13,1,Giants,8,18,0
+2016-08-08,Brewers,3,8,1,Braves,4,10,0
+2016-08-08,Twins,3,11,0,Astros,1,4,1
+2016-08-08,Cardinals,5,9,0,Reds,4,8,1
+2016-08-08,Rockies,3,8,0,Rangers,4,6,0
+2016-08-08,Athletics,3,7,0,Orioles,2,7,0
+2016-08-08,Mariners,3,7,0,Tigers,0,5,0
+2016-08-08,Dodgers,9,11,1,Phillies,4,8,0
+2016-08-09,Rockies,5,11,0,Rangers,7,11,0
+2016-08-09,Pirates,6,10,0,Padres,4,7,2
+2016-08-09,Nationals,1,6,1,Indians,3,5,2
+2016-08-09,Blue Jays,2,6,2,Rays,9,15,0
+2016-08-09,Red Sox,5,9,1,Yankees,3,7,0
+2016-08-09,Marlins,2,4,1,Giants,0,3,0
+2016-08-09,Mets,3,6,1,Diamondbacks,5,8,1
+2016-08-09,Cubs,5,8,0,Angels,1,3,1
+2016-08-09,Brewers,1,4,1,Braves,2,6,0
+2016-08-09,Twins,5,9,1,Astros,7,12,0
+2016-08-09,Cardinals,4,9,2,Reds,7,11,0
+2016-08-09,Royals,5,10,0,White Sox,7,14,1
+2016-08-09,Athletics,2,6,0,Orioles,1,3,0
+2016-08-09,Mariners,6,16,0,Tigers,5,16,1
+2016-08-09,Dodgers,9,13,0,Phillies,3,9,0
+2016-08-10,Marlins,0,5,1,Giants,1,6,0
+2016-08-10,Dodgers,2,8,0,Phillies,6,7,0
+2016-08-10,Nationals,7,11,0,Indians,4,10,0
+2016-08-10,Pirates,0,2,2,Padres,4,6,0
+2016-08-10,Blue Jays,7,9,0,Rays,0,5,2
+2016-08-10,Red Sox,4,9,0,Yankees,9,15,0
+2016-08-10,Mets,2,6,1,Diamondbacks,3,11,0
+2016-08-10,Cardinals,3,9,0,Reds,2,6,0
+2016-08-10,Cubs,3,7,0,Angels,1,6,1
+2016-08-10,Rangers,5,9,3,Rockies,4,6,1
+2016-08-10,Brewers,4,10,0,Braves,3,9,1
+2016-08-10,Royals,3,12,0,White Sox,2,13,1
+2016-08-10,Athletics,1,4,0,Orioles,0,7,0
+2016-08-10,Mariners,3,10,0,Tigers,1,4,0
+2016-08-11,Mets,0,5,1,Diamondbacks,9,12,0
+2016-08-11,Pirates,4,9,0,Padres,0,4,0
+2016-08-11,Twins,7,13,2,Astros,15,19,0
+2016-08-11,Rangers,9,14,0,Rockies,12,15,0
+2016-08-11,Brewers,11,14,0,Braves,3,9,1
+2016-08-11,Athletics,6,10,1,Orioles,9,11,0
+2016-08-11,Indians,14,14,0,Angels,4,6,2
+2016-08-11,Red Sox,2,9,0,Yankees,4,7,0
+2016-08-11,Twins,2,9,2,Astros,10,16,1
+2016-08-11,Cubs,4,11,0,Cardinals,3,10,0
+2016-08-11,Royals,2,4,0,White Sox,1,7,1
+2016-08-12,Cubs,13,14,2,Cardinals,2,6,0
+2016-08-12,Phillies,10,11,1,Rockies,6,8,3
+2016-08-12,Nationals,5,9,0,Braves,8,9,0
+2016-08-12,Blue Jays,3,7,1,Astros,5,12,0
+2016-08-12,Indians,13,17,0,Angels,3,8,2
+2016-08-12,Red Sox,9,11,0,Diamondbacks,4,12,2
+2016-08-12,Mets,6,8,0,Padres,8,6,0
+2016-08-12,Marlins,2,4,0,White Sox,4,12,0
+2016-08-12,Yankees,6,8,0,Rays,3,4,0
+2016-08-12,Rangers,8,13,2,Tigers,5,7,0
+2016-08-12,Brewers,4,6,2,Reds,7,12,1
+2016-08-12,Twins,3,5,1,Royals,7,11,0
+2016-08-12,Athletics,6,12,0,Mariners,3,4,0
+2016-08-12,Dodgers,1,12,0,Pirates,5,7,0
+2016-08-12,Giants,2,5,1,Orioles,5,10,0
+2016-08-13,Yankees,8,11,0,Rays,4,6,0
+2016-08-13,Blue Jays,4,7,0,Astros,2,7,0
+2016-08-13,Cubs,4,8,0,Cardinals,8,8,1
+2016-08-13,Dodgers,8,17,0,Pirates,4,10,3
+2016-08-13,Phillies,6,6,0,Rockies,3,13,0
+2016-08-13,Nationals,7,11,1,Braves,6,11,1
+2016-08-13,Indians,5,14,0,Angels,1,1,2
+2016-08-13,Brewers,5,14,2,Reds,11,16,0
+2016-08-13,Red Sox,6,8,1,Diamondbacks,3,5,1
+2016-08-13,Mets,3,7,0,Padres,2,5,3
+2016-08-13,Marlins,7,14,0,White Sox,8,10,0
+2016-08-13,Twins,5,12,2,Royals,3,8,0
+2016-08-13,Rangers,0,3,0,Tigers,2,14,0
+2016-08-13,Giants,6,7,0,Orioles,2,5,0
+2016-08-13,Athletics,3,11,0,Mariners,4,9,0
+2016-08-14,Yankees,3,7,1,Rays,12,15,0
+2016-08-14,Blue Jays,9,11,2,Astros,2,7,2
+2016-08-14,Indians,5,11,0,Angels,4,5,0
+2016-08-14,Marlins,5,9,0,White Sox,4,11,0
+2016-08-14,Mets,5,5,0,Padres,1,4,2
+2016-08-14,Phillies,7,10,1,Rockies,6,12,4
+2016-08-14,Red Sox,16,19,2,Diamondbacks,2,7,1
+2016-08-14,Nationals,9,9,0,Braves,1,5,2
+2016-08-14,Brewers,7,8,0,Reds,3,7,0
+2016-08-14,Twins,4,6,4,Royals,11,16,1
+2016-08-14,Rangers,0,4,1,Tigers,7,13,0
+2016-08-14,Giants,7,14,1,Orioles,8,15,1
+2016-08-14,Athletics,4,9,0,Mariners,8,12,0
+2016-08-14,Dodgers,3,7,2,Pirates,11,16,0
+2016-08-14,Cubs,4,8,1,Cardinals,6,10,0
+2016-08-15,Indians,2,6,0,Red Sox,3,10,0
+2016-08-15,Yankees,1,8,0,Blue Jays,0,3,0
+2016-08-15,Tigers,1,6,1,Royals,3,9,1
+2016-08-15,Rays,8,8,0,Padres,2,3,0
+2016-08-15,Reds,3,7,1,Marlins,6,9,2
+2016-08-15,Rangers,5,10,1,Athletics,2,6,1
+2016-08-15,Rockies,4,10,0,Nationals,5,10,0
+2016-08-15,Diamondbacks,10,16,1,Mets,6,12,2
+2016-08-15,Angels,2,4,0,Mariners,3,9,0
+2016-08-15,Giants,5,12,0,Pirates,8,12,1
+2016-08-16,Cubs,4,6,1,Brewers,0,3,0
+2016-08-16,Phillies,5,8,1,Dodgers,15,13,1
+2016-08-16,Yankees,6,8,1,Blue Jays,12,15,0
+2016-08-16,Orioles,3,4,0,Red Sox,5,7,0
+2016-08-16,Indians,3,11,0,White Sox,1,7,1
+2016-08-16,Rays,15,16,1,Padres,1,7,0
+2016-08-16,Reds,6,8,0,Marlins,3,9,0
+2016-08-16,Braves,2,6,0,Twins,4,11,0
+2016-08-16,Tigers,1,3,1,Royals,6,6,0
+2016-08-16,Cubs,4,10,1,Brewers,1,6,0
+2016-08-16,Rangers,5,6,1,Athletics,4,11,0
+2016-08-16,Astros,5,9,0,Cardinals,8,9,1
+2016-08-16,Rockies,6,9,0,Nationals,2,9,0
+2016-08-16,Diamondbacks,5,9,2,Mets,7,12,2
+2016-08-16,Angels,7,8,2,Mariners,6,10,0
+2016-08-16,Giants,3,8,0,Pirates,4,8,2
+2016-08-17,Yankees,4,9,1,Blue Jays,7,11,0
+2016-08-17,Rays,2,6,0,Padres,0,5,0
+2016-08-17,Astros,2,7,0,Cardinals,8,12,0
+2016-08-17,Rockies,12,11,1,Nationals,10,13,0
+2016-08-17,Giants,5,10,0,Pirates,6,7,0
+2016-08-17,Phillies,2,11,0,Dodgers,7,11,0
+2016-08-17,Orioles,1,4,0,Red Sox,8,13,1
+2016-08-17,Indians,7,13,2,White Sox,10,13,0
+2016-08-17,Braves,3,8,0,Twins,10,14,0
+2016-08-17,Reds,3,8,1,Marlins,2,6,1
+2016-08-17,Tigers,1,6,0,Royals,4,7,2
+2016-08-17,Cubs,6,8,0,Brewers,1,4,0
+2016-08-17,Rangers,6,11,0,Athletics,2,8,1
+2016-08-17,Diamondbacks,13,12,0,Mets,5,10,0
+2016-08-17,Angels,3,14,0,Mariners,4,10,0
+2016-08-18,Tigers,4,10,0,Red Sox,3,9,0
+2016-08-18,Cubs,9,14,0,Brewers,6,6,0
+2016-08-18,Phillies,5,9,0,Dodgers,4,7,1
+2016-08-18,Orioles,13,18,1,Astros,5,7,0
+2016-08-18,Indians,5,12,0,White Sox,4,6,1
+2016-08-18,Braves,2,7,2,Nationals,8,6,1
+2016-08-18,Reds,5,8,2,Marlins,4,8,2
+2016-08-18,Royals,8,7,0,Twins,1,5,1
+2016-08-18,Angels,6,10,0,Mariners,4,8,1
+2016-08-18,Padres,9,12,1,Diamondbacks,8,14,1
+2016-08-18,Giants,10,17,0,Mets,7,13,0
+2016-08-19,Pirates,5,12,2,Marlins,6,16,1
+2016-08-19,Phillies,3,11,0,Cardinals,4,9,0
+2016-08-19,Orioles,8,10,0,Astros,15,18,1
+2016-08-19,Indians,3,6,0,Blue Jays,2,5,2
+2016-08-19,Rays,2,6,0,Rangers,6,11,1
+2016-08-19,Tigers,2,4,0,Red Sox,10,16,1
+2016-08-19,Reds,9,12,0,Dodgers,2,10,0
+2016-08-19,Braves,6,7,2,Nationals,7,12,2
+2016-08-19,White Sox,0,2,1,Athletics,9,11,1
+2016-08-19,Royals,5,12,0,Twins,4,7,0
+2016-08-19,Rockies,7,11,0,Cubs,6,12,2
+2016-08-19,Angels,0,6,1,Yankees,7,15,0
+2016-08-19,Mariners,7,11,0,Brewers,6,11,3
+2016-08-19,Giants,8,15,0,Mets,1,11,2
+2016-08-19,Padres,7,11,1,Diamondbacks,4,13,0
+2016-08-20,Giants,5,11,0,Mets,9,13,0
+2016-08-20,Rays,8,12,1,Rangers,2,9,0
+2016-08-20,Pirates,1,4,1,Marlins,3,6,0
+2016-08-20,Phillies,4,11,0,Cardinals,2,9,0
+2016-08-20,Orioles,2,7,1,Astros,12,14,0
+2016-08-20,Indians,5,6,0,Blue Jays,6,14,2
+2016-08-20,White Sox,6,10,0,Athletics,2,6,0
+2016-08-20,Braves,9,12,0,Nationals,11,17,1
+2016-08-20,Tigers,2,6,0,Red Sox,3,8,0
+2016-08-20,Reds,11,18,0,Dodgers,1,3,0
+2016-08-20,Royals,10,17,0,Twins,0,4,0
+2016-08-20,Rockies,2,5,2,Cubs,9,15,0
+2016-08-20,Padres,1,3,4,Diamondbacks,2,4,1
+2016-08-20,Mariners,8,12,0,Brewers,2,7,1
+2016-08-20,Angels,1,4,1,Yankees,5,8,0
+2016-08-21,Rays,8,8,0,Rangers,4,7,1
+2016-08-21,Indians,3,9,0,Blue Jays,2,7,0
+2016-08-21,Tigers,10,10,0,Red Sox,5,7,0
+2016-08-21,Reds,0,9,0,Dodgers,4,8,0
+2016-08-21,Pirates,2,5,2,Marlins,3,6,2
+2016-08-21,Braves,7,9,0,Nationals,6,8,5
+2016-08-21,Orioles,3,6,1,Astros,5,9,0
+2016-08-21,Phillies,0,9,0,Cardinals,9,13,0
+2016-08-21,White Sox,4,11,0,Athletics,2,10,1
+2016-08-21,Royals,2,4,1,Twins,1,8,1
+2016-08-21,Angels,2,8,0,Yankees,0,6,0
+2016-08-21,Mariners,6,11,0,Brewers,7,10,1
+2016-08-21,Rockies,11,14,0,Cubs,4,7,4
+2016-08-21,Padres,9,11,1,Diamondbacks,1,5,0
+2016-08-21,Giants,0,3,0,Mets,2,4,0
+2016-08-22,Reds,9,14,0,Dodgers,18,21,1
+2016-08-22,Pirates,1,5,1,Astros,3,5,2
+2016-08-22,Orioles,4,5,0,Nationals,3,5,0
+2016-08-22,Rays,2,5,1,Red Sox,6,9,0
+2016-08-22,Brewers,4,4,0,Rockies,2,7,2
+2016-08-22,Diamondbacks,9,16,0,Braves,8,12,0
+2016-08-22,Athletics,0,4,0,Indians,1,7,1
+2016-08-22,Mariners,7,10,0,Yankees,5,9,0
+2016-08-22,Padres,1,6,0,Cubs,5,11,1
+2016-08-23,Pirates,7,11,0,Astros,1,6,1
+2016-08-23,Orioles,8,13,0,Nationals,1,10,1
+2016-08-23,Blue Jays,7,10,0,Angels,2,8,0
+2016-08-23,Rays,1,6,1,Red Sox,2,5,0
+2016-08-23,Marlins,0,7,0,Royals,1,6,0
+2016-08-23,Reds,3,6,0,Rangers,0,5,0
+2016-08-23,Twins,3,6,1,Tigers,8,14,0
+2016-08-23,White Sox,9,11,0,Phillies,1,5,0
+2016-08-23,Brewers,6,8,0,Rockies,4,11,0
+2016-08-23,Cardinals,4,9,0,Mets,7,12,0
+2016-08-23,Diamondbacks,4,5,2,Braves,7,12,0
+2016-08-23,Athletics,9,13,0,Indians,1,4,1
+2016-08-23,Dodgers,9,14,0,Giants,5,9,0
+2016-08-23,Mariners,1,4,2,Yankees,5,9,0
+2016-08-23,Padres,3,4,1,Cubs,5,10,0
+2016-08-24,Pirates,4,11,1,Astros,5,7,0
+2016-08-24,Brewers,7,10,1,Rockies,1,6,0
+2016-08-24,Athletics,5,10,0,Indians,1,9,1
+2016-08-24,Padres,3,6,1,Cubs,6,10,1
+2016-08-24,Mariners,0,8,0,Yankees,5,9,0
+2016-08-24,Nationals,8,15,2,Orioles,10,12,0
+2016-08-24,Blue Jays,2,9,0,Angels,8,17,0
+2016-08-24,Rays,4,12,0,Red Sox,3,9,1
+2016-08-24,Marlins,3,7,1,Royals,0,8,0
+2016-08-24,Reds,5,4,1,Rangers,6,7,1
+2016-08-24,Twins,4,8,1,Tigers,9,14,1
+2016-08-24,White Sox,3,7,0,Phillies,5,10,0
+2016-08-24,Cardinals,8,19,1,Mets,1,4,0
+2016-08-24,Diamondbacks,10,18,0,Braves,9,14,0
+2016-08-24,Dodgers,1,5,0,Giants,0,6,0
+2016-08-25,Twins,5,9,1,Tigers,8,11,0
+2016-08-25,Rays,2,7,0,Red Sox,1,7,0
+2016-08-25,Nationals,4,10,0,Orioles,0,3,0
+2016-08-25,Blue Jays,3,7,0,Angels,6,11,1
+2016-08-25,Marlins,2,8,3,Royals,5,8,3
+2016-08-25,Cardinals,6,11,2,Mets,10,15,1
+2016-08-25,Rangers,9,8,0,Indians,0,2,2
+2016-08-25,White Sox,7,11,1,Mariners,6,8,1
+2016-08-25,Brewers,2,5,1,Pirates,3,7,0
+2016-08-25,Diamondbacks,1,2,1,Braves,3,8,1
+2016-08-25,Dodgers,0,1,1,Giants,4,8,0
+2016-08-26,Yankees,14,18,1,Orioles,4,7,3
+2016-08-26,Nationals,8,10,0,Rockies,5,6,3
+2016-08-26,Blue Jays,15,15,1,Twins,8,9,2
+2016-08-26,Red Sox,3,15,0,Royals,6,9,1
+2016-08-26,Mets,9,11,0,Phillies,4,7,0
+2016-08-26,Marlins,7,13,1,Padres,6,6,2
+2016-08-26,Tigers,4,9,0,Angels,2,4,0
+2016-08-26,Rangers,1,6,0,Indians,12,17,0
+2016-08-26,Astros,5,6,0,Rays,4,8,1
+2016-08-26,White Sox,1,8,0,Mariners,3,5,0
+2016-08-26,Brewers,3,7,2,Pirates,5,7,1
+2016-08-26,Cardinals,3,6,0,Athletics,1,5,0
+2016-08-26,Diamondbacks,4,7,0,Reds,3,12,0
+2016-08-26,Dodgers,4,9,0,Cubs,6,9,1
+2016-08-26,Giants,7,10,0,Braves,0,7,3
+2016-08-27,Yankees,13,18,0,Orioles,5,12,0
+2016-08-27,Nationals,4,12,2,Rockies,9,16,0
+2016-08-27,Blue Jays,8,10,0,Twins,7,11,1
+2016-08-27,Dodgers,3,6,1,Cubs,2,8,0
+2016-08-27,Red Sox,8,12,0,Royals,3,6,1
+2016-08-27,Mets,12,13,0,Phillies,1,3,0
+2016-08-27,Marlins,0,9,1,Padres,1,7,0
+2016-08-27,Astros,6,12,2,Rays,2,9,1
+2016-08-27,Tigers,2,8,0,Angels,3,8,0
+2016-08-27,White Sox,9,15,0,Mariners,3,7,0
+2016-08-27,Brewers,6,11,1,Pirates,9,12,0
+2016-08-27,Cardinals,2,6,0,Athletics,3,4,1
+2016-08-27,Rangers,7,10,1,Indians,0,7,1
+2016-08-27,Diamondbacks,0,4,1,Reds,13,16,0
+2016-08-27,Giants,1,5,0,Braves,3,7,0
+2016-08-28,Yankees,0,8,0,Orioles,5,10,0
+2016-08-28,Blue Jays,9,13,1,Twins,6,10,1
+2016-08-28,Mets,1,7,0,Phillies,5,8,1
+2016-08-28,Marlins,1,6,0,Padres,3,8,0
+2016-08-28,Tigers,0,4,0,Angels,5,11,0
+2016-08-28,Nationals,3,6,0,Rockies,5,10,1
+2016-08-28,Astros,4,7,2,Rays,10,15,1
+2016-08-28,Brewers,1,5,0,Pirates,3,7,0
+2016-08-28,White Sox,4,5,0,Mariners,1,7,0
+2016-08-28,Cardinals,4,8,2,Athletics,7,9,0
+2016-08-28,Rangers,2,5,0,Indians,1,6,1
+2016-08-28,Giants,13,18,0,Braves,4,6,0
+2016-08-28,Diamondbacks,11,18,0,Reds,2,5,1
+2016-08-28,Dodgers,1,4,0,Cubs,0,4,2
+2016-08-28,Red Sox,4,9,1,Royals,10,10,1
+2016-08-29,Phillies,0,4,1,Nationals,4,9,0
+2016-08-29,Orioles,1,4,0,Blue Jays,5,7,0
+2016-08-29,Indians,1,8,0,Twins,0,9,1
+2016-08-29,Red Sox,9,14,0,Rays,4,9,0
+2016-08-29,Mets,2,7,0,Marlins,1,5,0
+2016-08-29,Tigers,4,7,0,White Sox,3,9,1
+2016-08-29,Brewers,5,8,2,Cardinals,6,11,1
+2016-08-29,Cubs,8,17,2,Pirates,7,13,1
+2016-08-29,Rangers,6,8,0,Mariners,3,7,1
+2016-08-29,Astros,6,8,0,Athletics,0,4,2
+2016-08-29,Royals,8,11,1,Yankees,5,9,0
+2016-08-29,Rockies,8,12,1,Dodgers,1,5,0
+2016-08-29,Angels,9,14,0,Reds,2,8,0
+2016-08-30,Phillies,2,3,0,Nationals,3,7,0
+2016-08-30,Orioles,5,7,1,Blue Jays,3,7,0
+2016-08-30,Indians,5,9,1,Twins,4,10,0
+2016-08-30,Braves,7,12,0,Padres,3,7,0
+2016-08-30,Red Sox,3,6,0,Rays,4,8,0
+2016-08-30,Mets,7,13,0,Marlins,4,9,0
+2016-08-30,Tigers,8,11,0,White Sox,4,9,2
+2016-08-30,Cubs,3,5,0,Pirates,0,4,0
+2016-08-30,Rangers,8,15,1,Mariners,7,11,3
+2016-08-30,Astros,3,5,1,Athletics,1,5,1
+2016-08-30,Brewers,1,5,0,Cardinals,2,7,0
+2016-08-30,Royals,4,7,0,Yankees,5,14,2
+2016-08-30,Angels,4,10,0,Reds,2,11,0
+2016-08-30,Giants,3,8,0,Diamondbacks,4,7,1
+2016-08-31,Tigers,3,9,0,White Sox,2,4,0
+2016-08-31,Red Sox,8,12,0,Rays,6,12,0
+2016-08-31,Rangers,14,12,1,Mariners,1,8,0
+2016-08-31,Astros,4,6,1,Athletics,3,8,0
+2016-08-31,Rockies,7,14,0,Dodgers,0,6,0
+2016-08-31,Giants,4,9,0,Diamondbacks,2,9,0
+2016-08-31,Angels,3,7,2,Reds,0,4,0
+2016-08-31,Phillies,1,2,1,Nationals,2,6,0
+2016-08-31,Orioles,3,8,0,Blue Jays,5,9,1
+2016-08-31,Indians,8,12,0,Twins,4,8,0
+2016-08-31,Braves,8,12,0,Padres,1,5,1
+2016-08-31,Mets,5,9,3,Marlins,2,7,0
+2016-08-31,Cubs,6,8,2,Pirates,5,9,0
+2016-08-31,Brewers,3,4,1,Cardinals,1,3,0
+2016-08-31,Rockies,8,12,1,Dodgers,10,10,2
+2016-08-31,Royals,4,6,2,Yankees,5,11,1
+2016-09-01,Braves,9,11,0,Padres,6,8,0
+2016-09-01,Mets,4,9,0,Marlins,6,10,1
+2016-09-01,Cubs,5,8,1,Giants,4,3,0
+2016-09-01,Twins,8,9,0,White Sox,5,15,0
+2016-09-02,Cubs,2,5,0,Giants,1,3,0
+2016-09-02,Pirates,0,7,1,Brewers,1,3,1
+2016-09-02,Phillies,4,9,1,Braves,8,13,0
+2016-09-02,Orioles,8,10,0,Yankees,0,2,0
+2016-09-02,Indians,6,7,0,Marlins,2,8,0
+2016-09-02,Mets,1,4,0,Nationals,4,8,0
+2016-09-02,Rays,8,8,0,Blue Jays,3,6,2
+2016-09-02,Reds,3,11,0,Cardinals,2,6,1
+2016-09-02,Rangers,10,13,1,Astros,8,7,1
+2016-09-02,Twins,4,8,1,White Sox,11,17,1
+2016-09-02,Royals,6,11,0,Tigers,7,13,2
+2016-09-02,Rockies,14,14,2,Diamondbacks,7,10,2
+2016-09-02,Athletics,2,6,2,Red Sox,16,17,0
+2016-09-02,Mariners,11,13,1,Angels,8,10,2
+2016-09-02,Dodgers,2,13,1,Padres,4,6,1
+2016-09-03,Cubs,2,7,1,Giants,3,4,1
+2016-09-03,Rangers,12,16,0,Astros,4,11,0
+2016-09-03,Reds,9,12,1,Cardinals,1,5,1
+2016-09-03,Rays,7,13,0,Blue Jays,5,6,0
+2016-09-03,Orioles,2,8,0,Yankees,0,4,1
+2016-09-03,Pirates,4,9,0,Brewers,7,14,1
+2016-09-03,Phillies,4,6,2,Braves,6,9,1
+2016-09-03,Twins,11,12,0,White Sox,3,4,1
+2016-09-03,Indians,8,12,0,Marlins,3,4,3
+2016-09-03,Mets,3,6,1,Nationals,1,7,0
+2016-09-03,Royals,5,9,0,Tigers,2,9,0
+2016-09-03,Rockies,4,10,0,Diamondbacks,9,14,1
+2016-09-03,Athletics,2,5,2,Red Sox,11,17,0
+2016-09-03,Mariners,3,9,1,Angels,10,15,0
+2016-09-03,Dodgers,5,9,0,Padres,1,4,0
+2016-09-04,Rays,3,8,0,Blue Jays,5,10,0
+2016-09-04,Reds,2,11,2,Cardinals,5,5,0
+2016-09-04,Phillies,0,5,0,Braves,2,8,0
+2016-09-04,Pirates,0,6,2,Brewers,10,11,0
+2016-09-04,Orioles,2,6,1,Yankees,5,7,0
+2016-09-04,Twins,11,18,3,White Sox,13,16,0
+2016-09-04,Royals,5,7,0,Tigers,6,13,0
+2016-09-04,Cubs,3,10,1,Giants,2,4,0
+2016-09-04,Rangers,6,11,1,Astros,7,11,0
+2016-09-04,Athletics,1,2,1,Red Sox,0,6,2
+2016-09-04,Indians,6,10,2,Marlins,5,11,0
+2016-09-04,Dodgers,7,9,1,Padres,4,7,0
+2016-09-04,Rockies,5,11,0,Diamondbacks,8,10,1
+2016-09-04,Mariners,2,8,0,Angels,4,10,0
+2016-09-04,Mets,5,9,0,Nationals,1,9,0
+2016-09-05,Yankees,5,8,0,Blue Jays,3,8,0
+2016-09-05,Marlins,2,6,3,Phillies,6,8,0
+2016-09-05,Rays,3,2,1,Orioles,7,9,0
+2016-09-05,Reds,0,8,0,Mets,5,10,0
+2016-09-05,Brewers,2,6,2,Cubs,7,10,0
+2016-09-05,Twins,5,12,1,Royals,11,16,0
+2016-09-05,Pirates,6,12,2,Cardinals,12,14,0
+2016-09-05,Athletics,7,11,2,Angels,10,14,0
+2016-09-05,Nationals,6,9,2,Braves,4,11,0
+2016-09-05,Mariners,14,14,0,Rangers,6,7,0
+2016-09-05,White Sox,3,10,1,Tigers,5,9,0
+2016-09-05,Rockies,6,6,0,Giants,0,2,0
+2016-09-05,Padres,2,6,0,Red Sox,1,7,0
+2016-09-05,Indians,2,7,2,Astros,6,11,1
+2016-09-05,Dodgers,10,11,0,Diamondbacks,2,4,0
+2016-09-06,Yankees,7,7,0,Blue Jays,6,11,1
+2016-09-06,Pirates,7,12,0,Cardinals,9,15,2
+2016-09-06,Nationals,9,12,0,Braves,7,11,2
+2016-09-06,Indians,3,7,0,Astros,4,7,1
+2016-09-06,Marlins,3,7,0,Phillies,4,10,1
+2016-09-06,Rays,2,8,1,Orioles,11,14,1
+2016-09-06,Reds,3,5,1,Mets,5,8,1
+2016-09-06,Twins,3,8,1,Royals,10,10,0
+2016-09-06,Brewers,12,16,0,Cubs,5,8,2
+2016-09-06,White Sox,2,8,0,Tigers,0,7,0
+2016-09-06,Rockies,2,4,1,Giants,3,8,0
+2016-09-06,Athletics,3,4,1,Angels,2,5,0
+2016-09-06,Mariners,7,12,1,Rangers,10,15,2
+2016-09-06,Padres,1,9,0,Red Sox,5,10,0
+2016-09-06,Dodgers,5,11,0,Diamondbacks,2,4,0
+2016-09-07,Reds,3,13,1,Mets,6,13,0
+2016-09-07,Rays,7,13,1,Orioles,6,10,0
+2016-09-07,White Sox,7,13,0,Tigers,4,10,1
+2016-09-07,Athletics,4,10,0,Angels,1,2,1
+2016-09-07,Yankees,2,9,0,Blue Jays,0,5,1
+2016-09-07,Pirates,4,11,1,Cardinals,3,9,0
+2016-09-07,Nationals,5,15,0,Braves,4,13,0
+2016-09-07,Indians,6,12,0,Astros,5,12,0
+2016-09-07,Marlins,6,13,0,Phillies,0,4,1
+2016-09-07,Twins,6,12,1,Royals,5,11,1
+2016-09-07,Brewers,2,5,0,Cubs,1,3,0
+2016-09-07,Rockies,6,11,0,Giants,5,13,0
+2016-09-07,Padres,2,7,1,Red Sox,7,9,0
+2016-09-07,Mariners,8,8,1,Rangers,3,7,0
+2016-09-07,Dodgers,3,4,1,Diamondbacks,1,7,0
+2016-09-08,Indians,10,9,0,Astros,7,9,0
+2016-09-08,Yankees,5,10,0,Rays,4,12,1
+2016-09-08,Pirates,4,11,1,Reds,1,6,0
+2016-09-08,Nationals,1,5,1,Phillies,4,6,1
+2016-09-08,Cardinals,5,11,1,Brewers,12,17,2
+2016-09-08,Mariners,6,11,0,Rangers,3,8,0
+2016-09-08,Padres,14,12,0,Rockies,1,8,2
+2016-09-09,Yankees,7,9,0,Rays,5,12,0
+2016-09-09,Pirates,3,10,0,Reds,4,10,0
+2016-09-09,Nationals,5,9,0,Phillies,4,7,0
+2016-09-09,Blue Jays,3,9,2,Red Sox,13,18,1
+2016-09-09,Tigers,4,9,0,Orioles,3,5,0
+2016-09-09,Marlins,4,8,0,Dodgers,1,7,0
+2016-09-09,Braves,4,11,1,Mets,6,6,0
+2016-09-09,Twins,4,6,2,Indians,5,9,1
+2016-09-09,Astros,0,7,0,Cubs,2,5,0
+2016-09-09,White Sox,7,13,3,Royals,2,7,1
+2016-09-09,Cardinals,4,5,1,Brewers,3,9,1
+2016-09-09,Diamondbacks,6,10,1,Giants,7,12,0
+2016-09-09,Angels,1,4,0,Rangers,2,8,0
+2016-09-09,Athletics,2,7,0,Mariners,3,6,0
+2016-09-09,Padres,1,5,0,Rockies,4,9,0
+2016-09-10,Blue Jays,3,6,1,Red Sox,2,4,1
+2016-09-10,Astros,2,5,1,Cubs,1,2,1
+2016-09-10,Yankees,5,6,0,Rays,1,6,1
+2016-09-10,Athletics,3,9,0,Mariners,14,17,1
+2016-09-10,Pirates,7,10,0,Reds,8,15,1
+2016-09-10,Nationals,3,7,0,Phillies,0,5,0
+2016-09-10,Braves,4,8,2,Mets,3,7,0
+2016-09-10,Twins,2,7,0,Indians,1,7,0
+2016-09-10,Marlins,0,2,0,Dodgers,5,8,1
+2016-09-10,Tigers,3,8,0,Orioles,11,12,0
+2016-09-10,White Sox,5,13,1,Royals,6,7,0
+2016-09-10,Cardinals,5,8,0,Brewers,1,6,1
+2016-09-10,Diamondbacks,3,5,0,Giants,11,19,0
+2016-09-10,Padres,6,8,1,Rockies,3,4,1
+2016-09-10,Angels,5,9,0,Rangers,8,12,1
+2016-09-11,Yankees,2,7,0,Rays,4,9,1
+2016-09-11,Blue Jays,8,8,1,Red Sox,11,11,2
+2016-09-11,Marlins,3,10,0,Dodgers,0,4,2
+2016-09-11,Tigers,1,5,0,Orioles,3,8,0
+2016-09-11,Braves,3,11,0,Mets,10,11,0
+2016-09-11,Pirates,0,7,1,Reds,8,13,1
+2016-09-11,Nationals,3,4,1,Phillies,2,7,0
+2016-09-11,White Sox,0,2,0,Royals,2,10,0
+2016-09-11,Twins,1,5,4,Indians,7,13,1
+2016-09-11,Cardinals,1,5,0,Brewers,2,4,1
+2016-09-11,Angels,3,8,0,Rangers,2,5,0
+2016-09-11,Athletics,2,7,1,Mariners,3,12,0
+2016-09-11,Diamondbacks,3,11,0,Giants,5,8,0
+2016-09-11,Padres,2,5,0,Rockies,3,7,0
+2016-09-11,Astros,5,7,1,Cubs,9,10,0
+2016-09-12,Phillies,6,9,2,Pirates,2,5,1
+2016-09-12,Yankees,2,5,1,Dodgers,8,12,0
+2016-09-12,Nationals,8,10,0,Mets,1,5,0
+2016-09-12,Blue Jays,3,6,1,Rays,2,4,0
+2016-09-12,Braves,12,17,0,Marlins,7,17,1
+2016-09-12,Red Sox,12,16,1,Orioles,2,2,1
+2016-09-12,Reds,3,7,1,Brewers,0,6,0
+2016-09-12,Tigers,4,6,0,Twins,2,5,0
+2016-09-12,Royals,3,7,1,Athletics,16,17,0
+2016-09-12,Astros,3,7,1,Rangers,4,9,0
+2016-09-12,White Sox,11,16,2,Indians,4,8,2
+2016-09-12,Cardinals,1,1,1,Cubs,4,7,0
+2016-09-12,Diamondbacks,12,16,1,Rockies,9,14,1
+2016-09-12,Angels,1,6,1,Mariners,8,11,1
+2016-09-12,Giants,0,5,0,Padres,4,9,0
+2016-09-13,Phillies,3,6,0,Pirates,5,7,1
+2016-09-13,Yankees,3,8,0,Dodgers,0,5,0
+2016-09-13,Nationals,3,8,0,Mets,4,12,1
+2016-09-13,Blue Jays,2,9,0,Rays,6,7,0
+2016-09-13,Braves,5,9,1,Marlins,7,10,1
+2016-09-13,Red Sox,3,9,0,Orioles,6,9,1
+2016-09-13,Reds,6,10,0,Brewers,4,4,2
+2016-09-13,Tigers,1,6,0,Twins,8,13,0
+2016-09-13,Royals,4,10,2,Athletics,5,6,1
+2016-09-13,Astros,2,4,1,Rangers,3,6,0
+2016-09-13,White Sox,8,9,1,Indians,1,6,0
+2016-09-13,Cardinals,4,7,0,Cubs,2,4,0
+2016-09-13,Diamondbacks,11,17,0,Rockies,4,8,0
+2016-09-13,Angels,0,3,1,Mariners,8,10,1
+2016-09-13,Giants,4,12,0,Padres,6,12,0
+2016-09-14,Blue Jays,1,2,0,Rays,8,13,1
+2016-09-14,Cardinals,0,3,0,Cubs,7,12,0
+2016-09-14,Giants,1,4,0,Padres,3,8,0
+2016-09-14,Yankees,0,3,3,Dodgers,2,4,1
+2016-09-14,Nationals,1,6,0,Mets,0,3,0
+2016-09-14,Phillies,6,15,0,Pirates,2,9,2
+2016-09-14,Braves,5,9,1,Marlins,7,8,0
+2016-09-14,Red Sox,0,4,0,Orioles,1,5,1
+2016-09-14,Tigers,9,13,0,Twins,6,6,0
+2016-09-14,Reds,0,6,1,Brewers,7,6,1
+2016-09-14,Royals,0,4,1,Athletics,8,13,0
+2016-09-14,Astros,8,12,1,Rangers,4,8,0
+2016-09-14,White Sox,1,6,0,Indians,6,10,1
+2016-09-14,Diamondbacks,11,17,0,Rockies,6,13,2
+2016-09-14,Angels,1,5,0,Mariners,2,6,0
+2016-09-15,Tigers,1,9,1,Twins,5,11,0
+2016-09-15,White Sox,2,9,1,Indians,1,4,0
+2016-09-15,Phillies,2,5,1,Pirates,15,13,0
+2016-09-15,Orioles,6,9,0,Rays,7,12,1
+2016-09-15,Red Sox,7,9,0,Yankees,5,14,0
+2016-09-15,Royals,5,9,1,Athletics,14,16,1
+2016-09-15,Cubs,4,10,2,Brewers,5,7,0
+2016-09-15,Diamondbacks,7,6,0,Dodgers,3,9,0
+2016-09-15,Angels,2,6,1,Blue Jays,7,10,1
+2016-09-15,Giants,6,12,0,Cardinals,2,5,1
+2016-09-16,Cubs,5,11,1,Brewers,4,10,1
+2016-09-16,Orioles,5,9,1,Rays,4,10,2
+2016-09-16,Phillies,4,13,1,Marlins,3,13,0
+2016-09-16,Indians,11,14,0,Tigers,4,5,3
+2016-09-16,Reds,7,9,0,Pirates,9,12,1
+2016-09-16,Red Sox,7,12,0,Yankees,4,9,0
+2016-09-16,Mets,3,7,1,Twins,0,3,0
+2016-09-16,Braves,2,9,0,Nationals,7,12,1
+2016-09-16,Rangers,7,12,0,Athletics,6,10,1
+2016-09-16,Royals,4,7,0,White Sox,7,11,1
+2016-09-16,Rockies,8,14,0,Padres,7,10,1
+2016-09-16,Diamondbacks,2,6,1,Dodgers,3,5,0
+2016-09-16,Angels,0,8,0,Blue Jays,5,10,0
+2016-09-16,Mariners,0,3,2,Astros,6,10,0
+2016-09-16,Giants,8,7,1,Cardinals,2,7,1
+2016-09-17,Reds,4,11,3,Pirates,10,11,2
+2016-09-17,Braves,7,13,1,Nationals,3,7,0
+2016-09-17,Red Sox,6,10,0,Yankees,5,9,0
+2016-09-17,Cubs,3,8,1,Brewers,11,8,0
+2016-09-17,Indians,1,4,0,Tigers,0,4,0
+2016-09-17,Reds,3,7,1,Pirates,7,11,0
+2016-09-17,Phillies,8,11,0,Marlins,0,3,0
+2016-09-17,Orioles,2,7,1,Rays,5,6,0
+2016-09-17,Mets,3,10,0,Twins,2,8,0
+2016-09-17,Royals,3,7,0,White Sox,2,8,0
+2016-09-17,Rangers,2,6,0,Athletics,11,12,0
+2016-09-17,Diamondbacks,2,6,1,Dodgers,6,11,1
+2016-09-17,Rockies,8,12,0,Padres,0,4,0
+2016-09-17,Angels,6,8,0,Blue Jays,1,10,3
+2016-09-17,Giants,2,9,1,Cardinals,3,7,1
+2016-09-17,Mariners,1,7,0,Astros,2,5,0
+2016-09-18,Indians,5,7,0,Tigers,9,11,2
+2016-09-18,Reds,7,14,2,Pirates,4,7,1
+2016-09-18,Mets,3,7,0,Twins,2,8,1
+2016-09-18,Orioles,2,8,0,Rays,1,6,1
+2016-09-18,Phillies,4,8,2,Marlins,5,8,0
+2016-09-18,Braves,6,12,0,Nationals,2,7,0
+2016-09-18,Royals,10,12,0,White Sox,3,11,1
+2016-09-18,Cubs,1,9,0,Brewers,3,7,0
+2016-09-18,Rangers,2,8,0,Athletics,5,8,1
+2016-09-18,Angels,4,10,0,Blue Jays,0,4,1
+2016-09-18,Giants,0,5,0,Cardinals,3,9,2
+2016-09-18,Mariners,7,12,0,Astros,3,5,0
+2016-09-18,Diamondbacks,10,16,0,Dodgers,9,10,1
+2016-09-18,Rockies,6,10,1,Padres,3,6,0
+2016-09-18,Red Sox,5,10,0,Yankees,4,11,1
+2016-09-19,Royals,8,12,0,White Sox,3,9,1
+2016-09-19,Orioles,2,4,1,Red Sox,5,9,0
+2016-09-19,Marlins,4,7,1,Nationals,3,9,2
+2016-09-19,Mets,3,8,0,Braves,7,13,0
+2016-09-19,Cubs,5,9,1,Reds,2,6,0
+2016-09-19,Rangers,3,12,1,Angels,2,5,0
+2016-09-19,Rockies,3,8,1,Cardinals,5,11,0
+2016-09-19,Athletics,2,3,0,Astros,4,7,0
+2016-09-19,Dodgers,2,6,1,Giants,1,3,0
+2016-09-19,Mariners,2,3,0,Blue Jays,3,8,0
+2016-09-19,Padres,3,8,0,Diamondbacks,2,7,1
+2016-09-20,Phillies,7,12,0,White Sox,6,10,1
+2016-09-20,Orioles,2,6,0,Red Sox,5,11,0
+2016-09-20,Indians,2,5,1,Royals,1,6,1
+2016-09-20,Marlins,1,3,0,Nationals,0,4,0
+2016-09-20,Mets,4,9,0,Braves,5,10,0
+2016-09-20,Rays,3,5,0,Yankees,5,10,1
+2016-09-20,Cubs,6,11,1,Reds,1,7,0
+2016-09-20,Rangers,5,12,1,Angels,4,8,0
+2016-09-20,Twins,1,3,0,Tigers,8,11,0
+2016-09-20,Brewers,3,7,0,Pirates,6,13,2
+2016-09-20,Rockies,5,12,1,Cardinals,10,14,0
+2016-09-20,Athletics,1,3,0,Astros,2,8,0
+2016-09-20,Mariners,2,7,1,Blue Jays,10,14,0
+2016-09-20,Padres,5,4,1,Diamondbacks,2,4,0
+2016-09-20,Dodgers,0,9,0,Giants,2,11,1
+2016-09-21,Rockies,11,12,0,Cardinals,1,8,2
+2016-09-21,Athletics,5,7,0,Astros,6,9,1
+2016-09-21,Mariners,2,6,0,Blue Jays,1,6,2
+2016-09-21,Phillies,8,10,1,White Sox,3,7,0
+2016-09-21,Orioles,1,4,3,Red Sox,5,6,0
+2016-09-21,Indians,4,13,0,Royals,3,7,0
+2016-09-21,Marlins,3,4,3,Nationals,8,8,0
+2016-09-21,Mets,3,7,2,Braves,4,9,0
+2016-09-21,Rays,5,8,0,Yankees,11,17,0
+2016-09-21,Rangers,4,8,2,Angels,5,8,0
+2016-09-21,Cubs,9,15,1,Reds,2,6,1
+2016-09-21,Brewers,1,7,1,Pirates,4,9,0
+2016-09-21,Padres,2,4,0,Diamondbacks,3,5,0
+2016-09-21,Dodgers,9,12,1,Giants,3,7,1
+2016-09-22,Twins,2,5,1,Tigers,9,9,1
+2016-09-22,Orioles,3,6,1,Red Sox,5,9,0
+2016-09-22,Indians,5,5,1,Royals,2,6,0
+2016-09-22,Marlins,3,6,0,Braves,6,7,1
+2016-09-22,Mets,9,11,0,Phillies,8,9,1
+2016-09-22,Rays,2,7,1,Yankees,0,8,0
+2016-09-22,Astros,0,8,1,Angels,2,5,1
+2016-09-22,Brewers,3,4,0,Pirates,1,5,0
+2016-09-22,Twins,2,4,2,Tigers,4,6,0
+2016-09-22,Dodgers,7,9,1,Rockies,4,7,0
+2016-09-22,Padres,1,6,0,Giants,2,6,1
+2016-09-23,Cubs,5,9,0,Cardinals,0,5,0
+2016-09-23,Orioles,3,9,0,Diamondbacks,2,9,2
+2016-09-23,Pirates,6,12,3,Nationals,5,13,0
+2016-09-23,Blue Jays,9,13,1,Yankees,0,3,2
+2016-09-23,Indians,10,13,0,White Sox,4,7,2
+2016-09-23,Mets,10,10,1,Phillies,5,10,2
+2016-09-23,Marlins,2,3,2,Braves,3,9,0
+2016-09-23,Rays,1,6,0,Red Sox,2,9,0
+2016-09-23,Tigers,8,9,0,Royals,3,11,3
+2016-09-23,Twins,1,5,2,Mariners,10,13,0
+2016-09-23,Astros,6,8,0,Angels,10,12,2
+2016-09-23,Brewers,5,8,2,Reds,4,9,1
+2016-09-23,Athletics,0,7,0,Rangers,3,4,0
+2016-09-23,Dodgers,5,8,2,Rockies,2,8,0
+2016-09-23,Padres,7,8,0,Giants,2,4,0
+2016-09-24,Tigers,4,14,1,Royals,7,10,1
+2016-09-24,Cubs,4,8,1,Cardinals,10,14,0
+2016-09-24,Athletics,0,5,1,Rangers,5,9,0
+2016-09-24,Blue Jays,3,6,0,Yankees,0,3,0
+2016-09-24,Rays,4,11,0,Red Sox,6,8,0
+2016-09-24,Pirates,1,8,3,Nationals,6,12,0
+2016-09-24,Orioles,6,10,0,Diamondbacks,1,7,2
+2016-09-24,Twins,3,3,2,Mariners,2,5,0
+2016-09-24,Indians,1,8,3,White Sox,8,15,1
+2016-09-24,Marlins,6,9,0,Braves,4,8,0
+2016-09-24,Mets,8,11,0,Phillies,10,17,2
+2016-09-24,Astros,4,8,2,Angels,10,12,1
+2016-09-24,Brewers,1,6,1,Reds,6,10,0
+2016-09-24,Padres,6,8,2,Giants,9,12,1
+2016-09-24,Dodgers,14,13,0,Rockies,1,6,3
+2016-09-25,Blue Jays,4,9,0,Yankees,3,8,1
+2016-09-25,Indians,0,2,3,White Sox,3,6,0
+2016-09-25,Mets,17,14,1,Phillies,0,3,0
+2016-09-25,Rays,2,7,1,Red Sox,3,8,0
+2016-09-25,Tigers,9,17,0,Royals,12,19,0
+2016-09-25,Pirates,7,7,1,Nationals,10,14,0
+2016-09-25,Orioles,2,5,1,Diamondbacks,1,4,1
+2016-09-25,Twins,3,9,3,Mariners,4,6,0
+2016-09-25,Astros,4,9,0,Angels,1,7,0
+2016-09-25,Brewers,2,7,2,Reds,4,8,1
+2016-09-25,Athletics,7,13,0,Rangers,1,5,0
+2016-09-25,Dodgers,4,12,0,Rockies,3,8,1
+2016-09-25,Padres,4,8,1,Giants,3,7,0
+2016-09-25,Cubs,3,8,0,Cardinals,1,5,0
+2016-09-26,Pirates,2,10,2,Cubs,12,18,0
+2016-09-26,Nationals,4,8,1,Diamondbacks,14,13,0
+2016-09-26,Blue Jays,5,6,2,Yankees,7,11,1
+2016-09-26,Marlins,7,14,1,Mets,3,7,0
+2016-09-26,Tigers,4,10,1,Indians,7,8,0
+2016-09-26,Rangers,3,8,0,Brewers,8,10,1
+2016-09-26,Astros,3,10,1,Mariners,4,12,0
+2016-09-26,White Sox,7,11,1,Rays,1,9,0
+2016-09-26,Cardinals,2,6,0,Reds,15,22,0
+2016-09-26,Angels,2,6,0,Athletics,1,4,0
+2016-09-27,Yankees,6,14,1,Red Sox,4,10,0
+2016-09-27,Nationals,4,3,0,Diamondbacks,2,6,0
+2016-09-27,Pirates,4,8,1,Cubs,6,8,2
+2016-09-27,Blue Jays,5,9,0,Orioles,1,8,1
+2016-09-27,Braves,7,10,1,Phillies,6,14,0
+2016-09-27,Marlins,1,6,0,Mets,12,19,1
+2016-09-27,Tigers,12,16,0,Indians,0,4,0
+2016-09-27,Royals,4,7,1,Twins,3,8,0
+2016-09-27,Rangers,6,7,0,Brewers,4,10,1
+2016-09-27,Astros,8,11,0,Mariners,4,11,2
+2016-09-27,White Sox,13,14,1,Rays,6,11,1
+2016-09-27,Cardinals,12,13,0,Reds,5,12,0
+2016-09-27,Angels,8,12,1,Athletics,1,6,1
+2016-09-27,Padres,7,6,0,Dodgers,1,5,1
+2016-09-27,Giants,12,19,0,Rockies,3,8,0
+2016-09-28,Astros,4,11,1,Mariners,12,15,0
+2016-09-28,Yankees,5,3,1,Red Sox,3,5,0
+2016-09-28,Pirates,8,12,2,Cubs,4,4,0
+2016-09-28,Nationals,0,5,1,Diamondbacks,3,8,0
+2016-09-28,Blue Jays,2,6,0,Orioles,3,11,2
+2016-09-28,Braves,12,13,0,Phillies,2,4,1
+2016-09-28,Marlins,2,7,0,Mets,5,10,1
+2016-09-28,Tigers,6,8,1,Indians,3,7,0
+2016-09-28,Royals,5,8,0,Twins,2,8,1
+2016-09-28,Rangers,8,10,2,Brewers,5,10,2
+2016-09-28,White Sox,1,5,0,Rays,0,3,0
+2016-09-28,Cardinals,1,7,2,Reds,2,10,0
+2016-09-28,Angels,8,10,0,Athletics,6,9,2
+2016-09-28,Padres,6,8,0,Dodgers,5,9,1
+2016-09-28,Giants,0,5,0,Rockies,2,9,0
+2016-09-29,Nationals,5,7,0,Diamondbacks,3,6,0
+2016-09-29,Yankees,5,8,0,Red Sox,1,4,0
+2016-09-29,Pirates,1,2,0,Cubs,1,4,1
+2016-09-29,Blue Jays,0,3,0,Orioles,4,9,0
+2016-09-29,Braves,5,7,0,Phillies,2,9,0
+2016-09-29,Cardinals,4,9,0,Reds,3,12,1
+2016-09-29,Royals,6,13,2,Twins,7,13,0
+2016-09-29,White Sox,3,8,0,Rays,5,11,0
+2016-09-29,Padres,4,14,0,Dodgers,9,15,2
+2016-09-29,Mariners,3,12,0,Athletics,2,9,0
+2016-09-29,Giants,7,10,0,Rockies,2,10,2
+2016-09-30,Phillies,1,7,1,Mets,5,9,0
+2016-09-30,Nationals,4,7,2,Marlins,7,12,0
+2016-09-30,Yankees,1,3,1,Orioles,8,10,1
+2016-09-30,Red Sox,5,10,0,Blue Jays,3,10,2
+2016-09-30,Reds,3,5,0,Cubs,7,8,0
+2016-09-30,Braves,2,6,0,Tigers,6,11,0
+2016-09-30,Rangers,3,10,2,Rays,1,4,0
+2016-09-30,Rockies,4,10,0,Brewers,1,8,0
+2016-09-30,White Sox,7,12,1,Twins,3,6,0
+2016-09-30,Cardinals,7,7,0,Pirates,0,5,2
+2016-09-30,Royals,2,5,2,Indians,7,10,0
+2016-09-30,Diamondbacks,5,6,3,Padres,3,9,0
+2016-09-30,Angels,7,6,0,Astros,1,8,1
+2016-09-30,Mariners,5,7,1,Athletics,1,2,0
+2016-09-30,Giants,9,13,0,Dodgers,3,9,0
+2016-10-01,Cardinals,4,11,0,Pirates,3,7,0
+2016-10-01,Phillies,3,8,0,Mets,5,11,0
+2016-10-01,Nationals,2,7,1,Marlins,1,4,0
+2016-10-01,Giants,3,7,0,Dodgers,0,3,1
+2016-10-01,Yankees,7,12,0,Orioles,3,9,0
+2016-10-01,Reds,7,10,0,Cubs,4,8,1
+2016-10-01,Royals,3,8,1,Indians,6,8,0
+2016-10-01,Braves,5,8,0,Tigers,3,7,0
+2016-10-01,Red Sox,3,5,0,Blue Jays,4,4,0
+2016-10-01,White Sox,0,4,0,Twins,6,5,0
+2016-10-01,Rangers,1,3,1,Rays,4,5,1
+2016-10-01,Rockies,3,12,1,Brewers,4,7,1
+2016-10-01,Diamondbacks,9,10,0,Padres,5,11,3
+2016-10-01,Angels,0,4,1,Astros,3,10,0
+2016-10-01,Mariners,8,13,2,Athletics,9,16,1
+2016-10-02,Rangers,4,11,2,Rays,6,13,0
+2016-10-02,Angels,8,9,0,Astros,1,7,0
+2016-10-02,Yankees,2,10,0,Orioles,5,7,0
+2016-10-02,Phillies,5,10,0,Mets,2,8,3
+2016-10-02,Giants,7,16,0,Dodgers,1,4,1
+2016-10-02,Red Sox,1,4,1,Blue Jays,2,9,0
+2016-10-02,Nationals,10,10,0,Marlins,7,14,0
+2016-10-02,Mariners,2,6,0,Athletics,3,7,0
+2016-10-02,Braves,1,6,0,Tigers,0,5,1
+2016-10-02,Diamondbacks,3,9,0,Padres,2,7,0
+2016-10-02,Reds,4,6,0,Cubs,7,9,0
+2016-10-02,Rockies,4,13,0,Brewers,6,10,1
+2016-10-02,White Sox,3,6,0,Twins,6,9,0
+2016-10-02,Cardinals,10,12,0,Pirates,4,9,2
+2016-10-02,Royals,2,6,0,Indians,3,4,0
