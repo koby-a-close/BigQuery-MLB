@@ -8,5 +8,5 @@ Queries written:
 -- Final home and away records for every team
 
 Python:
--- Box Score query ---> Final home and away records for every team
--- Box Score query ---> Home and away records for every team at every date in season
+-- Box Score query turned into Final home and away records for every team
+-- Box Score query turned into Home and away records for every team at every date in season
