@@ -1,3 +1,4 @@
-SELECT gameId, MAX(homeTeamName), MAX(homeFinalRuns), MAX(homeFinalHits), MAX(homeFinalErrors), MAX(awayTeamName), MAX(awayFinalRuns), MAX(awayFinalHits), MAX(awayFinalErrors)
+SELECT gameId, max(startTime) AS Date, max(homeTeamName) AS Home_Team, max(homeFinalRuns) AS Home_Runs, max(homeFinalHits) AS Home_Hits, max(homeFinalErrors) AS Home_Errors, max(awayTeamName) AS Away_Team, max(awayFinalRuns) AS Away_Runs, max(awayFinalHits) AS Away_Hits, max(awayFinalErrors) AS Away_Errors
 FROM `bigquery-public-data.baseball.games_wide`
 GROUP BY gameId
+ORDER BY Date
