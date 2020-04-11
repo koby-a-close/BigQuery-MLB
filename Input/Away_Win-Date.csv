@@ -1,0 +1,1064 @@
+Month,Day,Team,Away_Win
+4,3,Blue Jays,1
+4,4,Blue Jays,1
+4,4,Dodgers,1
+4,4,Giants,1
+4,4,Nationals,1
+4,5,Astros,1
+4,5,Cubs,1
+4,5,Mets,1
+4,5,Red Sox,1
+4,5,Rockies,1
+4,5,Tigers,1
+4,5,White Sox,1
+4,6,Cubs,1
+4,6,Dodgers,1
+4,6,Giants,1
+4,6,Mariners,2
+4,6,Nationals,1
+4,6,Rockies,1
+4,6,Tigers,1
+4,6,White Sox,1
+4,7,Dodgers,1
+4,7,Marlins,1
+4,7,White Sox,1
+4,8,Cardinals,1
+4,8,Cubs,1
+4,8,Indians,1
+4,8,Padres,1
+4,8,Pirates,1
+4,8,Red Sox,1
+4,9,Astros,1
+4,9,Athletics,1
+4,9,Cardinals,1
+4,9,Dodgers,1
+4,9,Phillies,1
+4,9,Rangers,1
+4,9,Red Sox,1
+4,9,Yankees,1
+4,10,Athletics,2
+4,10,Cardinals,1
+4,10,Cubs,2
+4,10,Padres,1
+4,10,Phillies,1
+4,10,Rangers,1
+4,11,Marlins,1
+4,11,Orioles,1
+4,11,Padres,1
+4,11,Pirates,1
+4,11,White Sox,1
+4,12,Angels,1
+4,12,Diamondbacks,1
+4,12,Marlins,1
+4,12,Orioles,1
+4,12,Rangers,1
+4,12,Yankees,1
+4,13,Angels,2
+4,13,Giants,1
+4,13,Indians,1
+4,13,Rangers,1
+4,13,Royals,1
+4,13,Tigers,1
+4,14,Brewers,1
+4,14,Indians,1
+4,14,Royals,1
+4,14,Tigers,1
+4,14,White Sox,2
+4,15,Braves,1
+4,15,Brewers,1
+4,15,Mariners,1
+4,15,Mets,1
+4,15,Nationals,1
+4,15,Rockies,1
+4,15,Royals,1
+4,15,White Sox,1
+4,16,Braves,1
+4,16,Diamondbacks,1
+4,16,Mariners,1
+4,16,Nationals,1
+4,16,Orioles,1
+4,16,Reds,1
+4,16,Royals,1
+4,16,Tigers,1
+4,17,Blue Jays,1
+4,17,Braves,1
+4,17,Giants,1
+4,17,Mets,1
+4,17,Rockies,1
+4,18,Blue Jays,1
+4,18,Mets,1
+4,18,Rockies,1
+4,19,Angels,1
+4,19,Athletics,1
+4,19,Blue Jays,1
+4,19,Brewers,1
+4,19,Cubs,1
+4,19,Diamondbacks,1
+4,19,Mets,1
+4,19,Nationals,1
+4,19,Rays,1
+4,20,Athletics,1
+4,20,Cubs,1
+4,20,Diamondbacks,1
+4,20,Dodgers,1
+4,20,Mariners,1
+4,20,Nationals,1
+4,20,Tigers,1
+4,21,Angels,1
+4,21,Athletics,1
+4,21,Cubs,1
+4,21,Diamondbacks,2
+4,21,Dodgers,1
+4,21,Mariners,1
+4,21,Rays,1
+4,21,Twins,1
+4,22,Athletics,1
+4,22,Cubs,1
+4,22,Indians,1
+4,22,Mets,1
+4,22,Pirates,1
+4,23,Indians,1
+4,23,Mariners,1
+4,23,Mets,1
+4,23,Orioles,1
+4,23,Phillies,2
+4,23,Pirates,1
+4,23,Red Sox,1
+4,24,Cardinals,2
+4,24,Cubs,1
+4,24,Dodgers,2
+4,24,Indians,1
+4,24,Mariners,1
+4,24,Marlins,1
+4,24,Mets,1
+4,24,Pirates,1
+4,24,Rays,1
+4,25,Red Sox,2
+4,25,White Sox,1
+4,26,Athletics,1
+4,26,Marlins,1
+4,26,Phillies,1
+4,26,Pirates,1
+4,26,Red Sox,1
+4,26,White Sox,1
+4,26,Yankees,1
+4,27,Cardinals,1
+4,27,Marlins,1
+4,27,Orioles,1
+4,27,Phillies,1
+4,27,Pirates,1
+4,27,White Sox,1
+4,28,Astros,1
+4,28,Braves,1
+4,28,Cardinals,1
+4,28,Indians,1
+4,28,Marlins,1
+4,28,Phillies,1
+4,28,Pirates,1
+4,29,Blue Jays,1
+4,29,Marlins,1
+4,30,Marlins,2
+4,30,Nationals,2
+4,30,Padres,1
+4,30,Rockies,1
+4,30,Tigers,2
+4,30,White Sox,1
+5,1,Angels,1
+5,1,Astros,1
+5,1,Blue Jays,1
+5,1,Braves,1
+5,1,Giants,1
+5,1,Nationals,1
+5,1,Padres,1
+5,1,Reds,1
+5,1,Rockies,2
+5,1,Royals,1
+5,1,Tigers,1
+5,1,White Sox,1
+5,2,Cubs,1
+5,2,Giants,1
+5,2,Rangers,1
+5,3,Braves,1
+5,3,Cubs,1
+5,3,Dodgers,1
+5,3,Giants,1
+5,3,Mariners,1
+5,3,Nationals,1
+5,3,Twins,1
+5,4,Angels,1
+5,4,Cubs,1
+5,4,Mariners,2
+5,4,Nationals,1
+5,4,Phillies,1
+5,4,Rockies,1
+5,4,Yankees,1
+5,5,Red Sox,1
+5,6,Diamondbacks,1
+5,6,Mariners,1
+5,6,Rangers,1
+5,6,Red Sox,1
+5,6,Rockies,1
+5,7,Athletics,1
+5,7,Brewers,1
+5,7,Diamondbacks,1
+5,7,Dodgers,1
+5,7,Mariners,1
+5,7,Phillies,1
+5,7,Pirates,1
+5,7,Rangers,1
+5,7,Rays,1
+5,7,Royals,1
+5,8,Brewers,1
+5,8,Diamondbacks,1
+5,8,Dodgers,1
+5,8,Mets,2
+5,8,Phillies,1
+5,8,Pirates,1
+5,8,Rangers,1
+5,8,Rays,2
+5,8,Rockies,1
+5,9,Red Sox,1
+5,10,Blue Jays,1
+5,10,Brewers,1
+5,10,Diamondbacks,1
+5,10,Mets,1
+5,10,Phillies,1
+5,10,Tigers,1
+5,10,White Sox,1
+5,11,Blue Jays,1
+5,11,Cardinals,1
+5,11,Diamondbacks,1
+5,11,Indians,1
+5,11,Orioles,2
+5,11,Padres,1
+5,11,Pirates,1
+5,11,Royals,1
+5,12,Cardinals,1
+5,12,Mets,1
+5,12,Padres,1
+5,12,Phillies,1
+5,13,Astros,1
+5,13,Athletics,1
+5,13,Cardinals,1
+5,13,Giants,1
+5,13,Padres,1
+5,13,White Sox,1
+5,14,Angels,1
+5,14,Blue Jays,1
+5,14,Braves,1
+5,14,Giants,1
+5,14,Marlins,1
+5,14,Padres,1
+5,14,Twins,1
+5,15,Angels,2
+5,15,Athletics,1
+5,15,Giants,2
+5,15,Marlins,1
+5,15,Pirates,1
+5,15,Reds,1
+5,15,Tigers,1
+5,15,Twins,1
+5,16,Cardinals,1
+5,16,Marlins,1
+5,16,Rays,1
+5,17,Angels,1
+5,17,Mariners,1
+5,17,Rays,1
+5,18,Astros,1
+5,18,Braves,1
+5,18,Giants,1
+5,18,Indians,1
+5,18,Nationals,1
+5,18,Rays,1
+5,18,Rockies,1
+5,19,Astros,1
+5,19,Cubs,1
+5,19,Giants,1
+5,19,Indians,1
+5,19,Mariners,1
+5,19,Nationals,1
+5,19,Red Sox,1
+5,19,Yankees,1
+5,20,Blue Jays,1
+5,20,Braves,1
+5,20,Giants,1
+5,20,Indians,1
+5,20,Mariners,1
+5,20,Nationals,1
+5,20,Rays,1
+5,20,Yankees,1
+5,21,Blue Jays,1
+5,21,Braves,1
+5,21,Cubs,1
+5,21,Diamondbacks,1
+5,21,Mariners,1
+5,21,Orioles,1
+5,21,Rangers,2
+5,21,Rockies,1
+5,21,Royals,2
+5,21,Yankees,2
+5,22,Blue Jays,1
+5,22,Diamondbacks,1
+5,22,Dodgers,1
+5,22,Mariners,1
+5,22,Nationals,1
+5,22,Orioles,1
+5,22,Rangers,1
+5,22,Yankees,1
+5,23,Mets,1
+5,24,Angels,1
+5,24,Athletics,1
+5,24,Brewers,1
+5,24,Cubs,1
+5,24,Indians,1
+5,24,Rays,1
+5,24,Royals,1
+5,25,Blue Jays,1
+5,25,Brewers,1
+5,25,Cubs,1
+5,25,Indians,2
+5,25,Marlins,1
+5,25,Mets,1
+5,25,Phillies,1
+5,25,Royals,1
+5,26,Blue Jays,1
+5,26,Brewers,1
+5,26,Marlins,1
+5,26,Rockies,1
+5,27,Cardinals,1
+5,27,Orioles,1
+5,27,Yankees,1
+5,28,Cardinals,1
+5,28,Dodgers,1
+5,28,Giants,1
+5,28,Padres,1
+5,28,Pirates,1
+5,28,Reds,1
+5,28,Tigers,1
+5,28,Twins,1
+5,29,Astros,2
+5,29,Giants,1
+5,29,Marlins,1
+5,29,Orioles,1
+5,29,Red Sox,1
+5,29,Twins,2
+5,29,Yankees,1
+5,30,Astros,1
+5,30,Cardinals,1
+5,30,Dodgers,1
+5,30,Nationals,1
+5,30,Pirates,1
+5,30,Rangers,1
+5,30,Red Sox,1
+5,30,Reds,1
+5,31,Astros,1
+5,31,Giants,1
+5,31,Nationals,1
+5,31,Rangers,1
+5,31,Red Sox,1
+5,31,White Sox,1
+6,1,Cardinals,1
+6,1,Dodgers,1
+6,1,Nationals,1
+6,1,Tigers,1
+6,1,White Sox,1
+6,2,Brewers,1
+6,2,Diamondbacks,1
+6,2,Giants,1
+6,2,Reds,1
+6,2,Yankees,1
+6,3,Angels,1
+6,3,Blue Jays,1
+6,3,Mariners,1
+6,3,Mets,1
+6,3,Reds,1
+6,4,Brewers,1
+6,4,Giants,1
+6,4,Mets,1
+6,4,Rays,2
+6,4,Yankees,1
+6,5,Angels,1
+6,5,Blue Jays,1
+6,5,Diamondbacks,1
+6,5,Nationals,1
+6,5,Rays,1
+6,6,Cubs,1
+6,6,Rockies,1
+6,7,Indians,1
+6,7,Rays,1
+6,7,Rockies,1
+6,8,Blue Jays,1
+6,8,Braves,1
+6,8,Cardinals,1
+6,8,Cubs,1
+6,8,Mets,1
+6,8,Nationals,1
+6,8,Rays,1
+6,8,Red Sox,1
+6,9,Astros,1
+6,9,Cardinals,1
+6,9,Nationals,1
+6,9,Orioles,1
+6,9,Rockies,1
+6,10,Cardinals,1
+6,10,Indians,1
+6,10,Marlins,1
+6,10,Mets,1
+6,11,Astros,1
+6,11,Cardinals,1
+6,11,Cubs,1
+6,11,Dodgers,1
+6,11,Indians,1
+6,11,Marlins,1
+6,11,Mets,1
+6,11,Padres,1
+6,11,Red Sox,2
+6,11,Royals,1
+6,11,Tigers,1
+6,12,Athletics,1
+6,12,Cardinals,1
+6,12,Cubs,1
+6,12,Indians,1
+6,12,Rangers,2
+6,12,Royals,1
+6,12,Tigers,1
+6,13,Phillies,1
+6,13,Reds,1
+6,14,Cubs,1
+6,14,Marlins,1
+6,14,Orioles,1
+6,14,Pirates,1
+6,14,Reds,1
+6,14,Twins,1
+6,15,Astros,2
+6,15,Blue Jays,1
+6,15,Dodgers,2
+6,15,Marlins,1
+6,15,Rangers,1
+6,15,Tigers,1
+6,16,Blue Jays,1
+6,16,Mariners,1
+6,16,Orioles,1
+6,16,Rangers,2
+6,17,Blue Jays,1
+6,17,Braves,1
+6,17,Brewers,1
+6,17,Diamondbacks,1
+6,17,Giants,1
+6,17,Mariners,1
+6,17,Nationals,1
+6,17,Tigers,1
+6,17,Yankees,1
+6,18,Angels,1
+6,18,Diamondbacks,1
+6,18,Giants,1
+6,18,Nationals,1
+6,18,Rangers,2
+6,18,Reds,1
+6,18,Yankees,2
+6,19,Angels,1
+6,19,Braves,2
+6,19,Diamondbacks,1
+6,19,Giants,1
+6,19,Rangers,1
+6,20,Diamondbacks,1
+6,20,Rockies,1
+6,20,White Sox,1
+6,21,Braves,1
+6,21,Cardinals,1
+6,21,Diamondbacks,1
+6,21,Giants,1
+6,21,Padres,1
+6,21,Rockies,1
+6,21,White Sox,1
+6,22,Brewers,1
+6,22,Cardinals,2
+6,22,Giants,1
+6,22,Reds,1
+6,22,White Sox,1
+6,23,Giants,1
+6,23,Padres,1
+6,23,Phillies,1
+6,24,Athletics,1
+6,24,Cubs,1
+6,24,Diamondbacks,1
+6,24,Indians,1
+6,24,Mets,1
+6,24,Padres,1
+6,25,Astros,2
+6,25,Athletics,1
+6,25,Blue Jays,1
+6,25,Diamondbacks,1
+6,25,Indians,1
+6,25,Mets,1
+6,25,Padres,1
+6,25,Red Sox,1
+6,26,Athletics,1
+6,26,Cardinals,1
+6,26,Indians,1
+6,26,Nationals,1
+6,26,Phillies,1
+6,26,Twins,1
+6,27,Cubs,1
+6,27,Dodgers,1
+6,27,Indians,1
+6,27,Rangers,1
+6,28,Astros,1
+6,28,Athletics,1
+6,28,Cubs,1
+6,28,Indians,1
+6,28,Phillies,1
+6,28,Rangers,1
+6,28,Red Sox,1
+6,29,Astros,2
+6,29,Athletics,1
+6,29,Blue Jays,2
+6,29,Cardinals,1
+6,29,Cubs,1
+6,29,Dodgers,1
+6,29,Indians,1
+6,29,Orioles,2
+6,29,Phillies,2
+6,29,Twins,1
+6,30,Dodgers,1
+6,30,Indians,1
+6,30,Pirates,1
+6,30,Royals,2
+6,30,Tigers,1
+7,1,Giants,1
+7,1,Indians,1
+7,1,Marlins,1
+7,1,Tigers,1
+7,2,Angels,1
+7,2,Giants,1
+7,2,Pirates,1
+7,2,Rangers,1
+7,2,Reds,1
+7,2,Royals,1
+7,2,Tigers,1
+7,2,White Sox,1
+7,3,Giants,1
+7,3,Pirates,2
+7,3,Tigers,1
+7,3,White Sox,1
+7,3,Yankees,1
+7,4,Athletics,1
+7,4,Brewers,1
+7,4,Marlins,1
+7,4,Pirates,1
+7,5,Angels,1
+7,5,Brewers,1
+7,5,Marlins,1
+7,5,Padres,1
+7,5,Rangers,1
+7,5,Reds,1
+7,6,Angels,1
+7,6,Orioles,2
+7,6,Pirates,1
+7,6,Reds,1
+7,6,Rockies,1
+7,6,Tigers,1
+7,6,Yankees,1
+7,7,Angels,1
+7,7,Padres,1
+7,7,Pirates,1
+7,7,Yankees,1
+7,8,Angels,1
+7,8,Athletics,1
+7,8,Braves,1
+7,8,Nationals,1
+7,8,Padres,1
+7,8,Twins,1
+7,9,Athletics,1
+7,9,Braves,1
+7,9,Cardinals,1
+7,9,Mariners,1
+7,9,Nationals,1
+7,9,Phillies,1
+7,9,Tigers,1
+7,9,Yankees,1
+7,10,Braves,1
+7,10,Cardinals,1
+7,10,Cubs,1
+7,10,Mariners,1
+7,10,Nationals,1
+7,10,Phillies,1
+7,10,Twins,2
+7,10,Yankees,1
+7,15,Mets,1
+7,15,Orioles,1
+7,15,Red Sox,1
+7,15,Rockies,1
+7,16,Astros,1
+7,16,Brewers,1
+7,16,Dodgers,1
+7,16,Indians,1
+7,16,Marlins,1
+7,16,Orioles,1
+7,16,Red Sox,1
+7,16,Rockies,1
+7,16,Royals,1
+7,17,Astros,1
+7,17,Blue Jays,1
+7,17,Indians,1
+7,17,Marlins,1
+7,17,Mets,1
+7,17,Pirates,1
+7,17,Rangers,1
+7,18,Marlins,1
+7,19,Braves,1
+7,19,Dodgers,1
+7,19,Marlins,1
+7,19,Mets,1
+7,19,Twins,1
+7,20,Astros,1
+7,20,Blue Jays,2
+7,20,Brewers,1
+7,20,Indians,2
+7,20,Rays,2
+7,20,Twins,1
+7,20,White Sox,1
+7,21,Dodgers,1
+7,21,Marlins,1
+7,21,Orioles,1
+7,22,Mariners,1
+7,22,Mets,1
+7,22,Padres,1
+7,22,Phillies,1
+7,22,Rays,1
+7,22,Tigers,1
+7,22,Twins,1
+7,23,Cubs,1
+7,23,Dodgers,1
+7,23,Giants,1
+7,23,Mariners,1
+7,23,Rangers,1
+7,23,Tigers,1
+7,23,Twins,1
+7,24,Cubs,1
+7,24,Diamondbacks,1
+7,24,Mets,1
+7,24,Padres,1
+7,24,Rangers,1
+7,25,Dodgers,1
+7,25,Phillies,1
+7,25,Tigers,1
+7,26,Angels,1
+7,26,Cardinals,1
+7,26,Mariners,1
+7,26,Reds,1
+7,26,Rockies,1
+7,26,Tigers,1
+7,26,Yankees,1
+7,27,Angels,1
+7,27,Athletics,1
+7,27,Braves,1
+7,27,Cardinals,1
+7,27,Nationals,1
+7,27,Padres,1
+7,27,Rays,1
+7,27,Reds,1
+7,27,Rockies,1
+7,27,Tigers,1
+7,27,Yankees,1
+7,28,Athletics,1
+7,28,Braves,1
+7,28,Cardinals,1
+7,28,Diamondbacks,1
+7,28,Phillies,1
+7,28,Rockies,1
+7,29,Cardinals,1
+7,29,Nationals,1
+7,29,Rockies,1
+7,30,Mariners,1
+7,30,Nationals,1
+7,30,Phillies,1
+7,30,Red Sox,1
+7,30,Reds,1
+7,30,Rockies,1
+7,30,White Sox,1
+7,31,Diamondbacks,1
+7,31,Orioles,1
+7,31,Red Sox,1
+7,31,Reds,1
+8,1,Royals,1
+8,1,Twins,1
+8,1,Yankees,1
+8,2,Nationals,1
+8,2,Pirates,1
+8,2,Red Sox,1
+8,2,Royals,1
+8,2,Twins,1
+8,3,Blue Jays,1
+8,3,Brewers,1
+8,3,Cardinals,1
+8,3,Nationals,2
+8,3,Twins,1
+8,4,Athletics,1
+8,4,Blue Jays,1
+8,4,Giants,1
+8,4,Mets,1
+8,4,Rangers,1
+8,4,White Sox,1
+8,5,Blue Jays,1
+8,5,Dodgers,1
+8,5,Red Sox,1
+8,5,Twins,1
+8,6,Blue Jays,1
+8,6,Braves,1
+8,6,Cubs,2
+8,6,Giants,1
+8,6,Indians,1
+8,6,Marlins,1
+8,6,Orioles,1
+8,6,Phillies,1
+8,6,Rangers,1
+8,6,Red Sox,1
+8,7,Braves,1
+8,7,Brewers,1
+8,7,Cubs,1
+8,7,Marlins,1
+8,7,Mets,1
+8,7,Orioles,1
+8,7,Phillies,1
+8,7,Rangers,1
+8,7,Reds,1
+8,7,Twins,1
+8,8,Braves,1
+8,8,Giants,1
+8,9,Diamondbacks,1
+8,9,Indians,1
+8,9,Rangers,2
+8,9,Rays,1
+8,10,Astros,1
+8,10,Braves,1
+8,10,Diamondbacks,1
+8,10,Giants,1
+8,10,Padres,1
+8,10,Phillies,1
+8,10,Reds,1
+8,10,White Sox,1
+8,10,Yankees,1
+8,11,Astros,2
+8,11,Diamondbacks,1
+8,11,Orioles,1
+8,11,Rockies,1
+8,11,Yankees,1
+8,12,Astros,1
+8,12,Braves,1
+8,12,Padres,1
+8,12,White Sox,1
+8,13,Cardinals,1
+8,13,Orioles,1
+8,13,Pirates,1
+8,13,Reds,2
+8,13,Royals,1
+8,13,White Sox,1
+8,14,Mariners,2
+8,14,Orioles,1
+8,14,Pirates,1
+8,14,Rays,1
+8,14,Royals,1
+8,14,Tigers,2
+8,15,Cardinals,1
+8,15,Marlins,1
+8,15,Red Sox,1
+8,15,Royals,1
+8,16,Blue Jays,1
+8,16,Dodgers,1
+8,16,Mariners,1
+8,16,Nationals,1
+8,16,Pirates,1
+8,16,Red Sox,1
+8,16,Royals,1
+8,16,Twins,1
+8,17,Blue Jays,1
+8,17,Cardinals,2
+8,17,Dodgers,1
+8,17,Mets,1
+8,17,Pirates,2
+8,17,Red Sox,1
+8,17,Royals,1
+8,17,Twins,1
+8,17,White Sox,1
+8,18,Mariners,1
+8,18,Nationals,1
+8,19,Astros,1
+8,19,Cardinals,1
+8,19,Marlins,1
+8,19,Nationals,1
+8,19,Rangers,1
+8,19,Red Sox,1
+8,20,Astros,1
+8,20,Athletics,1
+8,20,Blue Jays,1
+8,20,Marlins,1
+8,20,Mets,1
+8,20,Nationals,1
+8,20,Red Sox,1
+8,20,Yankees,1
+8,21,Astros,1
+8,21,Brewers,1
+8,21,Cardinals,1
+8,21,Cubs,1
+8,21,Diamondbacks,1
+8,21,Dodgers,1
+8,21,Marlins,1
+8,21,Yankees,1
+8,22,Astros,1
+8,22,Dodgers,1
+8,22,Mets,1
+8,22,Red Sox,1
+8,23,Cubs,1
+8,23,Indians,1
+8,23,Red Sox,1
+8,23,Royals,1
+8,24,Angels,1
+8,24,Astros,1
+8,24,Braves,1
+8,24,Cubs,2
+8,24,Mets,1
+8,24,Orioles,1
+8,24,Rangers,1
+8,24,Tigers,1
+8,24,Yankees,2
+8,25,Angels,1
+8,25,Mets,1
+8,25,Phillies,1
+8,25,Royals,1
+8,25,Tigers,2
+8,26,Braves,1
+8,26,Giants,1
+8,26,Pirates,1
+8,26,Royals,1
+8,27,Angels,1
+8,27,Athletics,1
+8,27,Cubs,1
+8,27,Indians,1
+8,27,Mariners,1
+8,27,Padres,1
+8,27,Pirates,2
+8,27,Rockies,1
+8,28,Angels,1
+8,28,Athletics,1
+8,28,Braves,1
+8,28,Orioles,1
+8,28,Padres,1
+8,28,Phillies,1
+8,28,Pirates,1
+8,28,Rays,1
+8,28,Reds,1
+8,28,Rockies,1
+8,29,Blue Jays,1
+8,29,Cardinals,1
+8,29,Nationals,1
+8,29,Royals,1
+8,30,Nationals,1
+8,30,Rays,1
+8,31,Blue Jays,1
+8,31,Cardinals,1
+8,31,Diamondbacks,1
+8,31,Nationals,1
+8,31,Yankees,1
+9,1,Dodgers,1
+9,1,Marlins,1
+9,1,Yankees,1
+9,2,Braves,1
+9,2,Brewers,1
+9,2,Nationals,1
+9,3,Braves,1
+9,3,Brewers,1
+9,3,Giants,1
+9,3,Padres,1
+9,3,Red Sox,1
+9,3,Tigers,1
+9,3,White Sox,1
+9,4,Angels,2
+9,4,Astros,1
+9,4,Blue Jays,1
+9,4,Braves,1
+9,4,Brewers,1
+9,4,Cardinals,1
+9,4,Diamondbacks,2
+9,4,Red Sox,1
+9,4,Tigers,1
+9,4,White Sox,1
+9,4,Yankees,1
+9,5,Angels,1
+9,5,Astros,1
+9,5,Cardinals,1
+9,5,Cubs,1
+9,5,Mets,1
+9,5,Orioles,1
+9,5,Phillies,1
+9,5,Royals,1
+9,5,Tigers,1
+9,6,Astros,1
+9,6,Cardinals,1
+9,6,Mets,1
+9,6,Orioles,1
+9,6,Phillies,1
+9,7,Giants,1
+9,7,Mets,1
+9,7,Rangers,1
+9,7,Red Sox,1
+9,7,Royals,1
+9,8,Brewers,1
+9,8,Phillies,1
+9,8,Red Sox,1
+9,9,Mets,1
+9,9,Red Sox,1
+9,9,Reds,1
+9,10,Cubs,1
+9,10,Dodgers,1
+9,10,Giants,1
+9,10,Indians,1
+9,10,Mariners,2
+9,10,Orioles,1
+9,10,Rangers,1
+9,10,Reds,1
+9,10,Rockies,1
+9,10,Royals,1
+9,11,Brewers,1
+9,11,Giants,2
+9,11,Indians,1
+9,11,Mariners,1
+9,11,Mets,1
+9,11,Orioles,1
+9,11,Rangers,1
+9,11,Rays,1
+9,11,Red Sox,1
+9,11,Reds,1
+9,11,Rockies,1
+9,11,Royals,1
+9,12,Athletics,1
+9,12,Cubs,1
+9,12,Dodgers,1
+9,13,Athletics,1
+9,13,Cubs,1
+9,13,Mariners,1
+9,13,Marlins,1
+9,13,Mets,1
+9,13,Orioles,1
+9,13,Padres,1
+9,13,Pirates,1
+9,13,Rangers,1
+9,13,Rays,1
+9,13,Twins,1
+9,14,Athletics,1
+9,14,Brewers,1
+9,14,Cubs,1
+9,14,Dodgers,1
+9,14,Mariners,1
+9,14,Marlins,1
+9,14,Orioles,1
+9,14,Padres,2
+9,14,Rangers,1
+9,14,Rays,1
+9,15,Athletics,1
+9,15,Indians,1
+9,15,Mariners,1
+9,15,Pirates,1
+9,15,Rays,1
+9,15,Twins,1
+9,16,Blue Jays,1
+9,16,Brewers,1
+9,16,Nationals,1
+9,16,Pirates,1
+9,17,Astros,1
+9,17,Blue Jays,1
+9,17,Brewers,1
+9,17,Dodgers,1
+9,17,Pirates,2
+9,17,Rays,1
+9,17,White Sox,1
+9,18,Astros,1
+9,18,Athletics,2
+9,18,Brewers,1
+9,18,Cardinals,2
+9,18,Dodgers,1
+9,18,Marlins,1
+9,18,Tigers,1
+9,19,Braves,1
+9,19,Red Sox,1
+9,20,Astros,1
+9,20,Blue Jays,1
+9,20,Braves,1
+9,20,Cardinals,1
+9,20,Red Sox,1
+9,20,Yankees,1
+9,21,Astros,2
+9,21,Blue Jays,1
+9,21,Braves,1
+9,21,Cardinals,1
+9,21,Giants,1
+9,21,Nationals,1
+9,21,Pirates,1
+9,21,Red Sox,1
+9,21,Tigers,1
+9,21,Yankees,1
+9,22,Angels,1
+9,22,Braves,1
+9,22,Diamondbacks,1
+9,22,Pirates,1
+9,22,Red Sox,1
+9,22,Tigers,1
+9,23,Angels,1
+9,23,Braves,1
+9,23,Giants,1
+9,23,Red Sox,1
+9,23,Tigers,1
+9,24,Angels,2
+9,24,Cardinals,1
+9,24,Mariners,1
+9,24,Nationals,1
+9,24,Phillies,1
+9,24,Rangers,2
+9,24,Red Sox,1
+9,24,Reds,1
+9,24,Royals,1
+9,24,White Sox,1
+9,25,Giants,1
+9,25,Mariners,1
+9,25,Nationals,1
+9,25,Red Sox,1
+9,25,Reds,1
+9,25,Royals,1
+9,25,White Sox,1
+9,26,Cubs,1
+9,26,Diamondbacks,1
+9,26,Indians,1
+9,26,Yankees,1
+9,27,Brewers,1
+9,27,Cubs,1
+9,27,Mariners,1
+9,27,Mets,1
+9,27,Reds,1
+9,28,Diamondbacks,1
+9,28,Mariners,1
+9,28,Mets,1
+9,28,Orioles,1
+9,29,Orioles,1
+9,29,Reds,1
+9,29,Rockies,1
+9,29,Twins,1
+9,30,Cubs,1
+9,30,Dodgers,1
+9,30,Marlins,1
+9,30,Mets,1
+9,30,Orioles,1
+9,30,Rays,1
+9,30,Tigers,1
+10,1,Blue Jays,1
+10,1,Indians,2
+10,1,Mets,1
+10,1,Twins,1
+10,2,Astros,1
+10,2,Athletics,2
+10,2,Blue Jays,1
+10,2,Brewers,2
+10,2,Cubs,1
+10,2,Indians,1
+10,2,Orioles,1
+10,2,Rays,2
+10,2,Twins,1
